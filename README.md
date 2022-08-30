@@ -1,37 +1,58 @@
-# 淘宝-1688-京东爬取
+# MarketSpider
 
-#### 介绍
-淘宝、京东、拼多多、1688、京喜信息爬虫。方便自动化的获取指定关键词的商品链接、商品价格、商品名称、店铺名称、店铺链接等信息。配合Tkinter的GUI界面，可以清晰监测运行状态。
-
-#### 软件架构
-软件架构说明
+[![OSCS Status](https://www.oscs1024.com/platform/badge/zhangjiancong/MarketSpider.svg?size=small)](https://www.oscs1024.com/project/zhangjiancong/MarketSpider?ref=badge_small)  
+淘宝、京东、拼多多、1688、京喜信息爬虫。方便自动化的获取指定关键词的商品链接、商品价格、商品名称、店铺名称、店铺链接等信息。配合Tkinter的GUI界面，可以清晰监测运行状态。  
+不是专业程序员，仅为Python和web自动化爱好者，欢迎提供建议和程序改进！
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+**2022年7月7日 清空所有commits，准备重新优化程序结构**
+> **免责声明**
+> 1. 本程序仅供用于交流学习原理使用。禁止用于商业活动或其他非法用途。
+> 2. 对于被爬虫网站请遵守robots协议指引爬取数据。
+> 3. 对于不遵守以上规定的，程序编写者不承担任何责任。
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 快速指引
+
+#### 1、Python与Python包配置
+
+1. 正确安装Python3，建议安装Python3.8以上环境。
+2. (可选)建立Venv环境
+3. 在终端下运行`pip install -r requirements.txt`，安装所需包。
+
+#### 2、WebDriver配置
+
+通过使用WebDriver，Selenium可以操作市场上主流浏览器。通过以下链接可以前往下载站点。下载后将其放置在本程序文件夹内即可。  
+注意需要使用与您浏览器安装版本相对应的WebDriver。  
+[Google Chrome](https://chromedriver.storage.googleapis.com/index.html) |
+[MS Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) |
+[Selenium-Install Drivers指引](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)  
+程序默认使用Google Chrome浏览器，如果您需要使用其他浏览器，请按照下方指引更改代码。
+
++ 程序文件中的`options = webdriver.ChromeOptions()`更改为对应浏览器，如Edge则更改为`options = webdriver.EdgeOptions()`
++ 程序文件中的`driver=webdriver.Chrome(options=options)`更改为对应浏览器，如Edge则更改为`driver=webdriver.Edge(options=options)`
+
+详细的指引可以参阅Selenium的Webdriver文档，[点击此处跳转](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
+#### 3、启动对应程序开始使用
+
+## 拼多多、京喜平台特别说明
+拼多多、京喜平台因技术原因，使用半自动化方案，手动保存浏览器的请求，使用对应程序进行读取并保存成为CSV文件。无需使用Selenium环境。如何获取HAR文件可至[HAR文件获取](/docs/get_har.md)
+## 文件结构
+
+| 文件名                  | 备注              |
+|----------------------|-----------------|
+| \ functions          | 自定义包            |
+| GetCookie.py         | 用于自动化获取登录cookie |
+| jdSpider.py          | 京东商城爬虫程序        |
+| taobaoSpider.py      | 淘宝网爬虫程序         |
+| 1688Spider.py        | 阿里巴巴1688爬虫程序    |
+| error.wav            | 错误提示音乐          |
+| requirements.txt     | pip依赖列表         |
+| jingxi_HAR_reader.py | 京喜HAR读取程序       |
+| pdd_HAR_reader.py    | 拼多多HAR读取程序      |
+
+
+## 使用教程
+[Github Wiki](https://github.com/zhangjiancong/MarketSpider/wiki)
