@@ -2,11 +2,9 @@
 
 [![OSCS Status](https://www.oscs1024.com/platform/badge/zhangjiancong/MarketSpider.svg?size=small)](https://www.oscs1024.com/project/zhangjiancong/MarketSpider?ref=badge_small)  
 淘宝、京东、拼多多、1688、京喜信息爬虫。方便自动化的获取指定关键词的商品链接、商品价格、商品名称、店铺名称、店铺链接等信息。配合Tkinter的GUI界面，可以清晰监测运行状态。  
-不是专业程序员，仅为Python和web自动化爱好者，欢迎提供建议和程序改进！
+欢迎提供建议和程序改进！
 
 
-
-**2022年7月7日 清空所有commits，准备重新优化程序结构**
 > **免责声明**
 > 1. 本程序仅供用于交流学习原理使用。禁止用于商业活动或其他非法用途。
 > 2. 对于被爬虫网站请遵守robots协议指引爬取数据。
