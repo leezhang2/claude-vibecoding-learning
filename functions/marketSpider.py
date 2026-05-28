@@ -8,6 +8,7 @@ from tkinter import filedialog, messagebox
 from playsound import playsound
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+import os
 
 
 class Spider:
@@ -37,7 +38,33 @@ class Spider:
 class browserObj:
     def __init__(self):
         self.options = webdriver.ChromeOptions()
-        self.options.add_argument("--disable-blink-features=AutomationControlled")
+
+        # # 获取当前脚本所在目录的绝对路径
+        # current_dir = os.path.dirname(os.path.abspath(__file__))
+        # # 指定用户数据目录
+        # chrome_profile = os.path.join(current_dir, "chrome_profile")
+        #
+        # # 确保目录存在
+        # if not os.path.exists(chrome_profile):
+        #     print(f"创建用户数据目录: {chrome_profile}")
+        #     os.makedirs(chrome_profile)
+        # else:
+        #     print(f"使用已存在的用户数据目录: {chrome_profile}")
+        #
+        # self.options.add_argument(f'--user-data-dir={chrome_profile}')
+
+        # 如需使用无头模式，可取消下面一行注释
+        # options.headless = True
+        # 添加更多反爬虫配置
+        self.options.add_argument('--disable-blink-features=AutomationControlled')  # 关闭自动化标记
+        self.options.add_argument('--disable-gpu')
+        self.options.add_argument('--no-sandbox')
+        self.options.add_argument('--disable-dev-shm-usage')
+        self.options.add_argument('--window-size=1920,1080')
+        self.options.add_argument(
+            'user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 ')
+
+        # self.options.add_argument("--disable-blink-features=AutomationControlled")
         self.options.add_experimental_option('excludeSwitches', ['enable-logging'])
         self.browserWin = webdriver.Chrome(options=self.options)
         self.browserWin.implicitly_wait(8)
