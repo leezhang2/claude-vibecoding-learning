@@ -1,0 +1,503 @@
+{
+  "item_no": 36,
+  "keyword": "包包",
+  "title_cn": "春日多巴胺撞色沙滩包网兜镂空编织袋海岛度假野餐旅行单肩手提包",
+  "price_cny": 16.8,
+  "shop_name": "昌邑臻品女包厂",
+  "item_link": "http://detail.m.1688.com/page/index.html?offerId=1033848217548&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=d41cb76b4ff54a6e85177b6c01b7fa9a&skuId=6047445036840",
+  "shop_link": "http://zhenpinxiangbao.1688.com/",
+  "specs": [
+    {
+      "name": "网兜尼龙背心包-宝蓝",
+      "price_cny": 16.8,
+      "image_path": "商品规格/网兜尼龙背心包-宝蓝——16.80/001.jpg"
+    },
+    {
+      "name": "网兜尼龙背心包-浅绿",
+      "price_cny": 16.8,
+      "image_path": "商品规格/网兜尼龙背心包-浅绿——16.80/001.jpg"
+    },
+    {
+      "name": "网兜尼龙背心包-粉色",
+      "price_cny": 16.8,
+      "image_path": "商品规格/网兜尼龙背心包-粉色——16.80/001.jpg"
+    },
+    {
+      "name": "网兜尼龙背心包-黄色",
+      "price_cny": 16.8,
+      "image_path": "商品规格/网兜尼龙背心包-黄色——16.80/001.jpg"
+    },
+    {
+      "name": "网兜尼龙背心包-深棕",
+      "price_cny": 16.8,
+      "image_path": "商品规格/网兜尼龙背心包-深棕——16.80/001.jpg"
+    }
+  ],
+  "detail_images": [
+    "商品详情图片/001.jpg",
+    "商品详情图片/002.jpg",
+    "商品详情图片/003.jpg",
+    "商品详情图片/004.jpg",
+    "商品详情图片/005.jpg",
+    "商品详情图片/006.jpg",
+    "商品详情图片/007.jpg",
+    "商品详情图片/008.jpg",
+    "商品详情图片/009.jpg",
+    "商品详情图片/010.jpg",
+    "商品详情图片/011.jpg",
+    "商品详情图片/012.jpg",
+    "商品详情图片/013.jpg",
+    "商品详情图片/014.jpg",
+    "商品详情图片/015.jpg",
+    "商品详情图片/016.jpg"
+  ],
+  "scraped_at": "2026-05-29T17:39:36",
+  "status": "images_processed",
+  "folder_path": "D:\\demo\\llm-learning\\claude-vibecoding-learning\\Asia-Ai-Pipeline\\output\\包包-1688-2026-05-29_17-02\\36",
+  "localization": {
+    "SG": {
+      "title": "Multi-Color Dopamine Beach Bag - Striped Mesh Knit Tote for Picnic, Travel & Vacation",
+      "description": "Brighten up your sunny day outings with this vibrant striped mesh beach bag! Perfect for Singapore's island lifestyle, it's ideal for picnics at East Coast Park, lazy beach days at Sentosa, or a casual shopping trip. The breathable knit design keeps sand out while carrying your towel, sunscreen, and snacks. Lightweight and easy to fold, it's your go-to companion for spontaneous adventures. Available in 5 playful colors: electric blue, mint green, soft pink, sunny yellow, and earthy brown.",
+      "keywords": [
+        "beach bag",
+        "vacation tote",
+        "picnic bag",
+        "everyday carry",
+        "Singapore summer"
+      ],
+      "selling_points": [
+        "Lightweight mesh knit: shake off sand easily, no more gritty mess!",
+        "Spacious enough for a beach towel, book, and snacks - all in one bag.",
+        "5 trendy dopamine colors: match your mood or outfit for that OOTD.",
+        "Folds into a pouch: stash it in your handbag for spontaneous beach trips."
+      ],
+      "hashtags": [
+        "#BeachBagSG",
+        "#PicnicReady",
+        "#DopamineDressing",
+        "#SingaporeSummer",
+        "#CasualTote"
+      ],
+      "specs": [
+        {
+          "name_cn": "网兜尼龙背心包-宝蓝",
+          "name_local": "Mesh Knit Tote - Electric Blue"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-浅绿",
+          "name_local": "Mesh Knit Tote - Mint Green"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-粉色",
+          "name_local": "Mesh Knit Tote - Soft Pink"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-黄色",
+          "name_local": "Mesh Knit Tote - Sunny Yellow"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-深棕",
+          "name_local": "Mesh Knit Tote - Earthy Brown"
+        }
+      ],
+      "cta": "Snag yours now before the sun goes out! ☀️",
+      "price_local": 11.9,
+      "currency": "SGD",
+      "exchange_rate": 0.185,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:32"
+    },
+    "PH": {
+      "title": "Spring Dopamine Color Beach Bag - Mesh Crochet Tote for Picnic, Travel, Shopping",
+      "description": "pa-RATE na ang summer vibes with our dopamine-colored mesh beach bag! Perfect for beach days, picnics, or grocery runs. Lightweight yet durable nylon crochet design holds your essentials while adding a pop of color. Grabe, ang cute ng colors! Available in 5 shades: blue, light green, pink, yellow, and dark brown. Upland na agad!",
+      "keywords": [
+        "mesh beach bag",
+        "crochet tote",
+        "dopamine fashion",
+        "summer bag philippines",
+        "picnic bag"
+      ],
+      "selling_points": [
+        "5 vibrant colors to match any outfit - from beach to street",
+        "Lightweight nylon crochet: carry everything without the weight",
+        "Multipurpose use: beach, travel, grocery, or everyday tote"
+      ],
+      "hashtags": [
+        "#BeachBagPH",
+        "#DopamineFashion",
+        "#SummerVibes",
+        "#TikTokMadeMeBuyIt",
+        "#CrochetTote"
+      ],
+      "specs": [
+        {
+          "name_cn": "宝蓝",
+          "name_local": "Royal Blue"
+        },
+        {
+          "name_cn": "浅绿",
+          "name_local": "Light Green"
+        },
+        {
+          "name_cn": "粉色",
+          "name_local": "Pink"
+        },
+        {
+          "name_cn": "黄色",
+          "name_local": "Yellow"
+        },
+        {
+          "name_cn": "深棕",
+          "name_local": "Dark Brown"
+        }
+      ],
+      "cta": "Sulit deals! Order now - limited stocks!",
+      "price_local": 459.0,
+      "currency": "PHP",
+      "exchange_rate": 8.0,
+      "markup": 3.2,
+      "generated_at": "2026-05-30T14:12:32"
+    },
+    "TH": {
+      "title": "กระเป๋าชายหาดลายตาข่ายสีสันสดใส ใส่ของได้เยอะ พกพาสะดวก เหมาะกับปาร์ตี้ทะเลและปิกนิก",
+      "description": "กระเป๋าชายหาดลายตาข่ายสุดเก๋ สีสันสดใสแบบโดปามีน ให้ลุคชิลๆ สายฝอ ได้ทั้งใส่ของจำเป็นไปเที่ยวทะเล ปิกนิก หรือใส่ของใช้ประจำวัน วัสดุไนลอนทนทาน เปียกน้ำก็ไม่เสียหาย พกพาสะดวกด้วยดีไซน์คล้องไหล่ มีหลายสีให้เลือก ถูกใจคนรักธรรมชาติและแฟชั่นสุดๆ",
+      "keywords": [
+        "กระเป๋าชายหาด",
+        "กระเป๋าตาข่าย",
+        "กระเป๋าลายตาข่าย",
+        "กระเป๋าใส่ของ"
+      ],
+      "selling_points": [
+        "ดีไซน์โปร่งใส สีสันสดใส ใส่ของแล้วเห็นชัด",
+        "วัสดุไนลอนทนน้ำ ทนทาน ใช้ได้ทุกที่",
+        "หลายสีให้เลือก โดนใจทุกสไตล์"
+      ],
+      "hashtags": [
+        "#กระเป๋าชายหาด",
+        ""
+      ],
+      "specs": [
+        {
+          "name_cn": "网兜尼龙背心包-宝蓝",
+          "name_local": "กระเป๋าคล้องไหล่ไนลอนลายตาข่าย - สีกรมท่า"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-浅绿",
+          "name_local": "กระเป๋าคล้องไหล่ไนลอนลายตาข่าย - สีเขียวอ่อน"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-粉色",
+          "name_local": "กระเป๋าคล้องไหล่ไนลอนลายตาข่าย - สีชมพู"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-黄色",
+          "name_local": "กระเป๋าคล้องไหล่ไนลอนลายตาข่าย - สีเหลือง"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-深棕",
+          "name_local": "กระเป๋าคล้องไหล่ไนลอนลายตาข่าย - สีน้ำตาลเข้ม"
+        }
+      ],
+      "cta": "ของมันต้องมี! สั่งเลยวันนี้ ลดราคาพิเศษ!",
+      "price_local": 329.0,
+      "currency": "THB",
+      "exchange_rate": 5.0,
+      "markup": 3.5,
+      "generated_at": "2026-05-30T14:12:33"
+    },
+    "ID": {
+      "title": "Tas Pantai Rajut Warna-warni untuk Liburan, Gaya Sehari-hari Cocok untuk Jalan-jalan",
+      "description": "Bosan dengan tas monotone? Saatnya tampil beda dengan tas rajut warna-warni ini! Cocok untuk hangout di pantai, piknik, atau jalan-jalan santai. Dibuat dari nilon yang ringan dan kuat, bisa dilipat jadi kecil. 5 pilihan warna ceria yang bikin outfit kamu makin kece. Buruan checkout sebelum kehabisan!",
+      "keywords": [
+        "tas rajut",
+        "tas pantai",
+        "tas warna-warni",
+        "tas nilon"
+      ],
+      "selling_points": [
+        "Bahan nilon ringan & kuat, bisa dilipat jadi kecil",
+        "5 pilihan warna ceria: biru, hijau, pink, kuning, coklat",
+        "Cocok untuk pantai, piknik, belanja, dan aktivitas outdoor lainnya"
+      ],
+      "hashtags": [
+        "#TasRajut",
+        "#TasPantai",
+        "#OOTD",
+        "#Liburan",
+        "#FashionMurah"
+      ],
+      "specs": [
+        {
+          "name_cn": "网兜尼龙背心包-宝蓝",
+          "name_local": "Tas Rajut Nylon - Biru"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-浅绿",
+          "name_local": "Tas Rajut Nylon - Hijau Muda"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-粉色",
+          "name_local": "Tas Rajut Nylon - Pink"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-黄色",
+          "name_local": "Tas Rajut Nylon - Kuning"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-深棕",
+          "name_local": "Tas Rajut Nylon - Coklat Tua"
+        }
+      ],
+      "cta": "Stok terbatas! Beli sekarang juga!",
+      "price_local": 146000.0,
+      "currency": "IDR",
+      "exchange_rate": 2200.0,
+      "markup": 3.8,
+      "generated_at": "2026-05-30T14:12:32"
+    },
+    "MY": {
+      "title": "Beg Jaring Warna-warni untuk Percutian & Piknik | Beg Tote Pantai Viral TikTok",
+      "description": "Tambah seri percutian anda dengan beg jaring warna-warni ini! Sesuai untuk ke pantai, piknik, atau bercuti. Reka bentuk jaring yang ringan dan lapang, mudah membawa barang keperluan. Padanan warna ‘dopamine’ akan buatkan anda tampil lebih ceria dan bergaya. Gunakan juga sebagai prop foto aesthetic! Dapatkan sekarang dan jadi tumpuan di TikTok!",
+      "keywords": [
+        "beg jaring",
+        "beg pantai",
+        "beg tote",
+        "beg percutian",
+        "beg viral tiktok"
+      ],
+      "selling_points": [
+        "Reka bentuk jaring yang ringan dan mudah dilipat, muat masuk dalam beg kecil.",
+        "7 warna terang ala 'dopamine dressing' untuk gaya yang lebih ceria dan menyerlah.",
+        "Sesuai untuk pantai, piknik, membeli-belah atau sebagai beg prop foto aesthetic."
+      ],
+      "hashtags": [
+        "#begjaring",
+        "#begpantai",
+        "#pilihanviral",
+        "#ootdpantai",
+        "#tiktokmalaysia"
+      ],
+      "specs": [
+        {
+          "name_cn": "网兜尼龙背心包-宝蓝",
+          "name_local": "Beg Jaring Nylon - Biru Cobalt"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-浅绿",
+          "name_local": "Beg Jaring Nylon - Hijau Muda"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-粉色",
+          "name_local": "Beg Jaring Nylon - Merah Jambu"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-黄色",
+          "name_local": "Beg Jaring Nylon - Kuning"
+        },
+        {
+          "name_cn": "网兜尼龙背心包-深棕",
+          "name_local": "Beg Jaring Nylon - Coklat Tua"
+        }
+      ],
+      "cta": "Stok terhad! Grab sekarang sebelum habis!",
+      "price_local": 34.9,
+      "currency": "MYR",
+      "exchange_rate": 0.63,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:33"
+    }
+  },
+  "image_text_translations": {
+    "SG": {
+      "上口宽36cm": "Top width 36cm",
+      "（手工测量有1-5CM误差，仅供参考，不作为退换凭证": "(Manual measurement may have 1-5cm error, for reference only, not as return/exchange proof)",
+      "面料：涤纶": "Material: Polyester",
+      "重量：0.12KG": "Weight: 0.12kg",
+      "结构：主袋敞口": "Structure: Open main compartment",
+      "关于面料": "About the fabric",
+      "纯棉染色植物褪色和缩水是不可避免的": "Fading and shrinkage are normal for dyed cotton",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺": "Unbleached canvas is soft, durable, breathable, and has a natural look",
+      "上面偶尔的黑点点和小棉结是天然的材质，是布料的特质，不是瑕疵哦": "Occasional black specks and neps are natural fabric features, not flaws",
+      "介意的宝宝慎拍呢": "If you mind, please think twice before ordering",
+      "关于洗涤与保养，记得拖到最底部哦～": "For washing & care, scroll all the way down!",
+      "这个网兜尼龙背心包真的爱了": "Love this mesh nylon vest bag!",
+      "网兜超有设计感": "Mesh is super stylish.",
+      "春夏搭配非常亮眼": "Perfect for spring/summer, really stands out.",
+      "容量也很大": "Spacious too.",
+      "随便一背都好看": "Looks good no matter how you wear it.",
+      "浅色面料会有轻微杂色，": "Light fabric may have slight color variations.",
+      "帆布面料通病会有点味道，大家简单通风就没有啦": "Canvas fabric may have a slight smell, just air it out and it's gone.",
+      "都是正常现象哦不属于质量问题，介意者慎拍~": "These are normal, not quality issues. If you mind, please think twice before ordering.",
+      "帆布产品绝对不建议机洗和长时间浸泡，详细请看洗涤说明": "Machine washing and long soaking are not recommended for canvas products. See washing instructions for details.",
+      "一关于色差一": "Colour may vary slightly due to lighting and screen settings. Actual product colour applies.",
+      "洗涤保养": "Washing & Care",
+      "一、正确洗涤方式：": "1. Correct washing method:",
+      "先把洗涤剂在冷水抛开，再将包包浸泡洗涤，请勿将洗涤剂直、接倒在帆布包.上，很容易造成局部褪色。": "First dissolve detergent in cold water, then soak the bag. Do not pour detergent directly onto the canvas bag, as it may cause local fading.",
+      "白色/米色帆布包洗涤：": "2. Washing white/beige canvas bags:",
+      "若是白色/米白的的帆布包，请一定一定一定要把洗涤剂漂洗、干净。否则晒干后，会有泛黄痕迹。": "For white/off-white canvas bags, make sure to rinse off all detergent. Otherwise, yellow stains may appear after drying.",
+      "或洗涤后，在包包上的表面铺一上纸市晒干，纸巾可以吸掉漂、不干净的洗涤剂水（百色帆布鞋也可以用此方法）": "Or after washing, lay a paper towel on the bag's surface and dry it. The paper towel will absorb any remaining detergent (this also works for white canvas shoes).",
+      "注意事项：": "3. Notes:",
+      "1.深色（黑色、酒红、深蓝等）布包多少都会有点掉色，建议初次使用时不要穿浅色衣服，多次洗涤后，掉色情况会减弱或消失。": "1. Dark-colored bags (black, burgundy, navy, etc.) may fade a bit. Avoid wearing light-colored clothes when first using. Fading will reduce or stop after several washes.",
+      "2.帆布包洗涤易褪色，请单独洗涤，请不要使用含有强力漂白、去污能力的洗涤剂（客户反应使用蓝月亮洗衣液此说法居多）": "2. Canvas bags fade easily, so wash them separately. Do not use strong bleach or stain removers (customers often mention this when using Blue Moon laundry detergent).",
+      "3.请用冷水浸泡洗涤，尽量用手洗，不要用机洗。": "3. Soak and wash in cold water, preferably by hand, not machine.",
+      "4.请不要用刷子刷洗，会损环布料、印花和皮料。": "4. Do not scrub with a brush, as it may damage the fabric, print, and leather.",
+      "5.不可暴晒，建议阴凉通风处晾干。": "5. Do not expose to direct sunlight. Dry in a cool, ventilated area.",
+      "未经化学漂白的帆布": "Unbleached canvas, no chemicals used",
+      "柔软有韧性": "Soft yet durable",
+      "耐用、卫生、透、气是公认的特点": "Known for being durable, hygienic, and breathable",
+      "颜色也更自然文艺": "More natural and artistic colour",
+      "上面偶尔的黑点点和小棉结是天然的材质": "Occasional black specks and cotton knots are natural",
+      "是布料的、特质，不是瑕疵哦": "It's a feature of the fabric, not a flaw",
+      "介意的宝宝慎拍呢~": "If you mind, please think twice before ordering",
+      "由于拍摄光线、显示器等因素影响，图片与实物可能会存在、轻微色差，具体颜色以收到实物为准。": "Actual colour may vary slightly due to lighting and screen settings. Please refer to the actual product.",
+      "1.深色（黑色、酒红、深蓝等）布包多少都会有点掉色，建议初次、使用时不要穿浅色衣服，多次洗涤后，掉色情况会减弱或消失。": "1. Dark-colored bags (black, wine red, dark blue, etc.) may fade a bit. Avoid wearing light-colored clothes when using them for the first time. Fading will reduce or disappear after several washes."
+    },
+    "TH": {
+      "上口宽36cm": "ปากกว้าง 36 ซม.",
+      "（手工测量有1-5CM误差，仅供参考，不作为退换凭证": "(วัดด้วยมือ คลาดเคลื่อน 1-5 ซม. แค่อ้างอิง ไม่ใช่หลักฐานเปลี่ยนคืน)",
+      "面料：涤纶": "ผ้า: โพลีเอสเตอร์",
+      "重量：0.12KG": "น้ำหนัก: 0.12 กก.",
+      "结构：主袋敞口": "โครงสร้าง: กระเป๋าหลักปากเปิด",
+      "关于面料": "เกี่ยวกับผ้า",
+      "纯棉染色植物褪色和缩水是不可避免的": "ผ้าฝ้ายย้อมสีธรรมชาติ การซีดจางและการหดตัวเป็นสิ่งที่หลีกเลี่ยงไม่ได้",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺": "ผ้าใบที่ไม่ผ่านการฟอกขาวด้วยสารเคมี นุ่มและยืดหยุ่น ทนทาน สะอาด ระบายอากาศได้ดี สีสันเป็นธรรมชาติและมีสไตล์",
+      "上面偶尔的黑点点和小棉结是天然的材质，是布料的、特质，不是瑕疵哦": "จุดดำเล็กๆ และปุยฝ้ายที่พบเป็นครั้งคราวเป็นลักษณะธรรมชาติของเนื้อผ้า ไม่ใช่ตำหนินะ",
+      "介意的宝宝慎拍呢~": "หากกังวลใจ กรุณาคิดให้ดีก่อนสั่งซื้อนะคะ~",
+      "关于洗涤与保养，记得拖到最底部哦～": "เกี่ยวกับการซักและดูแลรักษา อย่าลืมเลื่อนลงไปดูด้านล่างสุดนะ～",
+      "这个网兜尼龙背心包真的爱了": "กระเป๋าตาข่ายไนลอนแบบสะพายใบนี้ชอบมากเลย",
+      "网兜超有设计感": "ตาข่ายมีดีไซน์เก๋มาก",
+      "春夏搭配非常亮眼": "ใส่คู่กับชุด春夏แล้วโดดเด่นมาก",
+      "容量也很大": "จุของได้เยอะด้วย",
+      "随便一背都好看": "สะพายยังไงก็สวย",
+      "浅色面料会有轻微杂色，": "ผ้าสีอ่อนอาจมีสีคละเล็กน้อย",
+      "帆布面料通病会有点味道，大家简单通风就没有啦": "ผ้าใบมีกลิ่นนิดหน่อยเป็นเรื่องปกติ แค่ตากลมก็หาย",
+      "都是正常现象哦不属于质量问题，介意者慎拍~": "เป็นเรื่องปกติ ไม่ใช่ปัญหาคุณภาพ ถ้ากังวลกรุณาไตร่ตรองก่อนสั่ง",
+      "帆布产品绝对不建议机洗和长时间浸泡，详细请看洗涤说明": "ห้ามซักเครื่องและแช่นานเด็ดขาด ดูรายละเอียดการซักในคำแนะนำ",
+      "一关于色差一、由于拍摄光线、显示器等因素影响，图片与实物可能会存在、轻微色差，具体颜色以收到实物为准。": "เรื่องความแตกต่างของสี เนื่องจากแสงในการถ่ายภาพ จอแสดงผล ฯลฯ รูปภาพกับสินค้าจริงอาจมีสีแตกต่างกันเล็กน้อย สีจริงขึ้นอยู่กับสินค้าที่ได้รับ",
+      "洗涤保养": "การดูแลรักษา",
+      "一、正确洗涤方式：": "1. วิธีซักที่ถูกต้อง:",
+      "先把洗涤剂在冷水抛开，再将包包浸泡洗涤，请勿将洗涤剂直、接倒在帆布包.上，很容易造成局部褪色。": "ละลายน้ำยาซักในน้ำเย็นก่อน แล้วแช่กระเป๋าลงไป ห้ามเทน้ำยาซักลงบนกระเป๋าผ้าใบโดยตรง เพราะจะทำให้สีตกเป็นจุด",
+      "白色/米色帆布包洗涤：": "การซักกระเป๋าผ้าใบสีขาว/สีครีม:",
+      "若是白色/米白的的帆布包，请一定一定一定要把洗涤剂漂洗、干净。否则晒干后，会有泛黄痕迹。": "ถ้าเป็นกระเป๋าผ้าใบสีขาว/สีครีม ต้องล้างน้ำยาซักออกให้สะอาดมากๆ ไม่งั้นพอแห้งแล้วจะมีรอยเหลือง",
+      "或洗涤后，在包包上的表面铺一上纸市晒干，纸巾可以吸掉漂、不干净的洗涤剂水（百色帆布鞋也可以用此方法）": "หรือหลังซัก ให้วางทิชชู่บนพื้นผิวกระเป๋าแล้วตาก ทิชชู่จะดูดน้ำยาซักที่ล้างไม่ออก (ใช้กับรองเท้าผ้าใบสีขาวได้ด้วย)",
+      "注意事项：": "ข้อควรระวัง:",
+      "1.深色（黑色、酒红、深蓝等）布包多少都会有点掉色，建议初次、使用时不要穿浅色衣服，多次洗涤后，掉色情况会减弱或消失。": "1. กระเป๋าผ้าสีเข้ม (ดำ, แดงไวน์, น้ำเงินเข้ม ฯลฯ) จะมีสีตกบ้าง แนะนำครั้งแรกที่ใช้อย่าใส่เสื้อสีอ่อน ซักหลายครั้งสีตกจะลดลงหรือหายไป",
+      "2.帆布包洗涤易褪色，请单独洗涤，请不要使用含有强力漂白、去污能力的洗涤剂（客户反应使用蓝月亮洗衣液此说法居多）": "2. กระเป๋าผ้าใบซักแล้วสีตกง่าย ควรซักแยกต่างหาก ห้ามใช้น้ำยาซักที่มีสารฟอกขาวหรือขจัดคราบแรง (ลูกค้าส่วนใหญ่แจ้งว่าใช้ Blue Moon แล้วสีตก)",
+      "3.请用冷水浸泡洗涤，尽量用手洗，不要用机洗。": "3. ควรแช่และซักด้วยน้ำเย็น ซักมือดีกว่า ห้ามใช้เครื่องซักผ้า",
+      "4.请不要用刷子刷洗，会损环布料、印花和皮料。": "4. ห้ามใช้แปรงขัด เพราะจะทำให้ผ้า ลายพิมพ์ และหนังเสียหาย",
+      "5.不可暴晒，建议阴凉通风处晾干。": "5. ห้ามตากแดดจัด แนะนำให้ผึ่งในที่ร่มมีลมโกรก",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺，、上面偶尔的黑点点和小棉结是天然的材质，是布料的、特质，不是瑕疵哦": "ผ้าใบที่ไม่ผ่านการฟอกขาวด้วยสารเคมี นุ่มและทนทาน สะอาด ระบายอากาศดี สีสันเป็นธรรมชาติ บางครั้งมีจุดดำหรือปุยฝ้ายเล็กน้อย เป็นลักษณะเฉพาะของผ้า ไม่ใช่ตำหนิ"
+    },
+    "MY": {
+      "上口宽36cm": "Lebar atas 36cm",
+      "（手工测量有1-5CM误差，仅供参考，不作为退换凭证": "(Ukuran manual, ralat 1-5CM, untuk rujukan sahaja, bukan sebagai bukti tukar pulang)",
+      "面料：涤纶": "Kain: Poliester",
+      "重量：0.12KG": "Berat: 0.12KG",
+      "结构：主袋敞口": "Struktur: Buka mulut utama",
+      "关于面料": "Tentang kain",
+      "纯棉染色植物褪色和缩水是不可避免的": "Luntur dan mengecut pada kain kapas celup adalah perkara biasa",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺": "Kanvas tanpa peluntur kimia, lembut dan anjal, tahan lasak, bersih, dan bernafas, warna lebih natural dan artistik",
+      "上面偶尔的黑点点和小棉结是天然的材质，是布料的": "Tompok hitam dan gumpalan kapas kecil adalah bahan semula jadi, ciri kain",
+      "特质，不是瑕疵哦": "Bukan kecacatan ya",
+      "介意的宝宝慎拍呢": "Jika risau, fikir dulu sebelum beli",
+      "关于洗涤与保养，记得拖到最底部哦～": "Pasang jaga dan basuh, jangan lupa skrol ke bawah ya～",
+      "这个网兜尼龙背心包真的爱了": "Beg nylon jaring ni memang love sangat",
+      "网兜超有设计感": "Jaring ni ada gaya design yang gempak",
+      "春夏搭配非常亮眼": "Padanan musim bunga dan panas memang menyerlah",
+      "容量也很大": "Kapasiti pun besar",
+      "随便一背都好看": "Pakai macam mana pun tetap cantik",
+      "浅色面料会有轻微杂色，": "Kain warna cerah mungkin ada sedikit warna tidak sekata,",
+      "帆布面料通病会有点味道，大家简单通风就没有啦": "Kain kanvas biasa ada bau sikit, anginkan je hilang,",
+      "都是正常现象哦不属于质量问题，介意者慎拍~": "Ini normal, bukan masalah kualiti. Kalau tak suka, fikir dulu sebelum beli~",
+      "帆布产品绝对不建议机洗和长时间浸泡，详细请看洗涤说明": "Produk kanvas jangan cuci guna mesin atau rendam lama. Sila baca arahan cuci.",
+      "一关于色差一": "Perbezaan warna sedikit mungkin berlaku disebabkan faktor seperti cahaya dan skrin. Warna sebenar adalah berdasarkan produk yang diterima.",
+      "洗涤保养一、正确洗涤方式：": "Penjagaan & Pencucian: Cara Mencuci Betul",
+      "先把洗涤剂在冷水抛开，再将包包浸泡洗涤，请勿将洗涤剂直、接倒在帆布包.上，很容易造成局部褪色。": "Larutkan detergen dalam air sejuk dulu, baru rendam beg. Jangan tuang detergen terus ke beg kanvas, nanti warna luntur setempat.",
+      "白色/米色帆布包洗涤：": "Mencuci Beg Kanvas Putih/Krim:",
+      "若是白色/米白的的帆布包，请一定一定一定要把洗涤剂漂洗、干净。否则晒干后，会有泛黄痕迹。": "Kalau beg kanvas putih/krim, mesti bilas detergen sampai bersih. Kalau tak, nanti jadi kuning bila kering.",
+      "或洗涤后，在包包上的表面铺一上纸市晒干，纸巾可以吸掉漂、不干净的洗涤剂水（百色帆布鞋也可以用此方法）": "Atau selepas cuci, lapik beg dengan tisu dan jemur. Tisu akan serap air detergen yang tak terbilas (kasut kanvas putih pun boleh guna cara ni).",
+      "注意事项：": "Perhatian:",
+      "1.深色（黑色、酒红、深蓝等）布包多少都会有点掉色，建议初次使用时不要穿浅色衣服，多次洗涤后，掉色情况会减弱或消失。": "1. Beg gelap (hitam, merah wain, biru tua) akan luntur sikit. Jangan pakai baju cerah masa guna pertama. Lepas basuh beberapa kali, luntur akan berkurang atau hilang.",
+      "2.帆布包洗涤易褪色，请单独洗涤，请不要使用含有强力漂白、去污能力的洗涤剂（客户反应使用蓝月亮洗衣液此说法居多）": "2. Beg kanvas mudah luntur, basuh sendiri. Jangan guna detergen peluntur kuat (ramai pelanggan kata guna Blue Moon pun luntur).",
+      "3.请用冷水浸泡洗涤，尽量用手洗，不要用机洗。": "3. Rendam dan basuh dengan air sejuk, guna tangan, jangan guna mesin.",
+      "4.请不要用刷子刷洗，会损环布料、印花和皮料。": "4. Jangan gosok dengan berus, nanti rosak kain, corak dan kulit.",
+      "5.不可暴晒，建议阴凉通风处晾干。": "5. Jangan jemur terus kena panas. Jemur di tempat teduh dan berangin.",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺，、介意的宝宝慎拍呢~": "Kanvas tanpa peluntur kimia, lembut dan anjal, tahan lasak, bersih, bernafas, warna lebih natural dan artistik. Yang risau, jangan beli ya~",
+      "由于拍摄光线、显示器等因素影响，图片与实物可能会存在、轻微色差，具体颜色以收到实物为准。": "Warna mungkin sedikit berbeza disebabkan cahaya dan skrin, sila rujuk produk sebenar.",
+      "1.深色（黑色、酒红、深蓝等）布包多少都会有点掉色，建议初次、使用时不要穿浅色衣服，多次洗涤后，掉色情况会减弱或消失。": "1. Beg gelap (hitam, merah wain, biru tua) akan luntur sikit. Jangan pakai baju cerah kali pertama guna. Lepas basuh beberapa kali, luntur akan berkurang atau hilang."
+    },
+    "ID": {
+      "上口宽36cm": "Lebar atas 36cm",
+      "（手工测量有1-5CM误差，仅供参考，不作为退换凭证": "(Ukuran manual, toleransi 1-5cm, hanya referensi, bukan dasar retur)",
+      "面料：涤纶": "Bahan: Poliester",
+      "重量：0.12KG": "Berat: 0,12 kg",
+      "结构：主袋敞口": "Struktur: Kantong utama terbuka",
+      "关于面料": "Tentang kain",
+      "纯棉染色植物褪色和缩水是不可避免的": "Pudar dan menyusut pada kain katun celup alami tidak bisa dihindari",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺": "Kanvas tanpa pemutih kimia, lembut dan elastis, tahan lama, higienis, dan bernapas, warnanya lebih natural dan artistik",
+      "上面偶尔的黑点点和小棉结是天然的材质，是布料的、特质，不是瑕疵哦": "Bintik hitam kecil dan gumpalan kapas sesekali adalah bahan alami, ciri khas kain, bukan cacat ya",
+      "介意的宝宝慎拍呢~": "Yang khawatir, harap pertimbangkan sebelum membeli~",
+      "关于洗涤与保养，记得拖到最底部哦～": "Untuk cara cuci dan perawatan, jangan lupa scroll ke bawah ya~",
+      "这个网兜尼龙背心包真的爱了": "Tas rompi nilon jaring ini beneran suka banget",
+      "网兜超有设计感": "Jaringnya super keren desainnya",
+      "春夏搭配非常亮眼": "Cocok dipakai musim semi-panas, bikin standout",
+      "容量也很大": "Kapasitasnya juga besar",
+      "随便一背都好看": "Dipakai asal-asalan aja tetap cantik",
+      "浅色面料会有轻微杂色，": "Kain warna terang mungkin ada sedikit campuran warna,",
+      "帆布面料通病会有点味道，大家简单通风就没有啦": "Bau pada kain kanvas itu wajar, cukup diangin-anginkan sebentar hilang kok",
+      "都是正常现象哦不属于质量问题，介意者慎拍~": "Ini normal, bukan masalah kualitas. Kalau khawatir, jangan dibeli ya~",
+      "帆布产品绝对不建议机洗和长时间浸泡，详细请看洗涤说明": "Produk kanvas jangan dicuci pakai mesin atau direndam lama, lihat petunjuk cuci ya",
+      "一关于色差一、由于拍摄光线、显示器等因素影响，图片与实物可能会存在、轻微色差，具体颜色以收到实物为准。": "Soal perbedaan warna: Karena faktor seperti cahaya pemotretan dan layar, mungkin ada sedikit perbedaan warna antara gambar dan barang asli. Warna sebenarnya tergantung pada barang yang diterima.",
+      "洗涤保养": "Perawatan & Pencucian",
+      "一、正确洗涤方式：": "1. Cara mencuci yang benar:",
+      "先把洗涤剂在冷水抛开，再将包包浸泡洗涤，请勿将洗涤剂直、接倒在帆布包.上，很容易造成局部褪色。": "Larutkan deterjen di air dingin dulu, lalu rendam tas. Jangan tuang deterjen langsung ke tas kanvas, bisa bikin warna pudar di beberapa bagian.",
+      "白色/米色帆布包洗涤：": "Mencuci tas kanvas putih/krem:",
+      "若是白色/米白的的帆布包，请一定一定一定要把洗涤剂漂洗、干净。否则晒干后，会有泛黄痕迹。": "Kalau tas kanvas putih/putih gading, pastikan deterjen dibilas bersih banget. Kalau nggak, nanti kering ada noda kuning.",
+      "或洗涤后，在包包上的表面铺一上纸市晒干，纸巾可以吸掉漂、不干净的洗涤剂水（百色帆布鞋也可以用此方法）": "Atau setelah dicuci, lapisi tas dengan tisu lalu jemur. Tisu bisa menyerap sisa deterjen (cara ini juga bisa buat sepatu kanvas putih).",
+      "注意事项：": "Perhatian:",
+      "1.深色（黑色、酒红、深蓝等）布包多少都会有点掉色，建议初次、使用时不要穿浅色衣服，多次洗涤后，掉色情况会减弱或消失。": "1. Tas warna gelap (hitam, merah anggur, biru tua, dll) pasti sedikit luntur. Saran: jangan pakai baju terang saat pertama kali pakai. Setelah beberapa kali cuci, lunturnya berkurang atau hilang.",
+      "2.帆布包洗涤易褪色，请单独洗涤，请不要使用含有强力漂白、去污能力的洗涤剂（客户反应使用蓝月亮洗衣液此说法居多）": "2. Tas kanvas gampang luntur, cuci sendiri. Jangan pakai deterjen pemutih atau penghilang noda keras (banyak pelanggan bilang pakai deterjen Blue Moon).",
+      "3.请用冷水浸泡洗涤，尽量用手洗，不要用机洗。": "3. Rendam dan cuci dengan air dingin, usahakan cuci tangan, jangan pakai mesin.",
+      "4.请不要用刷子刷洗，会损环布料、印花和皮料。": "4. Jangan gosok pakai sikat, bisa rusak kain, sablon, dan kulit.",
+      "5.不可暴晒，建议阴凉通风处晾干。": "5. Jangan jemur langsung di panas matahari, jemur di tempat teduh dan angin.",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺，、上面偶尔的黑点点和小棉结是天然的材质，是布料的、特质，不是瑕疵哦": "Kanvas tanpa pemutih kimia, lembut dan kuat, tahan lama, higienis, dan bernapas. Warnanya lebih natural dan artistik. Kadang ada titik hitam atau gumpalan kapas kecil, itu ciri khas bahan alami, bukan cacat ya."
+    },
+    "PH": {
+      "上口宽36cm": "Top opening width 36cm",
+      "（手工测量有1-5CM误差，仅供参考，不作为退换凭证": "(Manual measurement may have 1-5cm error, for reference only, not as return/exchange basis)",
+      "面料：涤纶": "Material: Polyester",
+      "重量：0.12KG": "Weight: 0.12KG",
+      "结构：主袋敞口": "Structure: Open main compartment",
+      "关于面料": "About the fabric",
+      "纯棉染色植物褪色和缩水是不可避免的": "Fading and shrinking are normal for cotton dyed with plants",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺": "Unbleached canvas, soft yet durable, breathable, hygienic, natural color",
+      "上面偶尔的黑点点和小棉结是天然的材质，是布料的特质，不是瑕疵哦": "Occasional black dots and neps are natural cotton, not defects",
+      "介意的宝宝慎拍呢": "If you mind, please think twice",
+      "关于洗涤与保养，记得拖到最底部哦～": "About washing and care, remember to scroll to the bottom~",
+      "这个网兜尼龙背心包真的爱了": "I really love this mesh nylon vest bag",
+      "网兜超有设计感": "The mesh is super stylish",
+      "春夏搭配非常亮眼": "Perfect for spring/summer outfits, very eye-catching",
+      "容量也很大": "It also has a large capacity",
+      "随便一背都好看": "Looks good no matter how you wear it",
+      "浅色面料会有轻微杂色，": "May konting kulay variation sa light-colored fabric,",
+      "帆布面料通病会有点味道，大家简单通风就没有啦": "Normal lang ang amoy ng canvas, ipa-ventilate lang mawawala na",
+      "都是正常现象哦不属于质量问题，介意者慎拍~": "Normal lang ito, hindi defect. Kung sensitive ka, mag-isip muna bago bumili~",
+      "帆布产品绝对不建议机洗和长时间浸泡，详细请看洗涤说明": "Huwag i-machine wash o ibabad nang matagal ang canvas. Tingnan ang care instructions.",
+      "一关于色差一": "Tungkol sa pagkakaiba ng kulay: Dahil sa ilaw ng camera, monitor, at iba pang factors, maaaring may slight difference sa kulay ng picture at actual product. Ang exact color ay based sa actual item na matatanggap mo.",
+      "洗涤保养一、正确洗涤方式：": "Washing Care: Proper Washing Method:",
+      "先把洗涤剂在冷水抛开，再将包包浸泡洗涤，请勿将洗涤剂直、接倒在帆布包.上，很容易造成局部褪色。": "First, dissolve detergent in cold water, then soak the bag. Do not pour detergent directly on the canvas bag, as it may cause local fading.",
+      "白色/米色帆布包洗涤：": "Washing white/beige canvas bags:",
+      "若是白色/米白的的帆布包，请一定一定一定要把洗涤剂漂洗、干净。否则晒干后，会有泛黄痕迹。": "For white/off-white canvas bags, make sure to rinse the detergent thoroughly. Otherwise, yellow stains may appear after drying.",
+      "或洗涤后，在包包上的表面铺一上纸市晒干，纸巾可以吸掉漂、不干净的洗涤剂水（百色帆布鞋也可以用此方法）": "Or after washing, lay a paper towel on the bag's surface and let it dry. The paper towel will absorb any leftover detergent (this also works for white canvas shoes).",
+      "注意事项：": "Notes:",
+      "1.深色（黑色、酒红、深蓝等）布包多少都会有点掉色，建议初次使用时不要穿浅色衣服，多次洗涤后，掉色情况会减弱或消失。": "1. Dark bags (black, wine red, navy) may fade a bit. Avoid light-colored clothes on first use; fading decreases after several washes.",
+      "2.帆布包洗涤易褪色，请单独洗涤，请不要使用含有强力漂白、去污能力的洗涤剂（客户反应使用蓝月亮洗衣液此说法居多）": "2. Canvas bags fade easily, so wash them separately. Do not use strong bleach or stain removers (customers often mention Blue Moon laundry detergent).",
+      "3.请用冷水浸泡洗涤，尽量用手洗，不要用机洗。": "3. Soak and wash in cold water, preferably by hand, not machine.",
+      "4.请不要用刷子刷洗，会损环布料、印花和皮料。": "4. Do not scrub with a brush; it damages fabric, prints, and leather.",
+      "5.不可暴晒，建议阴凉通风处晾干。": "5. Do not expose to direct sunlight; dry in shade with good ventilation.",
+      "未经化学漂白的帆布，柔软有韧性，耐用、卫生、透、气是公认的特点，颜色也更自然文艺，、上面偶尔的黑点点和小棉结是天然的材质，是布料的、特质，不是瑕疵哦、介意的宝宝慎拍呢~": "Canvas na hindi chemically bleached, malambot at matibay, kilala sa durability, hygiene, at breathability. Mas natural at artistic ang kulay. Ang mga itim na tuldok at cotton knots ay natural na bahagi ng tela, hindi defects. Kung sensitive ka, please think twice before buying~",
+      "由于拍摄光线、显示器等因素影响，图片与实物可能会存在、轻微色差，具体颜色以收到实物为准。": "May konting pagkakaiba sa kulay dahil sa lighting at screen, ang actual product ang susundin.",
+      "1.深色（黑色、酒红、深蓝等）布包多少都会有点掉色，建议初次、使用时不要穿浅色衣服，多次洗涤后，掉色情况会减弱或消失。": "1. Dark-colored bags (black, wine red, navy, etc.) may fade a bit. Avoid wearing light-colored clothes when first using them. After several washes, fading will lessen or stop."
+    }
+  }
+}

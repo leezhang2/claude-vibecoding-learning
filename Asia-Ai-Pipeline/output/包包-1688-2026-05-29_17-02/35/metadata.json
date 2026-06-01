@@ -1,0 +1,320 @@
+{
+  "item_no": 35,
+  "keyword": "包包",
+  "title_cn": "休闲大容量棉线编织包新款镂空草编包慵懒风单肩包度假沙滩包女包",
+  "price_cny": 0.0,
+  "shop_name": "义乌市伊柠纺织品商行",
+  "item_link": "http://detail.m.1688.com/page/index.html?offerId=886366771782&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=d41cb76b4ff54a6e85177b6c01b7fa9a&skuId=5897944243868",
+  "shop_link": "http://shop47981515k4214.1688.com/",
+  "specs": [
+    {
+      "name": "米白色",
+      "price_cny": 7.0,
+      "image_path": "商品规格/米白色——7.00/001.jpg"
+    },
+    {
+      "name": "卡其色",
+      "price_cny": 7.0,
+      "image_path": "商品规格/卡其色——7.00/001.jpg"
+    },
+    {
+      "name": "绿色",
+      "price_cny": 7.0,
+      "image_path": "商品规格/绿色——7.00/001.jpg"
+    },
+    {
+      "name": "玫红色",
+      "price_cny": 7.0,
+      "image_path": "商品规格/玫红色——7.00/001.jpg"
+    },
+    {
+      "name": "黄色",
+      "price_cny": 7.0,
+      "image_path": "商品规格/黄色——7.00/001.jpg"
+    }
+  ],
+  "detail_images": [
+    "商品详情图片/001.jpg",
+    "商品详情图片/002.jpg",
+    "商品详情图片/003.jpg",
+    "商品详情图片/004.jpg",
+    "商品详情图片/005.jpg",
+    "商品详情图片/006.jpg",
+    "商品详情图片/007.jpg",
+    "商品详情图片/008.jpg",
+    "商品详情图片/009.jpg",
+    "商品详情图片/010.jpg",
+    "商品详情图片/011.jpg",
+    "商品详情图片/012.jpg",
+    "商品详情图片/013.jpg",
+    "商品详情图片/014.jpg"
+  ],
+  "scraped_at": "2026-05-29T17:38:40",
+  "status": "images_processed",
+  "folder_path": "D:\\demo\\llm-learning\\claude-vibecoding-learning\\Asia-Ai-Pipeline\\output\\包包-1688-2026-05-29_17-02\\35",
+  "localization": {
+    "PH": {
+      "title": "Large Crochet Beach Bag - Handwoven Tote for Summer Travel & Daily Use",
+      "description": "Grabe, this crochet bag is perfect for your beach days or lakwatsa! Made from high-quality cotton rope, it's big enough for your towel, sunscreen, and snacks. Ang gaan lang dalhin! Available in 5 cute colors like white, khaki, green, pink, and yellow. Perfect for summer outfits or as a daily sling bag. Sulit na sulit sa price!",
+      "keywords": [
+        "crochet bag",
+        "beach bag",
+        "handwoven tote",
+        "summer bag",
+        "Philippines beach essentials"
+      ],
+      "selling_points": [
+        "Super spacious – fits all your beach day essentials",
+        "Lightweight and breathable cotton rope material",
+        "Cute colors perfect for Instagram-worthy OOTDs"
+      ],
+      "hashtags": [
+        "#BeachBagPH",
+        "#CrochetBag",
+        "#SummerVibes",
+        "#LakwatsaReady",
+        "#AffordableFashion"
+      ],
+      "specs": [
+        {
+          "name_cn": "颜色",
+          "name_local": "Color"
+        }
+      ],
+      "cta": "Order now before maubos! Limited stock!",
+      "price_local": 29.0,
+      "currency": "PHP",
+      "exchange_rate": 8.0,
+      "markup": 3.2,
+      "generated_at": "2026-05-30T14:12:31"
+    },
+    "SG": {
+      "title": "Handwoven Straw Bag for Beach & Daily - Lazy Style Large Tote, 5 Colors",
+      "description": "This chunky crochet bag is your perfect companion for beach days, brunch dates, or casual strolls in Singapore. Made from soft cotton rope, it's lightweight yet spacious enough for your towel, sunscreen, and a book. The open weave adds a breezy, effortless vibe that screams resort chic. Available in 5 sun-kissed hues—from classic beige to bold fuchsia. Grab it now and upgrade your summer style!",
+      "keywords": [
+        "handwoven straw bag",
+        "beach bag",
+        "summer tote",
+        "crochet bag",
+        "boho bag"
+      ],
+      "selling_points": [
+        "5 trendy colors: cream, khaki, green, fuchsia, yellow",
+        "Large capacity fits daily essentials plus extras",
+        "Lightweight and breathable for Singapore heat"
+      ],
+      "hashtags": [
+        "#Summervibes",
+        "#BeachBagoals",
+        "#ToteBag",
+        "#HandmadeWithLove",
+        "#OOTDSingapore"
+      ],
+      "specs": [
+        {
+          "name_cn": "米白色",
+          "name_local": "Cream"
+        },
+        {
+          "name_cn": "卡其色",
+          "name_local": "Khaki"
+        },
+        {
+          "name_cn": "绿色",
+          "name_local": "Green"
+        },
+        {
+          "name_cn": "玫红色",
+          "name_local": "Fuchsia"
+        },
+        {
+          "name_cn": "黄色",
+          "name_local": "Yellow"
+        }
+      ],
+      "cta": "Shop now before it sells out!",
+      "price_local": 2.9,
+      "currency": "SGD",
+      "exchange_rate": 0.185,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:31"
+    },
+    "TH": {
+      "title": "กระเป๋าสานใบใหญ่ น้ำหนักเบา สไตล์น่ารัก สายคล้องไหล่ เหมาะใส่ไปทะเล 5 สี",
+      "description": "กระเป๋าสานใยฝ้ายใบใหญ่ ดีไซน์โปร่งใส สายคล้องไหล่ น้ำหนักเบา พกพาสะดวก เหมาะใส่ไปทะเล ปิกนิก หรือเที่ยววันหยุด มี 5 สีให้เลือก ใส่สบายๆ สไตล์เกาหลี ถูกใจสาวสายชิลล์แน่นอนค่ะ",
+      "keywords": [
+        "กระเป๋าสาน",
+        "กระเป๋าไปทะเล",
+        "กระเป๋าหวาย",
+        "กระเป๋าแฟชั่น",
+        "กระเป๋าใบใหญ่"
+      ],
+      "selling_points": [
+        "น้ำหนักเบา พกพาสะดวก ไม่เมื่อยไหล่",
+        "ดีไซน์โปร่ง ใส่ของเห็นชัด หาของง่าย",
+        "5 สีสวย ครบทุกสไตล์ ใส่ได้ทุกวัน"
+      ],
+      "hashtags": [
+        "#กระเป๋าสาน",
+        "#กระเป๋าไปทะเล",
+        "#กระเป๋าแฟชั่น",
+        "#ของมันต้องมี",
+        "#TikTokซื้อเลย"
+      ],
+      "specs": [
+        {
+          "name_cn": "颜色",
+          "name_local": "สี"
+        },
+        {
+          "name_cn": "材质",
+          "name_local": "วัสดุ"
+        }
+      ],
+      "cta": "สอยด่วน! ของมันต้องมี ราคาเดียว 39 บาท!",
+      "price_local": 39.0,
+      "currency": "THB",
+      "exchange_rate": 5.0,
+      "markup": 3.5,
+      "generated_at": "2026-05-30T14:12:31"
+    },
+    "ID": {
+      "title": "Tas Rajut Cotton Besar Kapasitas, Santai untuk Liburan Pantai, Cocok untuk Gaya Bohemian",
+      "description": "Tas anyaman benang cotton ini hadir dengan desain镂空 yang unik dan santai, cocok untuk menemani liburan pantai atau hangout santai. Ringan dan besar kapasitas, bisa muat handuk, botol minum, dan perlengkapan pantai lainnya. Tersedia 5 warna cantik: putih krem, krem, hijau, merah muda, dan kuning. Bikin OOTD kamu makin stylish!",
+      "keywords": [
+        "tas anyaman",
+        "tas pantai",
+        "tas rajut cotton",
+        "tas liburan",
+        "tas wanita"
+      ],
+      "selling_points": [
+        "Kapasitas besar, muat banyak barang",
+        "Bahan cotton rajut lembut dan ringan",
+        "Desain镂空 unik, cocok untuk gaya bohemian"
+      ],
+      "hashtags": [
+        "#TasRajut",
+        "#TasPantai",
+        "#OOTD",
+        "#Liburan",
+        "#GayaBohemian"
+      ],
+      "specs": [
+        {
+          "name_cn": "颜色",
+          "name_local": "Warna"
+        }
+      ],
+      "cta": "Buruan, stok terbatas! Pesan sekarang!",
+      "price_local": 5000.0,
+      "currency": "IDR",
+      "exchange_rate": 2200.0,
+      "markup": 3.8,
+      "generated_at": "2026-05-30T14:12:31"
+    },
+    "MY": {
+      "title": "Beg Tote Crochet DIY - Beg Anyaman Besar Murah, Beg Pantai Santai Muslimah Trendy 2024",
+      "description": "Bosch, beg tote crochet ni mmg wajib ada utk korang yg suka gaya santai & chic! Guna utk ke pantai, piknik, atau jalan-jalan santai. Anyaman tangan yg unik & tahan lasak. Muat handphone, dompet, & barang kecil lain. Warna²灼灼 cantik: putih, krim, hijau, merah jambu, kuning. Jangan lepaskan peluang!",
+      "keywords": [
+        "beg tote murah",
+        "beg anyaman crochet",
+        "beg pantai malaysia",
+        "beg muslimah trendy"
+      ],
+      "selling_points": [
+        "Kapasiti besar - muat handphone, dompet, & barang peribadi lain.",
+        "Anyaman tangan rapat & kukuh, tahan lasak utk penggunaan harian.",
+        "Reka bentuk serbaguna - sesuai utk ke pantai, shopping, atau aktiviti outdoor."
+      ],
+      "hashtags": [
+        "#BegCrochetMurah",
+        "#BegAnyamanMalaysia",
+        "#ToteBagSantai",
+        "#FashionMuslimah",
+        "#OOTDMalaysia"
+      ],
+      "specs": [
+        {
+          "name_cn": "颜色",
+          "name_local": "Warna"
+        },
+        {
+          "name_cn": "材质",
+          "name_local": "Bahan: Anyaman Kapas"
+        }
+      ],
+      "cta": "Cepat, stok terhad! Grab sekarang sebelum habis!",
+      "price_local": 3.9,
+      "currency": "MYR",
+      "exchange_rate": 0.63,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:32"
+    }
+  },
+  "image_text_translations": {
+    "SG": {
+      "店铺公告": "Shop Notice",
+      "关于发票：本店所有产品标价均不含税点，如需开、发票，税点另收，请联系客服！": "Regarding invoice: All prices shown do not include tax. If you need an invoice, tax will be charged separately. Please contact customer service.",
+      "INS彩色棉线编织包": "Coloured cotton woven bag",
+      "大号尺码：上口38CM下口27CM包身高度30CM": "Large size: top 38cm, bottom 27cm, height 30cm",
+      "手提高度30CM": "Handle drop 30cm",
+      "多色选择": "Multiple colours available",
+      "绿色": "Green",
+      "咖色": "Brown",
+      "黄色": "Yellow",
+      "粉色": "Pink",
+      "容量展示": "Capacity display"
+    },
+    "TH": {
+      "店铺公告": "ประกาศร้านค้า",
+      "关于发票：本店所有产品标价均不含税点，如需开、发票，税点另收，请联系客服！": "เกี่ยวกับใบกำกับภาษี: ราคาสินค้าทั้งหมดในร้านไม่รวมภาษี หากต้องการออกใบกำกับภาษี จะคิดค่าภาษีเพิ่ม กรุณาติดต่อแอดมิน!",
+      "INS彩色棉线编织包": "กระเป๋าสานด้ายฝ้ายสีสันสไตล์INS",
+      "大号尺码：上口38CM下口27CM包身高度30CM": "ไซส์ใหญ่: ปากบน 38 ซม. ปากล่าง 27 ซม. สูง 30 ซม.",
+      "手提高度30CM": "ความสูงหูหิ้ว 30 ซม.",
+      "多色选择": "เลือกหลายสี",
+      "绿色": "สีเขียว",
+      "咖色": "สีน้ำตาล",
+      "黄色": "สีเหลือง",
+      "粉色": "สีชมพู",
+      "容量展示": "แสดงความจุ"
+    },
+    "MY": {
+      "店铺公告": "Pengumuman Kedai",
+      "关于发票：本店所有产品标价均不含税点，如需开、发票，税点另收，请联系客服！": "Pasang resit: Semua harga produk di kedai ini belum termasuk cukai. Jika nak resit, caj cukai dikenakan berasingan. Sila hubungi khidmat pelanggan!",
+      "INS彩色棉线编织包": "Beg anyaman benang kapas warna INS",
+      "大号尺码：上口38CM下口27CM包身高度30CM、手提高度30CM": "Saiz besar: bukaan atas 38CM, bukaan bawah 27CM, tinggi badan 30CM, tinggi pemegang 30CM",
+      "多色选择": "Pelbagai warna",
+      "绿色": "Hijau",
+      "咖色": "Coklat",
+      "黄色": "Kuning",
+      "粉色": "Merah jambu",
+      "容量展示": "Tunjuk kapasiti"
+    },
+    "ID": {
+      "店铺公告": "Pengumuman Toko",
+      "关于发票：本店所有产品标价均不含税点，如需开、发票，税点另收，请联系客服！": "Tentang faktur: Semua harga produk di toko ini belum termasuk pajak. Jika perlu faktur, biaya pajak dikenakan terpisah, hubungi customer service!",
+      "INS彩色棉线编织包": "Tas anyaman katun warna-warni INS",
+      "大号尺码：上口38CM下口27CM包身高度30CM": "Ukuran besar: bukaan atas 38cm, bawah 27cm, tinggi tas 30cm",
+      "手提高度30CM": "Tinggi pegangan tangan 30cm",
+      "多色选择": "Pilihan banyak warna",
+      "绿色": "Hijau",
+      "咖色": "Cokelat",
+      "黄色": "Kuning",
+      "粉色": "Merah muda",
+      "容量展示": "Tampilan kapasitas"
+    },
+    "PH": {
+      "店铺公告": "Shop Announcement",
+      "关于发票：本店所有产品标价均不含税点，如需开、发票，税点另收，请联系客服！": "Para sa resibo: Lahat ng presyo dito ay hindi pa kasama ang buwis. Kung kailangan ng resibo, may extra charge para sa buwis. Pakiusap, kontakin ang customer service!",
+      "INS彩色棉线编织包": "INS colorful cotton woven bag",
+      "大号尺码：上口38CM下口27CM包身高度30CM、手提高度30CM": "Large size: top opening 38cm, bottom 27cm, body height 30cm, handle height 30cm",
+      "多色选择": "Maraming kulay na mapagpipilian",
+      "绿色": "Berde",
+      "咖色": "Kayumanggi",
+      "黄色": "Dilaw",
+      "粉色": "Rosas",
+      "容量展示": "Capacity Display"
+    }
+  }
+}

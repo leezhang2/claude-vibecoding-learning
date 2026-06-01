@@ -1,0 +1,354 @@
+{
+  "item_no": 1,
+  "keyword": "包包",
+  "title_cn": "帆布大容量学生休闲可爱腊肠狗购物袋便当包饭盒袋手提午餐包上班",
+  "price_cny": 8.6,
+  "shop_name": "定兴县鑫聚广来箱包制造有限责任公司",
+  "item_link": "http://detail.m.1688.com/page/index.html?offerId=863910804068&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=d41cb76b4ff54a6e85177b6c01b7fa9a&skuId=5852678174619",
+  "shop_link": "http://shop4293e773495e2.1688.com/",
+  "specs": [
+    {
+      "name": "白色腊肠狗",
+      "price_cny": 8.6,
+      "image_path": "商品规格/白色腊肠狗——8.60/001.jpg"
+    },
+    {
+      "name": "黑色腊肠狗",
+      "price_cny": 8.6,
+      "image_path": "商品规格/黑色腊肠狗——8.60/001.jpg"
+    },
+    {
+      "name": "卡其色腊肠狗",
+      "price_cny": 8.6,
+      "image_path": "商品规格/卡其色腊肠狗——8.60/001.jpg"
+    }
+  ],
+  "detail_images": [
+    "商品详情图片/001.jpg",
+    "商品详情图片/002.jpg",
+    "商品详情图片/003.jpg",
+    "商品详情图片/004.jpg",
+    "商品详情图片/005.jpg",
+    "商品详情图片/006.jpg",
+    "商品详情图片/007.jpg",
+    "商品详情图片/008.jpg",
+    "商品详情图片/009.jpg",
+    "商品详情图片/010.jpg",
+    "商品详情图片/011.jpg",
+    "商品详情图片/012.jpg",
+    "商品详情图片/013.jpg",
+    "商品详情图片/014.jpg",
+    "商品详情图片/015.jpg",
+    "商品详情图片/016.jpg",
+    "商品详情图片/017.jpg",
+    "商品详情图片/018.jpg"
+  ],
+  "scraped_at": "2026-05-29T17:04:15",
+  "status": "images_processed",
+  "folder_path": "D:\\demo\\llm-learning\\claude-vibecoding-learning\\Asia-Ai-Pipeline\\output\\包包-1688-2026-05-29_17-02\\1",
+  "localization": {
+    "SG": {
+      "title": "Dachshund Lunch Bag for Work or School - Large Capacity, Reusable Tote",
+      "description": "Carry your lunch in style with this adorable dachshund-print tote bag. Spacious enough for a bento box, snacks, and a water bottle. Perfect for busy professionals or students on the go. Lightweight, durable canvas with cute sausage dog design. Add some fun to your daily commute!",
+      "keywords": [
+        "dachshund bag",
+        "lunch tote",
+        "reusable shopping bag",
+        "canvas lunch bag",
+        "cute work bag"
+      ],
+      "selling_points": [
+        "Fits your lunch box, snacks, and water bottle easily",
+        "Adorable dachshund print stands out in any crowd",
+        "Made of sturdy canvas - lasts through daily use"
+      ],
+      "hashtags": [
+        "#DachshundLover",
+        "#LunchBag",
+        "#ToteBag",
+        "#SGWorkBag",
+        "#CuteAndFunctional"
+      ],
+      "specs": [
+        {
+          "name_cn": "白色腊肠狗",
+          "name_local": "White Dachshund"
+        },
+        {
+          "name_cn": "黑色腊肠狗",
+          "name_local": "Black Dachshund"
+        },
+        {
+          "name_cn": "卡其色腊肠狗",
+          "name_local": "Khaki Dachshund"
+        }
+      ],
+      "cta": "Snag yours before they sell out! Shop now 🇸🇬🐾",
+      "price_local": 6.9,
+      "currency": "SGD",
+      "exchange_rate": 0.185,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:22"
+    },
+    "PH": {
+      "title": "Large Canvas Lunch Bag Cute Dachshund Tote - Perfect for School, Work, and Grocery Shopping!",
+      "description": "Upgrade your daily carry with this spacious canvas tote bag featuring adorable dachshund prints. Ideal for keeping your lunch, snacks, or essentials organized. Made from durable canvas with strong handles. Perfect for students, office workers, and moms on the go. Ang cute ng design - guaranteed mapapansin ka!",
+      "keywords": [
+        "canvas tote bag",
+        "lunch bag with dachshund",
+        "large capacity bag Philippines",
+        "cute school bag",
+        "reusable shopping bag"
+      ],
+      "selling_points": [
+        "Extra large capacity fits lunch boxes, snacks, water bottle, and more!",
+        "Premium thick canvas material - long-lasting and easy to clean.",
+        "Adorable dachshund pattern in 3 colors: White, Black, and Khaki."
+      ],
+      "hashtags": [
+        "#CanvasTotePH",
+        "#DachshundLover",
+        "#LunchBagPH",
+        "#TikTokShopPH",
+        "#SulitBili"
+      ],
+      "specs": [
+        {
+          "name_cn": "规格",
+          "name_local": "Color"
+        }
+      ],
+      "cta": "Order now! Limited stock - 249 PHP only!",
+      "price_local": 249.0,
+      "currency": "PHP",
+      "exchange_rate": 8.0,
+      "markup": 3.2,
+      "generated_at": "2026-05-30T14:12:22"
+    },
+    "MY": {
+      "title": "Beg Tote Kanvas Besar Comel Motif Sosej Anjing - Beg Makan Tengahari Beg Tangan Beli-belah Beg Bawa Makanan",
+      "description": "Beg tote kanvas yang comel ini direka khas untuk aktiviti harian anda! Dengan motif dachshund yang menggemaskan, beg ini sesuai untuk pelajar, pekerja pejabat, dan sesiapa sahaja yang perlukan beg bagus untuk bawa bekal makanan, buku, atau barangan peribadi. Diperbuat daripada kanvas tebal yang tahan lasak, ia boleh memuat barang berat tanpa koyak. Pilihan warna putih, hitam, dan krem dengan corak sosej anjing yang unik. Jimatkan plastik dan tampil gaya dengan beg mesra alam ini! Dapatkan sekarang dan tambah warna pada hari anda!",
+      "keywords": [
+        "beg tote kanvas",
+        "beg anjing sosej",
+        "beg bekal",
+        "beg tangan comel",
+        "beg kanvas murah"
+      ],
+      "selling_points": [
+        "Muatan besar - boleh letak bekal, buku, botol air & banyak lagi",
+        "Motif dachshund eksklusif - unik dan comel, jarang orang ada",
+        "Bahan kanvas tebal - tahan lasak, koyak? Tak mudah!"
+      ],
+      "hashtags": [
+        "#begtotecomel",
+        "#begkanvas",
+        "#dachshundlover",
+        "#begbekalmurah",
+        "#manglishvibes"
+      ],
+      "specs": [
+        {
+          "name_cn": "白色腊肠狗",
+          "name_local": "Putih Dachshund"
+        },
+        {
+          "name_cn": "黑色腊肠狗",
+          "name_local": "Hitam Dachshund"
+        },
+        {
+          "name_cn": "卡其色腊肠狗",
+          "name_local": "Krem Dachshund"
+        }
+      ],
+      "cta": "Sekejap je habis! Grab sekarang!",
+      "price_local": 19.9,
+      "currency": "MYR",
+      "exchange_rate": 0.63,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:24"
+    },
+    "ID": {
+      "title": "Tas Belanja Kanvas Kapasitas Besar Lucu Dachshund untuk Sekolah, Makan Siang, atau Kantor - Tersedia 3 Warna",
+      "description": "Tas kanvas lucu dengan motif anjing dachshund yang menggemaskan, cocok untuk aktivitas sehari-hari. Kapasitas besar muat buku, bekal makan siang, atau perlengkapan kantor. Bahan kanvas tebal dan kuat, tahan lama untuk penggunaan jangka panjang. Cocok untuk anak sekolah, mahasiswa, atau pekerja kantoran yang ingin tampil stylish dengan budget terjangkau. Tersedia 3 pilihan warna: putih, hitam, dan karamel.",
+      "keywords": [
+        "tas kanvas",
+        "tas dachshund",
+        "tas belanja",
+        "tas sekolah",
+        "tas lucu"
+      ],
+      "selling_points": [
+        "Motif dachshund lucu dan unik, bikin tampilan kamu semakin stylish",
+        "Bahan kanvas tebal dan jahitan rapi, muat hingga 5 kg beban",
+        "Cocok untuk berbagai acara: sekolah, piknik, belanja, atau kantor"
+      ],
+      "hashtags": [
+        "#TasKanvas",
+        "#DachshundLovers",
+        "#TasSekolah",
+        "#TasBelanja",
+        "#FashionMurah"
+      ],
+      "specs": [
+        {
+          "name_cn": "白色腊肠狗",
+          "name_local": "Putih Dachshund"
+        },
+        {
+          "name_cn": "黑色腊肠狗",
+          "name_local": "Hitam Dachshund"
+        },
+        {
+          "name_cn": "卡其色腊肠狗",
+          "name_local": "Karamel Dachshund"
+        }
+      ],
+      "cta": "Buru beli, stok terbatas! Pesan sekarang!",
+      "price_local": 77000.0,
+      "currency": "IDR",
+      "exchange_rate": 2200.0,
+      "markup": 3.8,
+      "generated_at": "2026-05-30T14:12:23"
+    },
+    "TH": {
+      "title": "กระเป๋าผ้าแคนวาสลายน้องหมา Sausage Dog ใส่ข้าวกล่องได้ กระเป๋าถือช้อปปิ้ง กระเป๋านักเรียน กระเป๋าใส่ของจุกจิก",
+      "description": "กระเป๋าผ้าลายน้องหมาไซส์ใหญ่ใส่ได้ทั้งข้าวกล่องและของใช้ส่วนตัวค่ะ ผลิตจากผ้าแคนวาสทนทานสุดๆ แถมลายน่ารักมากกก เหมาะกับคุณหนูๆ นักเรียน หรือคุณแม่สายช้อป ใส่ของจุกจิกได้เยอะ มีหูหิ้วแข็งแรง ไม่ขาดง่าย ขนาดกำลังดีไม่ใหญ่เทอะทะ รับรองเพื่อนต้องทักว่าเอามาจากไหนค่าาา",
+      "keywords": [
+        "กระเป๋าผ้าแคนวาส",
+        "กระเป๋าลายหมา",
+        "กระเป๋าใส่ข้าวกล่อง",
+        "กระเป๋าถือช้อปปิ้ง"
+      ],
+      "selling_points": [
+        "จุของได้เยอะ ใส่ข้าวกล่อง + น้ำดื่ม + ของใช้อื่นๆ ได้สบาย",
+        "ลายน้องหมาน่ารักสุดๆ ถูกใจทั้งเด็กและผู้ใหญ่",
+        "ผ้าแคนวาสหนา ทนทาน ใช้ได้นาน ไม่ขาดง่าย"
+      ],
+      "hashtags": [
+        "#กระเป๋าผ้าแคนวาส",
+        "#ลายSausageDog",
+        "#กระเป๋าใส่ข้าวกล่อง",
+        "#nungh",
+        "#ของใช้จุกจิก"
+      ],
+      "specs": [
+        {
+          "name_cn": "白色腊肠狗",
+          "name_local": "ขาวลายหมาปัง"
+        },
+        {
+          "name_cn": "黑色腊肠狗",
+          "name_local": "ดำลายหมาปัง"
+        },
+        {
+          "name_cn": "卡其色腊肠狗",
+          "name_local": "สีกากีลายหมาปัง"
+        }
+      ],
+      "cta": "รีบกดสั่งเลย! ของมีจำนวนจำกัดน้าา",
+      "price_local": 189.0,
+      "currency": "THB",
+      "exchange_rate": 5.0,
+      "markup": 3.5,
+      "generated_at": "2026-05-30T14:12:25"
+    }
+  },
+  "image_text_translations": {
+    "SG": {
+      "时尚设计": "Stylish design",
+      "产品参数": "Product Specs",
+      "高20cm": "Height 20cm",
+      "厚15cm": "Depth 15cm",
+      "宽24cm": "Width 24cm",
+      "面料/Fabric": "Material/Fabric",
+      "帆布": "Canvas",
+      "重量/Heavy": "Weight",
+      "背法/Method": "Carry Style",
+      "手提": "Hand Carry",
+      "尺寸/Size": "Dimensions",
+      "宽24cm高20cm厚15cm": "W24cm x H20cm x D15cm",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm，请以实物颜色为准。": "Hand-measured, allow 1-3cm error. Size in cm. Actual colour may vary.",
+      "颜色展示": "Colours Available",
+      "黑色": "Black",
+      "卡其色": "Khaki",
+      "白色": "White"
+    },
+    "TH": {
+      "时尚设计": "ดีไซน์ทันสมัย",
+      "产品参数": "ข้อมูลสินค้า",
+      "高20cm": "สูง 20 ซม.",
+      "厚15cm": "หนา 15 ซม.",
+      "宽24cm": "กว้าง 24 ซม.",
+      "面料/Fabric": "ผ้า/Fabric",
+      "帆布": "ผ้าใบ",
+      "重量/Heavy": "น้ำหนัก/Heavy",
+      "背法/Method": "วิธีสะพาย/Method",
+      "手提": "หิ้ว",
+      "尺寸/Size": "ขนาด/Size",
+      "宽24cm高20cm厚15cm": "กว้าง 24 ซม. สูง 20 ซม. หนา 15 ซม.",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm，请以实物颜色为准。": "วัดด้วยมือ คลาดเคลื่อน 1-3 ซม. หน่วยเป็น ซม. สีจริงอาจต่างจากภาพ",
+      "颜色展示": "สีที่แสดง",
+      "黑色": "ดำ",
+      "卡其色": "สีกากี",
+      "白色": "ขาว"
+    },
+    "MY": {
+      "时尚设计": "Reka bentuk fesyen",
+      "产品参数": "Spesifikasi Produk",
+      "高20cm": "Tinggi 20cm",
+      "厚15cm": "Tebal 15cm",
+      "宽24cm": "Lebar 24cm",
+      "面料/Fabric": "Kain/Fabric",
+      "帆布": "Kanvas",
+      "重量/Heavy": "Berat/Heavy",
+      "背法/Method": "Cara Pakai/Method",
+      "手提": "Tangan",
+      "尺寸/Size": "Saiz/Size",
+      "宽24cm高20cm厚15cm": "Lebar 24cm Tinggi 20cm Tebal 15cm",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm，请以实物颜色为准。": "Ukuran manual, sila benarkan ralat 1-3cm. Unit ukuran cm. Sila rujuk warna sebenar.",
+      "颜色展示": "Paparan Warna",
+      "黑色": "Hitam",
+      "卡其色": "Khaki",
+      "白色": "Putih"
+    },
+    "ID": {
+      "时尚设计": "Desain时尚",
+      "产品参数": "Spesifikasi Produk",
+      "高20cm": "Tinggi 20cm",
+      "厚15cm": "Tebal 15cm",
+      "宽24cm": "Lebar 24cm",
+      "面料/Fabric": "Bahan/Kain",
+      "帆布": "Kanvas",
+      "重量/Heavy": "Berat/Berat",
+      "背法/Method": "Cara Pakai",
+      "手提": "Tangan",
+      "尺寸/Size": "Ukuran",
+      "宽24cm高20cm厚15cm": "Lebar 24cm Tinggi 20cm Tebal 15cm",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm，请以实物颜色为准。": "Ukuran manual, toleransi 1-3cm. Satuan cm. Warna sesuai barang asli.",
+      "颜色展示": "Tampilan Warna",
+      "黑色": "Hitam",
+      "卡其色": "Khaki",
+      "白色": "Putih"
+    },
+    "PH": {
+      "时尚设计": "Fashion design",
+      "产品参数": "Product Specs",
+      "高20cm": "Height 20cm",
+      "厚15cm": "Depth 15cm",
+      "宽24cm": "Width 24cm",
+      "面料/Fabric": "Material/Fabric",
+      "帆布": "Canvas",
+      "重量/Heavy": "Weight",
+      "背法/Method": "Carry Style",
+      "手提": "Hand Carry",
+      "尺寸/Size": "Size",
+      "宽24cm高20cm厚15cm": "W24cm x H20cm x D15cm",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm，请以实物颜色为准。": "Hand-measured, please allow 1-3cm error. Size in cm. Actual color may vary.",
+      "颜色展示": "Color Options",
+      "黑色": "Black",
+      "卡其色": "Khaki",
+      "白色": "White"
+    }
+  }
+}

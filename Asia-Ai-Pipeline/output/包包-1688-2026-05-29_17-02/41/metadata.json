@@ -1,0 +1,772 @@
+{
+  "item_no": 41,
+  "keyword": "包包",
+  "title_cn": "【李娜同款】Song山下循迹系列见物旅行包植鞣牛皮托特包",
+  "price_cny": 0.0,
+  "shop_name": "广州市逸玛箱包有限公司",
+  "item_link": "http://detail.m.1688.com/page/index.html?offerId=1030867457574&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6042812764173&trace_log=normal&uuid=d41cb76b4ff54a6e85177b6c01b7fa9a",
+  "shop_link": "http://shop044984h742gg4.1688.com/",
+  "specs": [
+    {
+      "name": "【中号】烟墨黑",
+      "price_cny": 145.0,
+      "image_path": "商品规格/【中号】烟墨黑——145.00/001.jpg"
+    },
+    {
+      "name": "【大号】檀棕",
+      "price_cny": 145.0,
+      "image_path": "商品规格/【大号】檀棕——145.00/001.jpg"
+    },
+    {
+      "name": "【中号】檀棕",
+      "price_cny": 145.0,
+      "image_path": "商品规格/【中号】檀棕——145.00/001.jpg"
+    },
+    {
+      "name": "【中号】麂皮檀棕",
+      "price_cny": 145.0,
+      "image_path": "商品规格/【中号】麂皮檀棕——145.00/001.jpg"
+    },
+    {
+      "name": "【小号】檀棕",
+      "price_cny": 145.0,
+      "image_path": "商品规格/【小号】檀棕——145.00/001.jpg"
+    },
+    {
+      "name": "【小号】麂皮檀棕",
+      "price_cny": 145.0,
+      "image_path": "商品规格/【小号】麂皮檀棕——145.00/001.jpg"
+    },
+    {
+      "name": "【迷你】烟墨黑",
+      "price_cny": 145.0,
+      "image_path": "商品规格/【迷你】烟墨黑——145.00/001.jpg"
+    },
+    {
+      "name": "【迷你】檀棕",
+      "price_cny": 145.0,
+      "image_path": "商品规格/【迷你】檀棕——145.00/001.jpg"
+    }
+  ],
+  "detail_images": [
+    "商品详情图片/001.jpg",
+    "商品详情图片/002.jpg",
+    "商品详情图片/003.jpg",
+    "商品详情图片/004.jpg",
+    "商品详情图片/005.jpg",
+    "商品详情图片/006.jpg",
+    "商品详情图片/007.jpg",
+    "商品详情图片/008.jpg",
+    "商品详情图片/009.jpg",
+    "商品详情图片/010.jpg",
+    "商品详情图片/011.jpg",
+    "商品详情图片/012.jpg",
+    "商品详情图片/013.jpg",
+    "商品详情图片/014.jpg",
+    "商品详情图片/015.jpg",
+    "商品详情图片/016.jpg",
+    "商品详情图片/017.jpg",
+    "商品详情图片/018.jpg",
+    "商品详情图片/019.jpg",
+    "商品详情图片/020.jpg",
+    "商品详情图片/021.jpg",
+    "商品详情图片/022.jpg",
+    "商品详情图片/023.jpg",
+    "商品详情图片/024.jpg",
+    "商品详情图片/025.jpg"
+  ],
+  "scraped_at": "2026-05-29T17:45:11",
+  "status": "images_processed",
+  "folder_path": "D:\\demo\\llm-learning\\claude-vibecoding-learning\\Asia-Ai-Pipeline\\output\\包包-1688-2026-05-29_17-02\\41",
+  "localization": {
+    "ID": {
+      "title": "Tas Travel Kulit Sapi Asli | Song Shan Series | Tas Tote Premium",
+      "description": "Temani perjalananmu dengan tas tote kulit sapi asli dari koleksi Song Shan. Desain klasik dan elegan, cocok untuk hangout, kerja, atau traveling. Kulit nabati yang lembut dan kuat, tahan lama. Pilihan warna netral yang cocok dengan gaya apa pun. Jadikan momenmu lebih berkesan dengan tas berkualitas ini!",
+      "keywords": [
+        "tas kulit sapi",
+        "tas tote",
+        "tas travel",
+        "tas premium Indonesia",
+        "Song Shan"
+      ],
+      "selling_points": [
+        "Kulit sapi asli: bahan premium, tekstur unik, dan awet",
+        "Desain klasik: cocok untuk berbagai aktivitas dan gaya",
+        "Ukuran lengkap: dari mini hingga besar, pilih sesuai kebutuhan"
+      ],
+      "hashtags": [
+        "#TasKulitAsli",
+        "#TasTote",
+        "#TravelBag",
+        "#SongShan",
+        "#FashionIndonesia"
+      ],
+      "specs": [
+        {
+          "name_cn": "中号 烟墨黑",
+          "name_local": "Ukuran Sedang, Hitam"
+        },
+        {
+          "name_cn": "大号 檀棕",
+          "name_local": "Ukuran Besar, Cokelat"
+        },
+        {
+          "name_cn": "中号 檀棕",
+          "name_local": "Ukuran Sedang, Cokelat"
+        },
+        {
+          "name_cn": "中号 麂皮檀棕",
+          "name_local": "Ukuran Sedang, Cokelat Suede"
+        },
+        {
+          "name_cn": "小号 檀棕",
+          "name_local": "Ukuran Kecil, Cokelat"
+        },
+        {
+          "name_cn": "小号 麂皮檀棕",
+          "name_local": "Ukuran Kecil, Cokelat Suede"
+        },
+        {
+          "name_cn": "迷你 烟墨黑",
+          "name_local": "Ukuran Mini, Hitam"
+        },
+        {
+          "name_cn": "迷你 檀棕",
+          "name_local": "Ukuran Mini, Cokelat"
+        }
+      ],
+      "cta": "Beli sekarang, stok terbatas!",
+      "price_local": 5000.0,
+      "currency": "IDR",
+      "exchange_rate": 2200.0,
+      "markup": 3.8,
+      "generated_at": "2026-05-30T14:12:34"
+    },
+    "PH": {
+      "title": "Liyana's Travel Tote Bag – Premium Genuine Leather, 4 Sizes, Sulit Deal!",
+      "description": "Elevate your everyday carry with this handcrafted genuine leather tote from Song Shan. Perfect for office, travel, or weekend getaways—its minimalist design matches any outfit. The premium leather ages beautifully, developing a unique patina over time. Grab yours now—limited stocks available!",
+      "keywords": [
+        "leather tote bag",
+        "travel bag",
+        "genuine leather Philippines",
+        "women's handbag",
+        "Filipino bag"
+      ],
+      "selling_points": [
+        "Genuine vegetable-tanned leather – ages like fine wine, unique to you",
+        "4 sizes from mini to large – fits phone, tablet, or even your lunchbox",
+        "Water-resistant and easy to clean – perfect for rainy season in PH",
+        "Handcrafted details with sturdy stitching – lasts for years"
+      ],
+      "hashtags": [
+        "#leatherbag",
+        "#traveltote",
+        "#sulitdealsph",
+        "#bagphilippines",
+        "#tiktokshopph"
+      ],
+      "specs": [
+        {
+          "name_cn": "中号烟墨黑",
+          "name_local": "Medium Smoke Black"
+        },
+        {
+          "name_cn": "大号檀棕",
+          "name_local": "Large Tan Brown"
+        },
+        {
+          "name_cn": "中号檀棕",
+          "name_local": "Medium Tan Brown"
+        },
+        {
+          "name_cn": "中号麂皮檀棕",
+          "name_local": "Medium Suede Tan Brown"
+        },
+        {
+          "name_cn": "小号檀棕",
+          "name_local": "Small Tan Brown"
+        },
+        {
+          "name_cn": "小号麂皮檀棕",
+          "name_local": "Small Suede Tan Brown"
+        },
+        {
+          "name_cn": "迷你烟墨黑",
+          "name_local": "Mini Smoke Black"
+        },
+        {
+          "name_cn": "迷你檀棕",
+          "name_local": "Mini Tan Brown"
+        }
+      ],
+      "cta": "Order now – limited stocks! Shop today!",
+      "price_local": 29.0,
+      "currency": "PHP",
+      "exchange_rate": 8.0,
+      "markup": 3.2,
+      "generated_at": "2026-05-30T14:12:34"
+    },
+    "TH": {
+      "title": "กระเป๋าหนังแท้ใบใหญ่ ทุกสีสุดปัง! ใช้งานได้ทุกวัน แบรนด์ดังจากจีน",
+      "description": "กระเป๋าโท้ทหนังวัวแท้ เนื้อนุ่ม ทนทาน ดีไซน์เก๋ไก๋ สไตล์เกาหลี เหมาะพกพาไปทำงาน ช้อปปิ้ง หรือเที่ยว มีหลายขนาดตั้งแต่ Mini ถึงใหญ่ ใส่ของได้เยอะ โดดเด่นทุกครั้งที่ออกไปข้างนอก! รับประกันความพึงพอใจ",
+      "keywords": [
+        "กระเป๋าหนังแท้",
+        "กระเป๋าโท้ท",
+        "กระเป๋าเกาหลี",
+        "กระเป๋าใส่ของเยอะ"
+      ],
+      "selling_points": [
+        "หนังวัวแท้ 100% ทนทาน ใช้ได้นาน",
+        "หลายขนาดให้เลือก ใส่ของได้จุใจ",
+        "ดีไซน์คลาสสิก ไม่ตกยุค แต่งตัวง่าย"
+      ],
+      "hashtags": [
+        "#กระเป๋าหนังแท้",
+        "#โท้ทแบรนด์ดัง",
+        "#กระเป๋าคุณภาพดี",
+        "#ของมันต้องมี",
+        "#TikTokซื้อเลย"
+      ],
+      "specs": [
+        {
+          "name_cn": "中号",
+          "name_local": "ขนาดกลาง"
+        },
+        {
+          "name_cn": "大号",
+          "name_local": "ขนาดใหญ่"
+        },
+        {
+          "name_cn": "小号",
+          "name_local": "ขนาดเล็ก"
+        },
+        {
+          "name_cn": "迷你",
+          "name_local": "ขนาดเล็กมาก"
+        },
+        {
+          "name_cn": "烟墨黑",
+          "name_local": "สีดำ"
+        },
+        {
+          "name_cn": "檀棕",
+          "name_local": "สีน้ำตาล"
+        },
+        {
+          "name_cn": "麂皮檀棕",
+          "name_local": "สีน้ำตาลหนังกลับ"
+        }
+      ],
+      "cta": "เหลือแค่ไม่กี่ใบ! สั่งเลยวันนี้",
+      "price_local": 39.0,
+      "currency": "THB",
+      "exchange_rate": 5.0,
+      "markup": 3.5,
+      "generated_at": "2026-05-30T14:12:34"
+    },
+    "MY": {
+      "title": "Beg Tote Travel Kulit Lembut | Song Shan Vintage Style | Selesa & Tahan Lasak",
+      "description": "Beg tote travel dari kulit lembut ini direka untuk wanita moden yang mementingkan gaya dan fungsi. Sesuai untuk kerja, jalan-jalan atau ke kafe, ia memberikan ruang yang cukup untuk barang harian anda. Dengan rekaan klasik dan tahan lasak, beg ini adalah teman setia anda setiap hari. Dapatkan sekarang dan tingkatkan gaya harian anda!",
+      "keywords": [
+        "beg tote travel",
+        "kulit lembut tahan lasak",
+        "beg vintage wanita",
+        "beg kerja selesa",
+        "beg kualiti tinggi"
+      ],
+      "selling_points": [
+        "Diperbuat daripada kulit lembut berkualiti tinggi yang tahan lasak dan selesa dipegang",
+        "Ruang luas dengan pelbagai poket untuk menyusun barang dengan kemas",
+        "Reka bentuk minimalis yang sesuai untuk pelbagai gaya dan acara"
+      ],
+      "hashtags": [
+        "#BegToteTravel",
+        "#KulitLembut",
+        "#VintageStyle",
+        "#FesyenWanita",
+        "#BegKerja"
+      ],
+      "specs": [
+        {
+          "name_cn": "【中号】烟墨黑",
+          "name_local": "Saiz Sederhana - Hitam Pekat"
+        },
+        {
+          "name_cn": "【大号】檀棕",
+          "name_local": "Saiz Besar - Coklat Cendana"
+        },
+        {
+          "name_cn": "【中号】檀棕",
+          "name_local": "Saiz Sederhana - Coklat Cendana"
+        },
+        {
+          "name_cn": "【中号】麂皮檀棕",
+          "name_local": "Saiz Sederhana - Suede Coklat Cendana"
+        },
+        {
+          "name_cn": "【小号】檀棕",
+          "name_local": "Saiz Kecil - Coklat Cendana"
+        },
+        {
+          "name_cn": "【小号】麂皮檀棕",
+          "name_local": "Saiz Kecil - Suede Coklat Cendana"
+        },
+        {
+          "name_cn": "【迷你】烟墨黑",
+          "name_local": "Saiz Mini - Hitam Pekat"
+        },
+        {
+          "name_cn": "【迷你】檀棕",
+          "name_local": "Saiz Mini - Coklat Cendana"
+        }
+      ],
+      "cta": "Jangan lepaskan! Stok terhad, beli sekarang!",
+      "price_local": 3.9,
+      "currency": "MYR",
+      "exchange_rate": 0.63,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:35"
+    },
+    "SG": {
+      "title": "Songxia Journey Leather Tote Bag | Genuine Cowhide Shoulder Bag for Daily Work & Travel",
+      "description": "Inspired by the journey of life, this handcrafted tote bag from Songxia Collection features premium vegetable-tanned cowhide with a rustic, natural finish. Perfect for Singapore's urban lifestyle, it effortlessly transitions from office meetings to weekend brunches or a quick getaway. The spacious interior fits your laptop, wallet, and essentials, while the minimalist design adds a touch of understated elegance. Lightweight yet durable, it ages beautifully over time. Grab yours now and carry your story.",
+      "keywords": [
+        "leather tote bag",
+        "cowhide shoulder bag",
+        "work bag",
+        "travel tote",
+        "minimalist handbag"
+      ],
+      "selling_points": [
+        "Genuine vegetable-tanned cowhide leather that develops a unique patina over time",
+        "Spacious enough for 13-inch laptop, wallet, and daily essentials",
+        "Lightweight design (approx. 500g) with comfortable shoulder straps for all-day wear"
+      ],
+      "hashtags": [
+        "#SongxiaCollection",
+        "#LeatherTote",
+        "#SingaporeStyle",
+        "#WorkBag",
+        "#TravelBag"
+      ],
+      "specs": [
+        {
+          "name_cn": "中号烟墨黑",
+          "name_local": "Medium Smoke Black"
+        },
+        {
+          "name_cn": "大号檀棕",
+          "name_local": "Large Sandalwood Brown"
+        },
+        {
+          "name_cn": "中号檀棕",
+          "name_local": "Medium Sandalwood Brown"
+        },
+        {
+          "name_cn": "中号麂皮檀棕",
+          "name_local": "Medium Suede Sandalwood Brown"
+        },
+        {
+          "name_cn": "小号檀棕",
+          "name_local": "Small Sandalwood Brown"
+        },
+        {
+          "name_cn": "小号麂皮檀棕",
+          "name_local": "Small Suede Sandalwood Brown"
+        },
+        {
+          "name_cn": "迷你烟墨黑",
+          "name_local": "Mini Smoke Black"
+        },
+        {
+          "name_cn": "迷你檀棕",
+          "name_local": "Mini Sandalwood Brown"
+        }
+      ],
+      "cta": "🇸🇬 Limited stock! Snag yours before it's gone 👉",
+      "price_local": 2.9,
+      "currency": "SGD",
+      "exchange_rate": 0.185,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:34"
+    }
+  },
+  "image_text_translations": {
+    "SG": {
+      "搭配组合": "Mix & match",
+      "点击购买>": "Shop now>",
+      "乌朵挂饰": "Wuduo charm",
+      "包包挂件用于展示，可根据需要搭配购买": "Bag accessory for display, mix & match as you like",
+      "百带不均匀的的光感，如问一位老朋发。": "Uneven shine like asking an old friend.",
+      "时光植皮与反绒皮、各具韵味风采": "Aged leather and suede, each with its own charm.",
+      "「时光植皮」自带油润和不均匀时光质感，": "Aged leather has a natural oily and uneven vintage texture,",
+      "越用越醇久。": "It gets better with age.",
+      "皮胚严选产量有限的优质西班牙、小牛皮，经特殊工艺处理易留下使用痕迹，是、与时光共同协作的见证。": "Made from limited premium Spanish calfskin, specially treated to show wear, a testament to time.",
+      "丝光感反绒皮": "Silky suede leather",
+      "表面自带毛绒，触感细腻软、糯，拥有如丝绸般的高级丝光感，触及包身即、见富有时光质感的双色效果。": "Soft, fuzzy texture with a silky sheen. The bag shows a two-tone effect that adds a vintage vibe.",
+      "注：反绒皮材质为牛剖层绒面（皮）革，由于其天然属性，随着日常、使用会留下斑驳痕迹，更加有时光韵味。": "Note: This is suede from split cowhide. Due to its natural properties, it will develop a patina over time, adding to its vintage charm.",
+      "包有伏虎、内心无畏、以黄河源头藏地文化中“虎”为灵感，抽象提、炼，呈现于设计之中。希望你：包中有「伏、虎」，心中有勇敢。": "Bag has hidden tiger, heart fearless. Inspired by the 'tiger' from Tibetan culture at the Yellow River source, abstractly refined and presented in the design. Hope you: bag has 'hidden tiger', heart has courage.",
+      "提取": "extract",
+      "天珠虎牙": "dzi bead tiger tooth",
+      "304不锈钢": "304 stainless steel",
+      "三": "three",
+      "真空镀五金": "vacuum-plated hardware",
+      "融入了Songmont标志性的山松元素，采用首、饰精度的304不锈钢真空镀五金，制作工艺对、水资源更友好。复古做旧质感，不易留痕，兼、具精巧细节与耐磨度。": "Features Songmont's iconic mountain pine design, with precision 304 stainless steel vacuum-plated hardware. Eco-friendly process saves water. Vintage distressed finish resists scratches, combining delicate details with durability.",
+      "注：弹簧圈、脚钉、奶嘴钉为不锈钢材质": "Note: Spring rings, feet, and nipple studs are stainless steel.",
+      "使用场景": "Use cases",
+      "质感生活": "Quality living",
+      "漫步城市或远行度假": "Stroll the city or go on a holiday",
+      "在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "At Amangalla and Wildcoast in Sri Lanka, wander through 17th-century heritage buildings,",
+      "自然入画，与景致脉络融为一体，质感立现。": "Nature frames the view, blending seamlessly with the scenery—quality instantly felt.",
+      "产品信息": "Product info",
+      "详细内容": "Details",
+      "小号": "Small",
+      "重量": "Weight",
+      "(不含肩带)": "(excl. strap)",
+      "植皮": "Genuine leather",
+      "反绒皮": "Suede",
+      "手提带长": "Handle drop",
+      "长肩带长": "Strap drop",
+      "中号": "Medium",
+      "产品": "Product",
+      "见物旅行包": "Jianwu travel bag",
+      "里料": "Lining",
+      "织物": "Fabric",
+      "面料": "Material",
+      "牛头层皮革/": "Top-grain cowhide /",
+      "五金": "Hardware",
+      "304不锈钢真空镀/": "304 stainless steel vacuum-plated /",
+      "牛剖层绒面皮革": "Split suede leather",
+      "以上数据均为标准测量，如存在轻微误差，属正常现象，由于拍摄光、线、角度和显示器对比度不同，实物与照片会有一定程度色差，最终、颜色以实物为准。": "All measurements are standard. Slight differences are normal. Actual colour may vary due to lighting, angles, and screen settings. Refer to the actual product for the final colour.",
+      "13英寸MacBookPro": "13-inch MacBook Pro",
+      "16英寸MacBookPro": "16-inch MacBook Pro",
+      "搭配参考": "Outfit idea",
+      "上身展示": "Model wearing",
+      "丰富细节": "Rich details",
+      "细节设计": "Detailed design",
+      "精致虎牙图案": "Exquisite tiger tooth pattern",
+      "脏染内里呈现独特性": "Unique dirty-dyed interior",
+      "日版内里为纯棉材料，因植物染色工艺和类硅胶产品接触会有浮色；": "Japanese version interior is pure cotton; due to plant dyeing, it may fade when in contact with silicone-like products.",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有区别": "Now improved with synthetic fibers, no more fading, looks the same.",
+      "多种收纳隔层": "Multiple storage compartments",
+      "方便使用": "Easy to use",
+      "使用过程中": "During use",
+      "会留下古朴斑驳的质感": "Develops a rustic patina over time",
+      "隐藏贴袋与挂载位": "Hidden pockets and attachment points",
+      "肩带由硬至软更加好背": "Straps go from stiff to soft for better comfort",
+      "小号标配可拆卸长肩带": "Small comes with detachable long strap",
+      "中号标配虎牙肩带": "Medium comes with tiger tooth strap",
+      "更多推荐": "More recommendations",
+      "猜你喜欢": "You might also like",
+      "游历公文包": "Travel briefcase",
+      "时光植皮与反绒皮、各具韵味风采、越用越醇久。皮胚严选产量有限的优质西班牙、小牛皮，经特殊工艺处理易留下使用痕迹，是、与时光共同协作的见证。": "Genuine leather and suede, each with its own charm, gets better with age. Made from limited Spanish calfskin, specially treated to show wear, a testament to time.",
+      "漫步城市或远行度假，在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "Stroll through the city or go on a holiday, at Amangalla and Wildcoast in Sri Lanka, wander among 17th-century heritage buildings,",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有、区别。": "We've improved the material by adding synthetic fibers, completely solving the colour bleeding issue. No visual difference."
+    },
+    "TH": {
+      "搭配组合": "ชุด搭配",
+      "点击购买>": "คลิกซื้อ>",
+      "乌朵挂饰": "จี้ห้อย Wuduo",
+      "包包挂件用于展示，可根据需要搭配购买": "จี้กระเป๋าสำหรับโชว์ สามารถซื้อ搭配ตามต้องการ",
+      "百带不均匀的的光感": "แสงที่ไม่สม่ำเสมอ",
+      "如问一位老朋发": "เหมือนถามเพื่อนเก่า",
+      "时光植皮与反绒皮、各具韵味风采": "หนังวินเทจและหนังกลับ แต่ละแบบมีเสน่ห์ไม่เหมือนกัน",
+      "「时光植皮」自带油润和不均匀时光质感，": "หนังวินเทจมีความมันและพื้นผิวที่ไม่สม่ำเสมอตามกาลเวลา",
+      "越用越醇久。皮胚严选产量有限的优质西班牙、小牛皮，经特殊工艺处理易留下使用痕迹，是、与时光共同协作的见证。": "ยิ่งใช้ยิ่งสวย หนังลูกวัวสเปนคุณภาพดีที่คัดสรรมาอย่างดี ผ่านกรรมวิธีพิเศษให้เกิดร่องรอยการใช้งาน เป็นหลักฐานแห่งการร่วมงานกับกาลเวลา",
+      "丝光感反绒皮": "หนังกลับเงาแพร",
+      "表面自带毛绒，触感细腻软、糯，拥有如丝绸般的高级丝光感，触及包身即、见富有时光质感的双色效果。": "ผิวมีขนนุ่ม ละเอียด นุ่มมือ ให้สัมผัสเหมือนแพร เงาสวยหรู สัมผัสกระเป๋าแล้วเห็นเอฟเฟกต์สองสีที่ดูมีวินเทจ",
+      "注：反绒皮材质为牛剖层绒面（皮）革，由于其天然属性，随着日常、使用会留下斑驳痕迹，更加有时光韵味。": "หมายเหตุ: หนังกลับทำจากหนังชั้น split ของวัว เนื่องจากคุณสมบัติตามธรรมชาติ เมื่อใช้งานทุกวันจะเกิดรอยด่างๆ เพิ่มเสน่ห์แห่งกาลเวลา",
+      "包有伏虎": "กระเป๋ามีเสือหมอบ",
+      "内心无畏": "ใจไม่กลัว",
+      "以黄河源头藏地文化中“虎”为灵感，抽象提、炼，呈现于设计之中。": "ได้รับแรงบันดาลใจจาก 'เสือ' ในวัฒนธรรมทิเบตที่ต้นกำเนิดแม่น้ำเหลือง นำมาสกัดและกลั่นกรองเป็นนามธรรม นำเสนอในการออกแบบ",
+      "希望你：包中有「伏、虎」，心中有勇敢。": "หวังว่าคุณ: ในกระเป๋ามี '伏, เสือ' ในใจมีความกล้าหาญ",
+      "提取": "สกัด",
+      "天珠虎牙": "เขี้ยวเสือแห่งเทียนจู",
+      "304不锈钢": "สแตนเลส 304",
+      "三": "สาม",
+      "真空镀五金": "ชุบโลหะแบบสุญญากาศ",
+      "融入了Songmont标志性的山松元素，采用首、饰精度的304不锈钢真空镀五金，制作工艺对、水资源更友好。复古做旧质感，不易留痕，兼、具精巧细节与耐磨度。": "ผสมผสานองค์ประกอบภูเขาสนอันเป็นเอกลักษณ์ของ Songmont ใช้ชุบโลหะสุญญากาศสแตนเลส 304 ความเที่ยงตรงสูง กระบวนการผลิตเป็นมิตรต่อทรัพยากรน้ำมากขึ้น ผิววินเทจเก๋า ไม่ทิ้งรอยง่าย มีทั้งรายละเอียดประณีตและความทนทาน",
+      "、注：弹簧圈、脚钉、奶嘴钉为不锈钢材质": "หมายเหตุ: ห่วงสปริง, ขาแหลม, หัวนมทำจากสแตนเลส",
+      "使用场景": "การใช้งาน",
+      "质感生活": "ชีวิตที่มีคุณภาพ",
+      "漫步城市或远行度假": "เดินเล่นในเมืองหรือไปพักผ่อนไกลๆ",
+      "在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "ที่ Amangalla และ Wildcoast ในศรีลังกา เดินเล่นในอาคารเก่าแก่สมัยศตวรรษที่ 17 ที่เป็นมรดกทางวัฒนธรรม",
+      "自然入画，与景致脉络融为一体，质感立现。": "ธรรมชาติกลายเป็นภาพวาด ผสานกับทิวทัศน์ เห็นคุณภาพทันที",
+      "产品信息": "ข้อมูลสินค้า",
+      "详细内容": "รายละเอียด",
+      "小号": "ขนาดเล็ก",
+      "重量": "น้ำหนัก",
+      "(不含肩带)": "(ไม่รวมสายสะพาย)",
+      "植皮": "หนังปลูก",
+      "反绒皮": "หนังกลับ",
+      "手提带长": "ความยาวหูหิ้ว",
+      "长肩带长": "ความยาวสายสะพายยาว",
+      "中号": "ขนาดกลาง",
+      "产品": "สินค้า",
+      "见物旅行包": "กระเป๋าเดินทาง Jianwu",
+      "里料": "ซับใน",
+      "织物": "ผ้า",
+      "面料": "วัสดุภายนอก",
+      "牛头层皮革/": "หนังวัวชั้นบน/",
+      "五金": "อุปกรณ์โลหะ",
+      "304不锈钢真空镀/": "สแตนเลส 304 ชุบสูญญากาศ/",
+      "牛剖层绒面皮革": "หนังวัวแบ่งชั้นแบบกลับ",
+      "以上数据均为标准测量，如存在轻微误差，属正常现象，由于拍摄光、线、角度和显示器对比度不同，实物与照片会有一定程度色差，最终、颜色以实物为准。": "ข้อมูลข้างต้นเป็นค่ามาตรฐาน อาจมีความคลาดเคลื่อนเล็กน้อย ซึ่งเป็นเรื่องปกติ เนื่องจากแสง มุม และความต่างของจอภาพ สีของสินค้าจริงอาจแตกต่างจากภาพเล็กน้อย สีจริงยึดตามสินค้าจริง",
+      "13英寸MacBookPro": "MacBook Pro 13 นิ้ว",
+      "16英寸MacBookPro": "MacBook Pro 16 นิ้ว",
+      "搭配参考": "การจับคู่แนะนำ",
+      "上身展示": "การสวมใส่จริง",
+      "丰富细节": "รายละเอียดมากมาย",
+      "细节设计": "การออกแบบที่ละเอียด",
+      "精致虎牙图案": "ลายเขี้ยวเสือที่สวยงาม",
+      "脏染内里呈现独特性": "ด้านในย้อมสกปรกให้ความโดดเด่น",
+      "日版内里为纯棉材料，因植物染色工艺和类硅胶产品接触会有浮色；": "รุ่นญี่ปุ่นด้านในเป็นผ้าฝ้ายแท้ เนื่องจากเทคนิคการย้อมสีธรรมชาติ เมื่อสัมผัสกับผลิตภัณฑ์คล้ายซิลิโคนอาจมีสีหลุด",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有区别。": "ตอนนี้ปรับปรุงวัสดุโดยเพิ่มเส้นใยสังเคราะห์ แก้ปัญหาสีหลุดได้หมด ดูแล้วไม่ต่างกัน",
+      "多种收纳隔层": "มีช่องเก็บของหลายช่อง",
+      "方便使用": "ใช้งานสะดวก",
+      "使用过程中": "ระหว่างการใช้งาน",
+      "会留下古朴斑驳的质感": "จะทิ้งร่องรอยโบราณที่สวยงาม",
+      "隐藏贴袋与挂载位": "กระเป๋าซ่อนและจุดแขวน",
+      "肩带由硬至软更加好背": "สายสะพายจากแข็งไปนุ่ม สะพายสบายขึ้น",
+      "小号标配可拆卸长肩带": "รุ่นเล็กมาพร้อมสายยาวถอดได้",
+      "中号标配虎牙肩带": "รุ่นกลางมาพร้อมสายเขี้ยวเสือ",
+      "更多推荐": "แนะนำเพิ่มเติม",
+      "猜你喜欢": "คุณอาจชอบ",
+      "游历公文包": "กระเป๋าเอกสารเดินทาง",
+      "时光植皮与反绒皮、各具韵味风采、越用越醇久。皮胚严选产量有限的优质西班牙、小牛皮，经特殊工艺处理易留下使用痕迹，是、与时光共同协作的见证。": "หนังปลูกเวลาและหนังกลับ มีเสน่ห์เฉพาะตัว ยิ่งใช้ยิ่งมีกลิ่นอาย หนังดิบคัดสรรจากวัวหนุ่มสเปนคุณภาพดีที่มีจำนวนจำกัด ผ่านกระบวนการพิเศษที่ทำให้เกิดร่องรอยการใช้งาน เป็นหลักฐานของการร่วมมือกับกาลเวลา",
+      "融入了Songmont标志性的山松元素，采用首、饰精度的304不锈钢真空镀五金，制作工艺对、水资源更友好。复古做旧质感，不易留痕，兼、具精巧细节与耐磨度。、注：弹簧圈、脚钉、奶嘴钉为不锈钢材质": "ผสมผสานเอกลักษณ์ของ Songmont อย่าง山松 ใช้อุปกรณ์สแตนเลส 304 เคลือบสุญญากาศคุณภาพสูง กระบวนการผลิตเป็นมิตรต่อน้ำและสิ่งแวดล้อม ผิววินเทจเก๋ ไม่ทิ้งรอยง่าย ละเอียดอ่อนและทนทาน หมายเหตุ: ห่วงสปริง ตะปู และจุกนมทำจากสแตนเลส",
+      "漫步城市或远行度假，在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "เดินเล่นในเมืองหรือพักผ่อนไกล ในศรีลังกาที่ Amangalla และ Wildcoast เดินเล่นในอาคารเก่าแก่มรดกโลกศตวรรษที่ 17",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有、区别。": "ตอนนี้ปรับปรุงวัสดุแล้ว เพิ่มส่วนผสมใยสังเคราะห์ แก้ปัญหาสีลอยได้หมด มองไม่เห็นความแตกต่าง"
+    },
+    "MY": {
+      "搭配组合": "Gabungan padanan",
+      "点击购买>": "Klik untuk beli>",
+      "乌朵挂饰": "Hiasan gantung Wuduo",
+      "包包挂件用于展示，可根据需要搭配购买": "Loket beg untuk pameran, boleh beli ikut keperluan",
+      "百带不均匀的的光感": "Cahaya tak sekata macam kawan lama",
+      "如问一位老朋发": "Macam tanya kawan lama",
+      "时光植皮与反绒皮": "Kulit patina dan suede",
+      "各具韵味风采": "Masing-masing ada gaya unik",
+      "「时光植皮」自带油润和不均匀时光质感，": "Kulit patina ada tekstur berminyak dan tidak rata,",
+      "越用越醇久。": "Makin lama makin sedap.",
+      "皮胚严选产量有限的优质西班牙、小牛皮，": "Kulit anak lembu Sepanyol terpilih, terhad, berkualiti tinggi,",
+      "经特殊工艺处理易留下使用痕迹，是、": "Diproses khas untuk meninggalkan kesan penggunaan, adalah",
+      "与时光共同协作的见证。": "saksi kerjasama dengan masa.",
+      "丝光感反绒皮": "Kulit suede berkilat",
+      "表面自带毛绒，触感细腻软、糯，拥有如丝绸般的高级丝光感，触及包身即、见富有时光质感的双色效果。": "Permukaan berbulu halus, sentuhan lembut dan gebu, kilauan sutera mewah, kesan dua warna klasik pada beg.",
+      "注：反绒皮材质为牛剖层绒面（皮）革，由于其天然属性，随着日常、使用会留下斑驳痕迹，更加有时光韵味。": "Nota: Kulit suede dari lapisan lembu, sifat semula jadi, calar biasa menambah pesona klasik.",
+      "包有伏虎、内心无畏、以黄河源头藏地文化中“虎”为灵感，抽象提、炼，呈现于设计之中。": "Beg ada harimau, hati berani. Terinspirasi dari budaya Tibet di sumber Sungai Kuning, harimau diolah abstrak dalam rekaan.",
+      "希望你：包中有「伏、虎」，心中有勇敢。": "Harap kau: dalam beg ada 'harimau', dalam hati ada keberanian.",
+      "提取": "ekstrak",
+      "天珠虎牙": "taring harimau manik langit",
+      "304不锈钢": "Keluli tahan karat 304",
+      "三": "tiga",
+      "真空镀五金": "logam saduran vakum",
+      "融入了Songmont标志性的山松元素，采用首、饰精度的304不锈钢真空镀五金，制作工艺对、水资源更友好。复古做旧质感，不易留痕，兼、具精巧细节与耐磨度。": "Menggabungkan elemen pain gunung ikonik Songmont, menggunakan keluli tahan karat 304 dengan ketepatan perhiasan dan penyaduran vakum, proses pembuatan lebih mesra alam dan air. Tekstur vintaj yang usang, tidak mudah meninggalkan kesan, dengan butiran halus dan ketahanan.",
+      "注：弹簧圈、脚钉、奶嘴钉为不锈钢材质": "Nota: Gelang spring, paku kaki, paku puting diperbuat daripada keluli tahan karat",
+      "使用场景": "Penggunaan",
+      "质感生活": "Hidup berkualiti",
+      "漫步城市或远行度假": "Jalan-jalan di bandar atau bercuti jauh",
+      "在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "Di Amangalla dan Wildcoast Sri Lanka, berjalan di bangunan lama warisan abad ke-17,",
+      "自然入画，与景致脉络融为一体，质感立现。": "Alam semula jadi seperti lukisan, sebati dengan pemandangan, kualiti terus terserlah.",
+      "产品信息": "Maklumat produk",
+      "详细内容": "Butiran lengkap",
+      "小号": "Saiz kecil",
+      "重量": "Berat",
+      "(不含肩带)": "(tanpa tali)",
+      "植皮": "Kulit tanam",
+      "反绒皮": "Kulit suede",
+      "手提带长": "Panjang tali tangan",
+      "长肩带长": "Panjang tali bahu",
+      "中号": "Saiz sederhana",
+      "产品": "Produk",
+      "见物旅行包": "Beg perjalanan Jianwu",
+      "里料": "Lapisan dalam",
+      "织物": "Kain",
+      "面料": "Bahan luar",
+      "牛头层皮革/": "Kulit lembu lapisan atas/",
+      "五金": "Kelengkapan logam",
+      "304不锈钢真空镀/": "Salutan vakum keluli tahan karat 304/",
+      "牛剖层绒面皮革": "Kulit lembu suede berlapis",
+      "以上数据均为标准测量，如存在轻微误差，属正常现象，由于拍摄光、线、角度和显示器对比度不同，实物与照片会有一定程度色差，最终、颜色以实物为准": "Semua data di atas adalah ukuran standard. Jika terdapat sedikit ralat, ia adalah normal. Disebabkan perbezaan cahaya, sudut dan kontras skrin, warna sebenar mungkin berbeza sedikit daripada gambar. Warna akhir adalah berdasarkan produk sebenar.",
+      "13英寸MacBookPro": "MacBook Pro 13 inci",
+      "16英寸MacBookPro": "MacBook Pro 16 inci",
+      "搭配参考": "Rujukan padanan",
+      "上身展示": "Paparan pemakaian",
+      "丰富细节": "Banyak detail",
+      "细节设计": "Rekaan terperinci",
+      "精致虎牙图案": "Corak taring harimau yang kemas",
+      "脏染内里呈现独特性": "Dalaman kotor memberikan keunikan",
+      "日版内里为纯棉材料，因植物染色工艺和类硅胶产品接触会有浮色；": "Versi Jepun guna kapas tulen, sebab pewarna semula jadi dan sentuhan dengan silikon boleh luntur;",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有、区别": "Sekarang dah tambah serat sintetik, masalah luntur selesai, nampak sama je.",
+      "多种收纳隔层": "Banyak ruang simpanan",
+      "方便使用": "Senang guna",
+      "使用过程中": "Semasa guna",
+      "会留下古朴斑驳的质感": "Akan nampak klasik dan unik",
+      "隐藏贴袋与挂载位": "Poket tersembunyi & tempat gantung",
+      "肩带由硬至软更加好背": "Tali bahu dari keras ke lembut, lebih selesa dipakai",
+      "小号标配可拆卸长肩带": "Saiz kecil standard dengan tali panjang boleh tanggal",
+      "中号标配虎牙肩带": "Saiz sederhana standard dengan tali bahu taring harimau",
+      "更多推荐": "Lebih banyak cadangan",
+      "猜你喜欢": "Mungkin anda suka",
+      "游历公文包": "Beg bimbit perjalanan",
+      "皮胚严选产量有限的优质西班牙、小牛皮，经特殊工艺处理易留下使用痕迹，是": "Kulit pilihan terhad dari Sepanyol, lembu kecil, diproses khas mudah meninggalkan kesan penggunaan.",
+      "包有伏虎、内心无畏、以黄河源头藏地文化中“虎”为灵感，抽象提、炼，呈现于设计之中。希望你：包中有「伏、虎」，心中有勇敢。": "Beg ada harimau, hati berani. Diinspirasikan dari budaya Tibet di sumber Sungai Kuning, harimau dijadikan inspirasi, diolah secara abstrak, dipersembahkan dalam rekaan. Harap awak: dalam beg ada 'harimau', dalam hati ada keberanian.",
+      "漫步城市或远行度假，在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "Jalan-jalan di bandar atau bercuti jauh, di Amangalla dan Wildcoast Sri Lanka, berjalan di bangunan lama warisan abad ke-17,",
+      "以上数据均为标准测量，如存在轻微误差，属正常现象，由于拍摄光、线、角度和显示器对比度不同，实物与照片会有一定程度色差，最终、颜色以实物为准。": "Semua ukuran adalah standard, sedikit perbezaan adalah normal. Warna mungkin berbeza sedikit disebabkan cahaya, sudut dan skrin. Warna sebenar adalah berdasarkan produk sebenar.",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有、区别。": "Sekarang bahan dah dioptimumkan dengan tambah serat sintetik, masalah warna luntur selesai, nampak sama je."
+    },
+    "ID": {
+      "搭配组合": "Paket kombinasi",
+      "点击购买>": "Klik beli>",
+      "乌朵挂饰": "Gantungan Wuduo",
+      "包包挂件用于展示，可根据需要搭配购买": "Gantungan tas untuk display, bisa dibeli sesuai kebutuhan",
+      "百带不均匀的的光感，如问一位老朋发。": "Efek cahaya yang tidak merata, seperti bertanya pada teman lama.",
+      "时光植皮与反绒皮、各具韵味风采": "Kulit vintage dan suede, masing-masing punya pesona unik",
+      "「时光植皮」自带油润和不均匀时光质感，": "Kulit vintage punya tekstur berminyak dan tidak rata alami, ",
+      "越用越醇久。皮胚严选产量有限的优质西班牙、小牛皮，经特殊工艺处理易留下使用痕迹，是、与时光共同协作的见证。": "semakin dipakai semakin klasik. Bahan baku kulit sapi Spanyol pilihan terbatas, diproses khusus hingga mudah meninggalkan bekas pakai, jadi saksi kolaborasi dengan waktu.",
+      "丝光感反绒皮": "Kulit suede dengan efek sutra",
+      "表面自带毛绒，触感细腻软、糯，拥有如丝绸般的高级丝光感，触及包身即、见富有时光质感的双色效果。": "Permukaan berbulu halus, sentuhan lembut dan kenyal, efek sutra mewah, memberikan efek dua warna yang kaya akan nuansa waktu.",
+      "注：反绒皮材质为牛剖层绒面（皮）革，由于其天然属性，随着日常、使用会留下斑驳痕迹，更加有时光韵味。": "Catatan: Bahan suede dari kulit sapi split, karena sifat alaminya, akan meninggalkan bekas usang seiring pemakaian, menambah kesan vintage.",
+      "包有伏虎": "Tas ada harimau",
+      "内心无畏": "Hati tak takut",
+      "以黄河源头藏地文化中“虎”为灵感，抽象提、炼，呈现于设计之中。": "Terinspirasi dari budaya Tibet di sumber Sungai Kuning, 'harimau' diangkat dan disederhanakan dalam desain.",
+      "希望你：包中有「伏、虎」，心中有勇敢。": "Semoga tasmu berisi 'harimau', dan hatimu berani.",
+      "提取": "ekstrak",
+      "天珠虎牙": "taring harimau dzi",
+      "304不锈钢": "Stainless steel 304",
+      "三": "Tiga",
+      "真空镀五金": "Logam vakum plating",
+      "融入了Songmont标志性的山松元素，采用首、饰精度的304不锈钢真空镀五金，制作工艺对、水资源更友好。复古做旧质感，不易留痕，兼、具精巧细节与耐磨度。": "Menggabungkan elemen pinus gunung khas Songmont, menggunakan logam vakum plating stainless steel 304 presisi tinggi, proses produksi lebih ramah terhadap air. Tekstur vintage antik, tidak mudah meninggalkan bekas, memiliki detail halus dan ketahanan aus.",
+      "、注：弹簧圈、脚钉、奶嘴钉为不锈钢材质": "Catatan: Ring pegas, paku kaki, paku dot terbuat dari stainless steel",
+      "使用场景": "Penggunaan",
+      "质感生活": "Hidup berkualitas",
+      "漫步城市或远行度假": "Jalan-jalan di kota atau liburan jauh",
+      "在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "Di Amangalla dan Wildcoast Sri Lanka, berjalan di bangunan tua warisan abad ke-17,",
+      "自然入画，与景致脉络融为一体，质感立现。": "Alam seperti lukisan, menyatu dengan pemandangan, kualitas langsung terasa.",
+      "产品信息": "Info produk",
+      "详细内容": "Detail",
+      "小号": "Ukuran kecil",
+      "重量": "Berat",
+      "(不含肩带)": "(tanpa tali)",
+      "植皮": "Kulit tanam",
+      "反绒皮": "Suede",
+      "手提带长": "Panjang tali tangan",
+      "长肩带长": "Panjang tali panjang",
+      "中号": "Ukuran sedang",
+      "产品": "Produk",
+      "见物旅行包": "Tas travel",
+      "里料": "Lapisan dalam",
+      "织物": "Kain",
+      "面料": "Bahan luar",
+      "牛头层皮革/": "Kulit sapi asli/",
+      "五金": "Logam",
+      "304不锈钢真空镀/": "Stainless steel 304 vacuum plated/",
+      "牛剖层绒面皮革": "Kulit suede split",
+      "以上数据均为标准测量，如存在轻微误差，属正常现象，由于拍摄光、线、角度和显示器对比度不同，实物与照片会有一定程度色差，最终、颜色以实物为准。": "Data di atas adalah ukuran standar. Sedikit perbedaan adalah hal wajar. Karena perbedaan cahaya, sudut, dan layar, warna asli mungkin sedikit berbeda dari foto. Warna akhir mengacu pada produk asli.",
+      "13英寸MacBookPro": "MacBook Pro 13 inci",
+      "16英寸MacBookPro": "MacBook Pro 16 inci",
+      "搭配参考": "Referensi padanan",
+      "上身展示": "Tampilan di badan",
+      "丰富细节": "Detail lengkap",
+      "细节设计": "Desain detail",
+      "精致虎牙图案": "Pola taring macan yang elegan",
+      "脏染内里呈现独特性": "Bagian dalam kotor memberikan keunikan",
+      "日版内里为纯棉材料，因植物染色工艺和类硅胶产品接触会有浮色；": "Versi Jepang dalamnya katun murni, karena pewarnaan alami bisa luntur jika bersentuhan dengan produk seperti silikon;",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有区别。": "Sekarang bahan sudah dioptimalkan dengan serat sintetis, masalah luntur sudah teratasi, secara visual tidak ada bedanya.",
+      "多种收纳隔层": "Banyak kompartemen penyimpanan",
+      "方便使用": "Mudah digunakan",
+      "使用过程中": "Saat digunakan",
+      "会留下古朴斑驳的质感": "Akan meninggalkan tekstur kuno yang bernoda",
+      "隐藏贴袋与挂载位": "Saku tersembunyi & tempat gantung",
+      "肩带由硬至软更加好背": "Tali bahu makin empuk, makin nyaman dipakai",
+      "小号标配可拆卸长肩带": "Ukuran kecil: tali panjang bisa dilepas",
+      "中号标配虎牙肩带": "Ukuran sedang: tali macan",
+      "更多推荐": "Rekomendasi lainnya",
+      "猜你喜欢": "Mungkin kamu suka",
+      "游历公文包": "tas kantor perjalanan",
+      "时光植皮与反绒皮": "Kulit patina dan suede",
+      "各具韵味风采": "Masing-masing punya pesona unik",
+      "越用越醇久": "Semakin dipakai semakin klasik",
+      "皮胚严选产量有限的优质西班牙、小牛皮，经特殊工艺处理易留下使用痕迹，是、与时光共同协作的见证。": "Kulit sapi muda Spanyol pilihan, langka dan berkualitas, diproses khusus sehingga mudah meninggalkan bekas pakai, menjadi saksi kolaborasi dengan waktu.",
+      "融入了Songmont标志性的山松元素，采用首、饰精度的304不锈钢真空镀五金，制作工艺对、水资源更友好。复古做旧质感，不易留痕，兼、具精巧细节与耐磨度。、注：弹簧圈、脚钉、奶嘴钉为不锈钢材质": "Mengandung elemen khas Songmont dari pinus gunung, menggunakan logam berlapis vakum stainless steel 304 presisi tinggi, proses produksi ramah air. Tekstur vintage antik, tidak mudah meninggalkan bekas, detail halus dan tahan aus. Catatan: ring pegas, paku kaki, dan paku dot terbuat dari stainless steel.",
+      "漫步城市或远行度假，在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "Jalan-jalan di kota atau liburan jauh, di Amangalla dan Wildcoast Sri Lanka, berjalan di bangunan tua warisan abad ke-17,",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有、区别。": "Sekarang bahan sudah dioptimalkan dengan tambahan serat sintetis, masalah warna pudar sudah teratasi total, secara visual tidak ada perbedaan."
+    },
+    "PH": {
+      "搭配组合": "Combination set",
+      "点击购买>": "Click to buy>",
+      "乌朵挂饰": "Wuduo ornament",
+      "包包挂件用于展示，可根据需要搭配购买": "Bag charm for display, can be purchased as needed",
+      "百带不均匀的的光感，如问一位老朋发。": "Yung light effect na hindi pantay, parang nagtatanong sa isang matandang kaibigan.",
+      "时光植皮与反绒皮": "Time-worn leather and suede",
+      "各具韵味风采": "Each has its own charm",
+      "「时光植皮」自带油润和不均匀时光质感，": "Time-worn leather has an oily, uneven aged texture,",
+      "越用越醇久。": "Mas gumaganda sa pagtagal.",
+      "皮胚严选产量有限的优质西班牙、小牛皮，经特殊工艺处理易留下使用痕迹，是、与时光共同协作的见证。": "Pumili ng limitadong Spanish at calf leather, may espesyal na proseso na nag-iiwan ng gamit, tanda ng pakikipagtulungan sa oras.",
+      "丝光感反绒皮": "Suede na may silk-like shine",
+      "表面自带毛绒，触感细腻软、糯，拥有如丝绸般的高级丝光感，触及包身即、见富有时光质感的双色效果。": "Malambot at makinis ang suede, may silk-like shine. Kapag hinawakan, makikita ang dalawang kulay na may vintage vibe.",
+      "注：反绒皮材质为牛剖层绒面（皮）革，由于其天然属性，随着日常、使用会留下斑驳痕迹，更加有时光韵味。": "Tandaan: Ang suede ay gawa sa cow split leather. Dahil natural ito, magkakaroon ng mga marka sa paggamit, mas magiging vintage ang itsura.",
+      "包有伏虎": "May tigre sa bag",
+      "内心无畏": "Walang takot sa puso",
+      "以黄河源头藏地文化中“虎”为灵感，抽象提、炼，呈现于设计之中。": "Inspired by the 'tiger' from Tibetan culture at the source of the Yellow River, abstractly refined and presented in the design.",
+      "希望你：包中有「伏、虎」，心中有勇敢。": "We hope: your bag has 'Fu' and 'Tiger', and your heart has courage.",
+      "提取": "kunin",
+      "天珠虎牙": "tigre na ngipin ng dzi bead",
+      "304不锈钢": "304 stainless steel",
+      "三": "three",
+      "真空镀五金": "vacuum-plated hardware",
+      "融入了Songmont标志性的山松元素，采用首、饰精度的304不锈钢真空镀五金，制作工艺对、水资源更友好。复古做旧质感，不易留痕，兼、具精巧细节与耐磨度。": "May Songmont mountain pine design, gamit ang precision 304 stainless steel vacuum-plated hardware. Eco-friendly process. Vintage look, hindi madaling mag-marka, may fine details at matibay.",
+      "注：弹簧圈、脚钉、奶嘴钉为不锈钢材质": "Note: Spring rings, feet, and nipple pins are stainless steel.",
+      "使用场景": "Use case",
+      "质感生活": "Quality living",
+      "漫步城市或远行度假": "Stroll the city or travel far for vacation",
+      "在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "At Amangalla and Wildcoast in Sri Lanka, walk through 17th-century heritage buildings,",
+      "自然入画，与景致脉络融为一体，质感立现。": "Nature becomes art, blending with the scenery, instantly showing quality.",
+      "产品信息": "Product info",
+      "详细内容": "Details",
+      "小号": "Small",
+      "重量": "Weight",
+      "(不含肩带)": "(without strap)",
+      "植皮": "Imitation leather",
+      "反绒皮": "Suede",
+      "手提带长": "Handle drop",
+      "长肩带长": "Long strap drop",
+      "中号": "Medium",
+      "产品": "Product",
+      "见物旅行包": "Jianwu travel bag",
+      "里料": "Lining",
+      "织物": "Fabric",
+      "面料": "Material",
+      "牛头层皮革/": "Cow split leather /",
+      "五金": "Hardware",
+      "304不锈钢真空镀/": "304 stainless steel vacuum plated /",
+      "牛剖层绒面皮革": "Split suede leather",
+      "以上数据均为标准测量，如存在轻微误差，属正常现象，由于拍摄光、线、角度和显示器对比度不同，实物与照片会有一定程度色差，最终、颜色以实物为准。": "Standard measurements lang po ito. Medyo may slight difference normal lang. Dahil sa lighting, angle, at screen settings, baka iba ang kulay sa actual. Ang totoong kulay ay base sa actual product.",
+      "13英寸MacBookPro": "13-inch MacBook Pro",
+      "16英寸MacBook Pro": "16-inch MacBook Pro",
+      "搭配参考": "Style reference",
+      "上身展示": "Wear test",
+      "丰富细节": "Maraming detalye",
+      "细节设计": "Detalyadong disenyo",
+      "精致虎牙图案": "Magandang pattern ng pangil ng tigre",
+      "脏染内里呈现独特性": "Ang maruming loob ay nagpapakita ng kakaibang istilo",
+      "日版内里为纯棉材料，因植物染色工艺和类硅胶产品接触会有浮色；": "Ang loob ng Japanese version ay pure cotton, dahil sa plant dye at pagkakadikit sa silicone-like products ay may color bleeding;",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有区别。": "Ngayon, inimprove ang materyal sa pamamagitan ng pagdagdag ng synthetic fiber, tuluyang naayos ang color bleeding, walang pinagkaiba sa itsura.",
+      "多种收纳隔层": "Maraming compartments",
+      "方便使用": "Madaling gamitin",
+      "使用过程中": "Habang ginagamit",
+      "会留下古朴斑驳的质感": "Magkakaroon ng antique at weathered na itsura",
+      "隐藏贴袋与挂载位": "Hidden pocket and attachment points",
+      "肩带由硬至软更加好背": "Strap gets softer, more comfortable to carry",
+      "小号标配可拆卸长肩带": "Small size comes with removable long strap",
+      "中号标配虎牙肩带": "Medium size comes with tiger tooth strap",
+      "更多推荐": "More recommendations",
+      "猜你喜欢": "You may also like",
+      "游历公文包": "Travel Briefcase",
+      "漫步城市或远行度假，在斯里兰卡Amangalla、和Wildcoast，漫步于17世纪非遗老建筑中，": "Maglakad sa lungsod o magbakasyon sa malayo, sa Amangalla at Wildcoast ng Sri Lanka, maglakad sa mga lumang gusali ng ika-17 siglo na hindi na ginagamit.",
+      "16英寸MacBookPro": "16-inch MacBook Pro",
+      "目前优化了材质加入了化纤成分，彻底解决了浮色问题，视觉上没有、区别。": "Na-improve na ang materyal, nagdagdag ng synthetic fiber, tuluyang naayos ang color bleeding issue, walang pagkakaiba sa itsura."
+    }
+  }
+}

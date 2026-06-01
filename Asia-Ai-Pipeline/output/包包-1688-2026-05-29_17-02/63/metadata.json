@@ -1,0 +1,421 @@
+{
+  "item_no": 63,
+  "keyword": "包包",
+  "title_cn": "日系小包包新款2023卡通小羊熊牛帆布包可爱女胸包牛仔斜挎单肩包",
+  "price_cny": 9.5,
+  "shop_name": "保定白沟新城千骁箱包厂",
+  "item_link": "http://detail.m.1688.com/page/index.html?offerId=622613619017&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=4400102833917&trace_log=normal&uuid=db661fb9417449babe183c91e721f481",
+  "shop_link": "http://qianxiaoxiangbao.1688.com/",
+  "specs": [
+    {
+      "name": "小熊浅蓝",
+      "price_cny": 9.5,
+      "image_path": "商品规格/小熊浅蓝——9.50/001.jpg"
+    },
+    {
+      "name": "小牛深蓝",
+      "price_cny": 9.5,
+      "image_path": "商品规格/小牛深蓝——9.50/001.jpg"
+    },
+    {
+      "name": "小牛浅蓝",
+      "price_cny": 9.5,
+      "image_path": "商品规格/小牛浅蓝——9.50/001.jpg"
+    },
+    {
+      "name": "小熊深蓝",
+      "price_cny": 9.5,
+      "image_path": "商品规格/小熊深蓝——9.50/001.jpg"
+    },
+    {
+      "name": "小羊深蓝",
+      "price_cny": 9.5,
+      "image_path": "商品规格/小羊深蓝——9.50/001.jpg"
+    },
+    {
+      "name": "小羊浅蓝",
+      "price_cny": 9.5,
+      "image_path": "商品规格/小羊浅蓝——9.50/001.jpg"
+    }
+  ],
+  "detail_images": [
+    "商品详情图片/001.jpg",
+    "商品详情图片/002.jpg",
+    "商品详情图片/003.jpg",
+    "商品详情图片/004.jpg",
+    "商品详情图片/005.jpg",
+    "商品详情图片/006.jpg",
+    "商品详情图片/007.jpg",
+    "商品详情图片/008.jpg",
+    "商品详情图片/009.jpg",
+    "商品详情图片/010.jpg",
+    "商品详情图片/011.jpg",
+    "商品详情图片/012.jpg",
+    "商品详情图片/013.jpg",
+    "商品详情图片/014.jpg",
+    "商品详情图片/015.jpg",
+    "商品详情图片/016.jpg",
+    "商品详情图片/017.jpg",
+    "商品详情图片/018.jpg",
+    "商品详情图片/019.jpg",
+    "商品详情图片/020.jpg",
+    "商品详情图片/021.jpg",
+    "商品详情图片/022.jpg",
+    "商品详情图片/023.jpg",
+    "商品详情图片/024.jpg",
+    "商品详情图片/025.jpg",
+    "商品详情图片/026.jpg",
+    "商品详情图片/027.jpg",
+    "商品详情图片/028.jpg",
+    "商品详情图片/029.jpg",
+    "商品详情图片/030.jpg",
+    "商品详情图片/031.jpg",
+    "商品详情图片/032.jpg",
+    "商品详情图片/033.jpg",
+    "商品详情图片/034.jpg",
+    "商品详情图片/035.jpg",
+    "商品详情图片/036.jpg",
+    "商品详情图片/037.jpg",
+    "商品详情图片/038.jpg"
+  ],
+  "scraped_at": "2026-05-29T18:06:22",
+  "status": "images_processed",
+  "folder_path": "D:\\demo\\llm-learning\\claude-vibecoding-learning\\Asia-Ai-Pipeline\\output\\包包-1688-2026-05-29_17-02\\63",
+  "localization": {
+    "PH": {
+      "title": "Adorable Cartoon Crossbody Bag - Cute Bear, Cow & Sheep Designs for Daily Use!",
+      "description": "Level up your everyday style with this super cute canvas crossbody bag! Featuring playful cartoon bear, cow, and sheep prints, it's perfect for school, work, or gala. Lightweight and spacious enough for your phone, wallet, and essentials. Grabe ang cute! Perfect gift for friends or yourself. Order now and enjoy affordable fashion!",
+      "keywords": [
+        "cute crossbody bag",
+        "cartoon canvas bag",
+        "kawaii bag Philippines",
+        "affordable shoulder bag",
+        "casual bag for women"
+      ],
+      "selling_points": [
+        "Adorable cartoon designs: bear, cow, and sheep patterns that stand out",
+        "Lightweight canvas material, comfortable for all-day wear",
+        "Versatile use: suitable for daily commute, school, or outings with friends",
+        "Spacious main compartment fits phone, wallet, and small essentials",
+        "Affordable price at only PHP 269 – perfect for budget-friendly fashion"
+      ],
+      "hashtags": [
+        "#CuteBagPH",
+        "#KawaiiFashion",
+        "#CrossbodyBag",
+        "#AffordableStyle",
+        "#TikTokFindsPH"
+      ],
+      "specs": [
+        {
+          "name_cn": "小熊浅蓝",
+          "name_local": "Light Blue with Bear"
+        },
+        {
+          "name_cn": "小牛深蓝",
+          "name_local": "Dark Blue with Cow"
+        },
+        {
+          "name_cn": "小牛浅蓝",
+          "name_local": "Light Blue with Cow"
+        },
+        {
+          "name_cn": "小熊深蓝",
+          "name_local": "Dark Blue with Bear"
+        },
+        {
+          "name_cn": "小羊深蓝",
+          "name_local": "Dark Blue with Sheep"
+        },
+        {
+          "name_cn": "小羊浅蓝",
+          "name_local": "Light Blue with Sheep"
+        }
+      ],
+      "cta": "Order now! Limited stocks, sulit na sulit!",
+      "price_local": 269.0,
+      "currency": "PHP",
+      "exchange_rate": 8.0,
+      "markup": 3.2,
+      "generated_at": "2026-05-30T14:12:43"
+    },
+    "SG": {
+      "title": "Cute Cartoon Canvas Crossbody Bag for Women - Cow, Bear & Sheep Designs, Trendy Casual Daypack",
+      "description": "Add a playful touch to your daily outfit with these adorable cartoon animal canvas bags! Featuring cute bear, cow, and sheep prints in soft pastel shades, this crossbody bag is perfect for casual brunches, shopping trips, or weekend outings. Lightweight and compact, it fits your phone, wallet, and keys, leaving your hands free. Made of durable canvas with a stylish denim-like finish. Grab one to express your fun side and enjoy compliments!",
+      "keywords": [
+        "cute canvas crossbody bag",
+        "cartoon animal bag",
+        "casual shoulder bag for women",
+        "Singapore fashion accessories",
+        "lightweight denim bag"
+      ],
+      "selling_points": [
+        "Adorable cartoon bear, cow, and sheep designs that stand out",
+        "Lightweight canvas material perfect for Singapore's warm weather",
+        "Crossbody style keeps hands free for shopping or coffee runs"
+      ],
+      "hashtags": [
+        "#CuteBagsSG",
+        "#CanvasCrossbody",
+        "#CartoonBag",
+        "#SingaporeFashion",
+        "#CasualStyle"
+      ],
+      "specs": [
+        {
+          "name_cn": "小熊浅蓝",
+          "name_local": "Bear Light Blue"
+        },
+        {
+          "name_cn": "小牛深蓝",
+          "name_local": "Cow Dark Blue"
+        },
+        {
+          "name_cn": "小牛浅蓝",
+          "name_local": "Cow Light Blue"
+        },
+        {
+          "name_cn": "小熊深蓝",
+          "name_local": "Bear Dark Blue"
+        },
+        {
+          "name_cn": "小羊深蓝",
+          "name_local": "Sheep Dark Blue"
+        },
+        {
+          "name_cn": "小羊浅蓝",
+          "name_local": "Sheep Light Blue"
+        }
+      ],
+      "cta": "Snag yours now! Limited stocks! 🛍️",
+      "price_local": 7.9,
+      "currency": "SGD",
+      "exchange_rate": 0.185,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:43"
+    },
+    "MY": {
+      "title": "Beg Sling Comel Kartun Kambing & Beruang - Beg Kanvas Cowok, Beg Pinggang Wanita, Beg Tangan Biru Tua",
+      "description": "Bawa gaya comel ke mana-mana dengan beg kanvas kartun kambing dan beruang ini! Sesuai untuk jalan-jalan, dating, atau ke kampus. Bahan kanvas tahan lasak dengan rekaan pelbagai warna biru tua dan biru muda. Mudah dipadankan dengan baju kasual atau jeans. Dapatkan sekarang dan jadi pusat perhatian!",
+      "keywords": [
+        "beg kanvas",
+        "beg sling comel",
+        "beg pinggang wanita",
+        "beg kartun",
+        "beg tangan biru"
+      ],
+      "selling_points": [
+        "Reka bentuk kartun kambing, beruang, dan lembu yang comel dan unik",
+        "Kanvas tahan lasak untuk kegunaan harian",
+        "Boleh dipakai sebagai beg sling, beg pinggang, atau beg silang",
+        "Pelbagai pilihan warna: biru tua dan biru muda"
+      ],
+      "hashtags": [
+        "#BegComel",
+        "#BegKanvas",
+        "#FesyenMurah",
+        "#TikTokMalaysia",
+        "#GayaHarian"
+      ],
+      "specs": [
+        {
+          "name_cn": "小熊浅蓝",
+          "name_local": "Beruang Biru Muda"
+        },
+        {
+          "name_cn": "小牛深蓝",
+          "name_local": "Lembu Biru Tua"
+        },
+        {
+          "name_cn": "小牛浅蓝",
+          "name_local": "Lembu Biru Muda"
+        },
+        {
+          "name_cn": "小熊深蓝",
+          "name_local": "Beruang Biru Tua"
+        },
+        {
+          "name_cn": "小羊深蓝",
+          "name_local": "Kambing Biru Tua"
+        },
+        {
+          "name_cn": "小羊浅蓝",
+          "name_local": "Kambing Biru Muda"
+        }
+      ],
+      "cta": "Stok terhad! Grab sekarang sebelum habis!",
+      "price_local": 21.9,
+      "currency": "MYR",
+      "exchange_rate": 0.63,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:44"
+    },
+    "ID": {
+      "title": "Tas Ransel Kanvas Lucu Anak Cowok Kecil Koleksi Baru 2023 Motif Kartun Domba Beruang Sapi",
+      "description": "Tas ransel kanvas super imut dengan motif kartun domba, beruang, dan sapi ini bikin penampilan si kecil makin stylish! Cocok dipakai ke sekolah, jalan-jalan, atau main di mall. Ukurannya pas untuk anak cowok, ringan, dan nyaman dipakai. Pasti bikin anak happy dan percaya diri!",
+      "keywords": [
+        "tas ransel anak cowok",
+        "tas kanvas motif kartun",
+        "tas sekolah anak",
+        "tas anak lucu",
+        "tas cowok"
+      ],
+      "selling_points": [
+        "Motif kartun domba, beruang, sapi yang lucu dan unik",
+        "Bahan kanvas berkualitas, ringan dan awet",
+        "Ukuran pas untuk anak cowok, nyaman dipakai"
+      ],
+      "hashtags": [
+        "#TasAnakCowok",
+        "#TasKanvasLucu",
+        "#TasSekolahAnak",
+        "#FashionAnakIndonesia",
+        "#TasKartun"
+      ],
+      "specs": [
+        {
+          "name_cn": "小熊浅蓝",
+          "name_local": "Beruang Biru Muda"
+        },
+        {
+          "name_cn": "小牛深蓝",
+          "name_local": "Sapi Biru Tua"
+        },
+        {
+          "name_cn": "小牛浅蓝",
+          "name_local": "Sapi Biru Muda"
+        },
+        {
+          "name_cn": "小熊深蓝",
+          "name_local": "Beruang Biru Tua"
+        },
+        {
+          "name_cn": "小羊深蓝",
+          "name_local": "Domba Biru Tua"
+        },
+        {
+          "name_cn": "小羊浅蓝",
+          "name_local": "Domba Biru Muda"
+        }
+      ],
+      "cta": "Yuk, borong sekarang! Stok terbatas!",
+      "price_local": 85000.0,
+      "currency": "IDR",
+      "exchange_rate": 2200.0,
+      "markup": 3.8,
+      "generated_at": "2026-05-30T14:12:43"
+    },
+    "TH": {
+      "title": "กระเป๋าสะพายข้างลายการ์ตูนน่ารัก คอลเลกชันใหม่ 2023 ลายหมีน้อย แกะน้อย วัวน้อย ผ้าใบ ใส่ของได้เยอะ",
+      "description": "กระเป๋าสะพายข้างลายการ์ตูนน่ารักสุดๆ เหมาะสำหรับใส่จ่ายตลาด ไปเรียน หรือเที่ยวเล่นกับเพื่อน มีหลายลายให้เลือก ทั้งหมีน้อย แกะน้อย และวัวน้อย สีสันสดใส ดีไซน์เก๋ไก๋ไม่ซ้ำใคร ใส่ของได้เยอะเพราะเป็นผ้าใบ ทนทาน ใช้งานได้นาน ราคานักเรียนนักศึกษา สั่งวันนี้พร้อมส่งเร็วทันใจ!",
+      "keywords": [
+        "กระเป๋าสะพายข้างน่ารัก",
+        "กระเป๋าผ้าใบการ์ตูน",
+        "กระเป๋าลายหมี",
+        "กระเป๋าใส่ของเยอะ",
+        "กระเป๋าแฟชั่น"
+      ],
+      "selling_points": [
+        "ลายการ์ตูนน่ารัก มี 6 แบบให้เลือก",
+        "ผ้าใบคุณภาพดี ใส่ของหนักได้",
+        "ราคาถูก สั่งวันนี้ส่งฟรี"
+      ],
+      "hashtags": [
+        "#กระเป๋าน่ารัก",
+        "#แฟชั่นสายชิล",
+        "#ของถูกและดี",
+        "#TikTokซื้อขาย",
+        "#กระเป๋าผ้าใบ"
+      ],
+      "specs": [
+        {
+          "name_cn": "小熊浅蓝",
+          "name_local": "หมีน้อยฟ้าอ่อน"
+        },
+        {
+          "name_cn": "小牛深蓝",
+          "name_local": "วัวน้อยน้ำเงินเข้ม"
+        },
+        {
+          "name_cn": "小牛浅蓝",
+          "name_local": "วัวน้อยฟ้าอ่อน"
+        },
+        {
+          "name_cn": "小熊深蓝",
+          "name_local": "หมีน้อยน้ำเงินเข้ม"
+        },
+        {
+          "name_cn": "小羊深蓝",
+          "name_local": "แกะน้อยน้ำเงินเข้ม"
+        },
+        {
+          "name_cn": "小羊浅蓝",
+          "name_local": "แกะน้อยฟ้าอ่อน"
+        }
+      ],
+      "cta": "ของมีจำนวนจำกัด รีบสั่งก่อนหมด!",
+      "price_local": 199.0,
+      "currency": "THB",
+      "exchange_rate": 5.0,
+      "markup": 3.5,
+      "generated_at": "2026-05-30T14:12:44"
+    }
+  },
+  "image_text_translations": {
+    "SG": {
+      "Allcolors所有颜色": "All colors",
+      "鸭子深蓝": "Duck dark blue",
+      "鸭子浅蓝": "Duck light blue",
+      "小牛深蓝": "Calf dark blue",
+      "小牛浅蓝": "Calf light blue",
+      "小熊深蓝": "Bear Dark Blue",
+      "小熊浅蓝": "Bear Light Blue",
+      "小羊深蓝": "Sheep Dark Blue",
+      "小羊浅蓝": "Sheep Light Blue"
+    },
+    "TH": {
+      "Allcolors所有颜色": "ทุกสี",
+      "鸭子深蓝": "เป็ดน้ำเงินเข้ม",
+      "鸭子浅蓝": "เป็ดฟ้าอ่อน",
+      "小牛深蓝": "ลูกวัวน้ำเงินเข้ม",
+      "小牛浅蓝": "ลูกวัวฟ้าอ่อน",
+      "小熊深蓝": "หมีสีน้ำเงินเข้ม",
+      "小熊浅蓝": "หมีสีฟ้าอ่อน",
+      "小羊深蓝": "แกะสีน้ำเงินเข้ม",
+      "小羊浅蓝": "แกะสีฟ้าอ่อน"
+    },
+    "MY": {
+      "Allcolors所有颜色": "Semua warna",
+      "鸭子深蓝": "Itik biru gelap",
+      "鸭子浅蓝": "Itik biru muda",
+      "小牛深蓝": "Anak lembu biru gelap",
+      "小牛浅蓝": "Anak lembu biru muda",
+      "小熊深蓝": "Beruang Biru Tua",
+      "小熊浅蓝": "Beruang Biru Muda",
+      "小羊深蓝": "Kambing Biru Tua",
+      "小羊浅蓝": "Kambing Biru Muda"
+    },
+    "ID": {
+      "Allcolors所有颜色": "Semua warna",
+      "鸭子深蓝": "Bebek biru tua",
+      "鸭子浅蓝": "Bebek biru muda",
+      "小牛深蓝": "Sapi biru tua",
+      "小牛浅蓝": "Sapi biru muda",
+      "小熊深蓝": "Beruang Biru Tua",
+      "小熊浅蓝": "Beruang Biru Muda",
+      "小羊深蓝": "Domba Biru Tua",
+      "小羊浅蓝": "Domba Biru Muda"
+    },
+    "PH": {
+      "Allcolors所有颜色": "Lahat ng kulay",
+      "鸭子深蓝": "Duck dark blue",
+      "鸭子浅蓝": "Duck light blue",
+      "小牛深蓝": "Calf dark blue",
+      "小牛浅蓝": "Calf light blue",
+      "小熊深蓝": "Bear Dark Blue",
+      "小熊浅蓝": "Bear Light Blue",
+      "小羊深蓝": "Sheep Dark Blue",
+      "小羊浅蓝": "Sheep Light Blue"
+    }
+  }
+}

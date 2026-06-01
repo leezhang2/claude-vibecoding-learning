@@ -1,0 +1,397 @@
+{
+  "item_no": 45,
+  "keyword": "包包",
+  "title_cn": "时尚便当包批发新款休闲轻便手提包韩版高颜值出行上班百搭手拎包",
+  "price_cny": 7.7,
+  "shop_name": "保定百浮箱包有限公司",
+  "item_link": "http://detail.m.1688.com/page/index.html?offerId=886390257876&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5895186922701&trace_log=normal&uuid=d41cb76b4ff54a6e85177b6c01b7fa9a",
+  "shop_link": "http://shop37182c3v96d46.1688.com/",
+  "specs": [
+    {
+      "name": "单包",
+      "price_cny": 7.7,
+      "image_path": "商品规格/单包——7.70/001.webp"
+    },
+    {
+      "name": "带挂件",
+      "price_cny": 7.7,
+      "image_path": "商品规格/带挂件——7.70/001.webp"
+    }
+  ],
+  "detail_images": [
+    "商品详情图片/001.jpg",
+    "商品详情图片/002.jpg",
+    "商品详情图片/003.jpg",
+    "商品详情图片/004.jpg",
+    "商品详情图片/005.jpg",
+    "商品详情图片/006.jpg",
+    "商品详情图片/007.jpg",
+    "商品详情图片/008.jpg",
+    "商品详情图片/009.jpg",
+    "商品详情图片/010.jpg",
+    "商品详情图片/011.jpg",
+    "商品详情图片/012.jpg",
+    "商品详情图片/013.jpg",
+    "商品详情图片/014.jpg",
+    "商品详情图片/015.jpg",
+    "商品详情图片/016.jpg",
+    "商品详情图片/017.jpg",
+    "商品详情图片/018.jpg",
+    "商品详情图片/019.jpg",
+    "商品详情图片/020.jpg",
+    "商品详情图片/021.jpg",
+    "商品详情图片/022.jpg",
+    "商品详情图片/023.jpg",
+    "商品详情图片/024.jpg",
+    "商品详情图片/025.jpg",
+    "商品详情图片/026.jpg"
+  ],
+  "scraped_at": "2026-05-29T17:49:02",
+  "status": "images_processed",
+  "folder_path": "D:\\demo\\llm-learning\\claude-vibecoding-learning\\Asia-Ai-Pipeline\\output\\包包-1688-2026-05-29_17-02\\45",
+  "localization": {
+    "PH": {
+      "title": "Trendy Lunch Bag Tote for Women | Kawaii Handbag for Work & School | Sulit & Stylish",
+      "description": "Looking for a cute and practical bag? This trendy tote is perfect for baon, work essentials, or everyday errands. Lightweight and roomy, it fits your lunchbox, wallet, and phone easily. Grabe sa ganda! Available with or without a keychain charm. Perfect gift for friends or sarili mo. Order now and level up your daily outfit!",
+      "keywords": [
+        "lunch bag",
+        "tote bag",
+        "kawaii handbag",
+        "work bag",
+        "school bag"
+      ],
+      "selling_points": [
+        "Lightweight fabric - easy to carry all day",
+        "Roomy interior fits lunchbox, wallet, and more",
+        "Available with cute keychain charm for extra style"
+      ],
+      "hashtags": [
+        "#TrendyTote",
+        "#BaonBag",
+        "#SulitNaSulit",
+        "#TikTokPH",
+        "#OOTD"
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "Bag Only"
+        },
+        {
+          "name_cn": "带挂件",
+          "name_local": "with Keychain Charm"
+        }
+      ],
+      "cta": "Grab yours now! Limited stock!",
+      "price_local": 219.0,
+      "currency": "PHP",
+      "exchange_rate": 8.0,
+      "markup": 3.2,
+      "generated_at": "2026-05-30T14:12:35"
+    },
+    "SG": {
+      "title": "Stylish Lunch Tote Bag - Lightweight Handbag for Work & Daily, Trendy Korean Style",
+      "description": "Elevate your everyday look with this chic tote bag, perfect for carrying lunch or essentials to the office or a casual day out. Designed for the modern Singaporean woman, it's lightweight, spacious, and adds a touch of Korean flair to any outfit. Whether you're rushing to a meeting or grabbing brunch with friends, this bag keeps you organised and stylish. The cute charm option adds a playful vibe!",
+      "keywords": [
+        "lunch bag",
+        "tote bag",
+        "handbag women",
+        "casual bag",
+        "Korean style bag"
+      ],
+      "selling_points": [
+        "Lightweight design for easy carry, weighing only 200g",
+        "Spacious enough for lunch box, wallet, and makeup pouch",
+        "Trendy Korean aesthetic with optional cute pendant"
+      ],
+      "hashtags": [
+        "#ToteBag",
+        "#LunchBag",
+        "#KoreanFashion",
+        "#WorkBag",
+        "#SGStyle"
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "Bag Only"
+        },
+        {
+          "name_cn": "带挂件",
+          "name_local": "With Pendant"
+        }
+      ],
+      "cta": "Grab yours now before it sells out!",
+      "price_local": 6.9,
+      "currency": "SGD",
+      "exchange_rate": 0.185,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:35"
+    },
+    "ID": {
+      "title": "Tas Bekal Fashionable Ringan, Stylish & Praktis untuk Kerja/ Kuliah",
+      "description": "Tas bekal kekinian dengan desain simpel dan elegan, cocok untuk kamu yang aktif bepergian. Ringan, muat banyak, dan mudah dibawa kemana-mana. Bikin harimu makin stylish dan praktis! Dilengkapi gantungan lucu yang bikin makin gemas. Buruan checkout, stok terbatas!",
+      "keywords": [
+        "tas bekal",
+        "tas bekal cantik",
+        "tas bekal kerja",
+        "tas bekal kuliah",
+        "tas jinjing elegan"
+      ],
+      "selling_points": [
+        "Bobot super ringan, nggak bikin pundak pegal",
+        "Desain kekinian cocok dipakai kerja, kuliah, atau jalan-jalan",
+        "Kapasitas luas bisa muat bekal, botol minum, dan HP",
+        "Bahan berkualitas, jahitan rapi, awet dipakai sehari-hari"
+      ],
+      "hashtags": [
+        "#TasBekal",
+        "#TasKekinian",
+        "#TasRingan",
+        "#Fashionable",
+        "#Promo"
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "Tas saja (tanpa gantungan)"
+        },
+        {
+          "name_cn": "带挂件",
+          "name_local": "Dengan gantungan"
+        }
+      ],
+      "cta": "Buruan, stok terbatas! Order sekarang!",
+      "price_local": 70000.0,
+      "currency": "IDR",
+      "exchange_rate": 2200.0,
+      "markup": 3.8,
+      "generated_at": "2026-05-30T14:12:36"
+    },
+    "TH": {
+      "title": "กระเป๋าถือแฟชั่นลำลอง น้ำหนักเบา ดีไซน์เกาหลี ใส่ของได้เยอะ พกพาสะดวก ราคาถูก",
+      "description": "กระเป๋าถือแฟชั่นสุดคิ้วท์ เหมาะสำหรับใส่ข้าวเที่ยง ใส่ของจุกจิกเวลาออกข้างนอก หรือไปทำงาน ผ้าใบคุณภาพดี ดีไซน์เรียบหรูดูแพง มีให้เลือกทั้งแบบเดี่ยวและแบบมีจี้ห้อยน่ารัก สะพายได้ทั้งวันไม่เมื่อย แถมราคาถูกสุดคุ้ม ห้ามพลาดเลยค่ะ!",
+      "keywords": [
+        "กระเป๋าถือแฟชั่น",
+        "กระเป๋าก๋วยเตี๋ยว",
+        "กระเป๋าสำหรับไปทำงาน",
+        "กระเป๋าลำลอง",
+        "กระเป๋าแฟชั่นเกาหลี"
+      ],
+      "selling_points": [
+        "ดีไซน์เกาหลีเก๋ไก๋ ดูแพงแต่ราคาถูก",
+        "น้ำหนักเบา พกพาสะดวก ใส่ข้าวเที่ยงหรือของใช้ส่วนตัวได้จุใจ",
+        "มีจี้ห้อยน่ารักให้เลือก เพิ่มความเก๋ไม่ซ้ำใคร"
+      ],
+      "hashtags": [
+        "#กระเป๋าแฟชั่น",
+        "#กระเป๋าถือ",
+        "#เกาหลี",
+        "#ราคาถูก",
+        "#ของมันต้องมี"
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "แบบเดี่ยว"
+        },
+        {
+          "name_cn": "带挂件",
+          "name_local": "แบบมีจี้ห้อย"
+        }
+      ],
+      "cta": "ลดราคาเฉพาะวันนี้! สั่งเลยด่วน!",
+      "price_local": 169.0,
+      "currency": "THB",
+      "exchange_rate": 5.0,
+      "markup": 3.5,
+      "generated_at": "2026-05-30T14:12:36"
+    },
+    "MY": {
+      "title": "Beg Makanan Trendy & Ringan, Beg Tangan Kasual Gaya Korea Serbaguna untuk Kerja & Travel",
+      "description": "Beg ini bukan sahaja cantik dan praktikal, tapi juga ringan dan senang dibawa ke mana sahaja. Muat untuk bawa bekal, barang keperluan pejabat, atau shopping ringan. Reka bentuk stylish ala Korea buat penampilan korang lebih chic. Sesuai untuk student, pekerja, dan ibu-ibu yang aktif. Jom upgrade gaya harian dengan beg ini – murah, tahan lasak, dan comel!",
+      "keywords": [
+        "beg makanan",
+        "beg tangan wanita",
+        "beg bekal",
+        "beg kasual",
+        "beg gaya Korea"
+      ],
+      "selling_points": [
+        "Ringan dan senang dilipat, muat dalam beg besar",
+        "Reka bentuk trendy sesuai untuk pelbagai gaya pakaian",
+        "Muatan luas – sesuai letak bekas makanan, dompet, telefon"
+      ],
+      "hashtags": [
+        "#BegMakanan",
+        "#FesyenMurah",
+        "#BegTanganKorea",
+        "#HidupRingkas",
+        "#TikTokMalaysia"
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "Beg Sahaja"
+        },
+        {
+          "name_cn": "带挂件",
+          "name_local": "Dengan Loket"
+        }
+      ],
+      "cta": "Jangan tunggu! Grab sekarang sebelum habis!",
+      "price_local": 17.9,
+      "currency": "MYR",
+      "exchange_rate": 0.63,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:36"
+    }
+  },
+  "image_text_translations": {
+    "SG": {
+      "产品参数": "Product Specs",
+      "高21CM": "Height 21cm",
+      "厚15CM": "Depth 15cm",
+      "宽26CM": "Width 26cm",
+      "面料/Fabric": "Material / Fabric",
+      "布": "Cloth",
+      "重量/heavy": "Weight / Heavy",
+      "背法/method": "Carry Method",
+      "手提": "Hand Carry",
+      "尺寸/size": "Size",
+      "宽26高21厚15手提16cm": "W26 H21 D15 Handle 16cm",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm请以实物颜色为准": "Hand-measured, allow 1-3cm difference. Actual colour may vary.",
+      "颜色展示": "Colour Options",
+      "黑色": "Black",
+      "蓝色": "Blue",
+      "拉链袋": "Ziplock bag",
+      "空间容量在线": "Check storage capacity online",
+      "顺滑拉链": "Smooth zipper",
+      "拉合顺滑": "Zips smoothly",
+      "舒适手提": "Comfy to carry",
+      "结实耐用": "Super durable",
+      "舒适面料": "Comfy fabric",
+      "柔软舒适": "Soft and comfy",
+      "时尚装饰": "Fashion accessories",
+      "时尚大气": "Stylish and classy",
+      "内部空间很开敞": "Spacious interior",
+      "模特背搭图展示": "Model wearing backless top"
+    },
+    "TH": {
+      "产品参数": "รายละเอียดสินค้า",
+      "高21CM": "สูง 21 ซม.",
+      "厚15CM": "หนา 15 ซม.",
+      "宽26CM": "กว้าง 26 ซม.",
+      "面料/Fabric": "ผ้า",
+      "布": "ผ้า",
+      "重量/heavy": "น้ำหนัก",
+      "背法/method": "วิธีสะพาย",
+      "手提": "หิ้ว",
+      "尺寸/size": "ขนาด",
+      "宽26高21厚15手提16cm": "กว้าง26 สูง21 หนา15 หูหิ้ว16ซม.",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm请以实物颜色为准": "วัดด้วยมือ คลาดเคลื่อน 1-3 ซม. สีจริงอาจต่างจากในรูป",
+      "颜色展示": "สีที่แสดง",
+      "黑色": "ดำ",
+      "蓝色": "น้ำเงิน",
+      "拉链袋": "ถุงซิป",
+      "空间容量在线": "ความจุพื้นที่ออนไลน์",
+      "顺滑拉链": "ซิปเรียบลื่น",
+      "拉合顺滑": "ปิดเรียบลื่น",
+      "舒适手提": "สะดวกสบายในการถือ",
+      "结实耐用": "ทนทานแข็งแรง",
+      "舒适面料": "ผ้าสบาย",
+      "柔软舒适": "นุ่มสบาย",
+      "时尚装饰": "ของตกแต่งแฟชั่น",
+      "时尚大气": "สวยหรูมีสไตล์",
+      "内部空间很开敞": "พื้นที่ภายในกว้างขวางมาก",
+      "模特背搭图展示": "โมเดลโชว์เสื้อเกาะอก"
+    },
+    "MY": {
+      "产品参数": "Spesifikasi Produk",
+      "高21CM": "Tinggi 21CM",
+      "厚15CM": "Tebal 15CM",
+      "宽26CM": "Lebar 26CM",
+      "面料/Fabric": "Kain/Fabrik",
+      "布": "Kain",
+      "重量/heavy": "Berat/Berat",
+      "背法/method": "Cara Bawa",
+      "手提": "Tangan",
+      "尺寸/size": "Saiz",
+      "宽26高21厚15手提16cm": "Lebar26 Tinggi21 Tebal15 Tangan16cm",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm请以实物颜色为准": "Ukuran manual, sila benarkan ralat 1-3cm. Warna sebenar mungkin berbeza.",
+      "颜色展示": "Paparan Warna",
+      "黑色": "Hitam",
+      "蓝色": "Biru",
+      "拉链袋": "Beg zip",
+      "空间容量在线": "Kapasiti ruang dalam talian",
+      "顺滑拉链": "Zip licin",
+      "拉合顺滑": "Tutup zip licin",
+      "舒适手提": "Selesa dibawa",
+      "结实耐用": "Tahan lasak",
+      "舒适面料": "Kain selesa",
+      "柔软舒适": "Lembut dan selesa",
+      "时尚装饰": "hiasan bergaya",
+      "时尚大气": "gaya mewah",
+      "内部空间很开敞": "Ruang dalaman luas",
+      "模特背搭图展示": "Model pakai baju belakang gambar"
+    },
+    "ID": {
+      "产品参数": "Spesifikasi Produk",
+      "高21CM": "Tinggi 21CM",
+      "厚15CM": "Tebal 15CM",
+      "宽26CM": "Lebar 26CM",
+      "面料/Fabric": "Bahan/Kain",
+      "布": "Kain",
+      "重量/heavy": "Berat",
+      "背法/method": "Cara Pakai",
+      "手提": "Tas Genggam",
+      "尺寸/size": "Ukuran",
+      "宽26高21厚15手提16cm": "Lebar 26, Tinggi 21, Tebal 15, Gagang 16cm",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm请以实物颜色为准": "Ukuran manual, toleransi 1-3cm. Warna sesuai实物.",
+      "颜色展示": "Pilihan Warna",
+      "黑色": "Hitam",
+      "蓝色": "Biru",
+      "拉链袋": "Tas ritsleting",
+      "空间容量在线": "Kapasitas ruang online",
+      "顺滑拉链": "Ritsleting mulus",
+      "拉合顺滑": "Menutup mulus",
+      "舒适手提": "Nyaman digenggam",
+      "结实耐用": "Kuat dan tahan lama",
+      "舒适面料": "Kain nyaman",
+      "柔软舒适": "Lembut dan nyaman",
+      "时尚装饰": "dekorasi modis",
+      "时尚大气": "gaya modern dan elegan",
+      "内部空间很开敞": "Ruang interiornya luas",
+      "模特背搭图展示": "Tampilan model dengan baju tanpa lengan"
+    },
+    "PH": {
+      "产品参数": "Product Details",
+      "高21CM": "Height 21cm",
+      "厚15CM": "Depth 15cm",
+      "宽26CM": "Width 26cm",
+      "面料/Fabric": "Fabric",
+      "布": "Cloth",
+      "重量/heavy": "Weight",
+      "背法/method": "Carry Style",
+      "手提": "Handheld",
+      "尺寸/size": "Size",
+      "宽26高21厚15手提16cm": "W26 H21 D15 Handle 16cm",
+      "手工测量，请允许有1-3cm的误差，尺寸单位为cm请以实物颜色为准": "Hand measured, please allow 1-3cm error. Size in cm, refer to actual color.",
+      "颜色展示": "Color Display",
+      "黑色": "Black",
+      "蓝色": "Blue",
+      "拉链袋": "Zipper bag",
+      "空间容量在线": "Space capacity online",
+      "顺滑拉链": "Smooth zipper",
+      "拉合顺滑": "Smooth closing",
+      "舒适手提": "Comfortable handle",
+      "结实耐用": "Matibay at matagal",
+      "舒适面料": "Comfortable fabric",
+      "柔软舒适": "Soft and comfy",
+      "时尚装饰": "Fashion accessories",
+      "时尚大气": "Stylish and classy",
+      "内部空间很开敞": "Maluwag ang loob",
+      "模特背搭图展示": "Model wearing backless top display"
+    }
+  }
+}

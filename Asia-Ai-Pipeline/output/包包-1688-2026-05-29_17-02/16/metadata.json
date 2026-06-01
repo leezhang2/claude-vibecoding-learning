@@ -1,0 +1,464 @@
+{
+  "item_no": 16,
+  "keyword": "包包",
+  "title_cn": "优米皮具商行 进口头层荔枝纹牛皮hobo腋下包子母包",
+  "price_cny": 0.0,
+  "shop_name": "东莞市厚街优米皮具商行",
+  "item_link": "http://detail.m.1688.com/page/index.html?offerId=997189835491&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5982036733395&trace_log=normal&uuid=d41cb76b4ff54a6e85177b6c01b7fa9a",
+  "shop_link": "http://shop2d5688321b5g1.1688.com/",
+  "specs": [
+    {
+      "name": "单包",
+      "price_cny": 456.0,
+      "image_path": "商品规格/单包——456.00/001.webp"
+    },
+    {
+      "name": "包包+肩托",
+      "price_cny": 456.0,
+      "image_path": "商品规格/包包+肩托——456.00/001.webp"
+    },
+    {
+      "name": "包包+杜邦纸hobo内胆包",
+      "price_cny": 456.0,
+      "image_path": "商品规格/包包+杜邦纸hobo内胆包——456.00/001.webp"
+    },
+    {
+      "name": "包包+肩托+杜邦纸hobo内胆包",
+      "price_cny": 456.0,
+      "image_path": "商品规格/包包+肩托+杜邦纸hobo内胆包——456.00/001.webp"
+    }
+  ],
+  "detail_images": [
+    "商品详情图片/001.jpg",
+    "商品详情图片/002.jpg",
+    "商品详情图片/003.jpg",
+    "商品详情图片/004.jpg",
+    "商品详情图片/005.jpg",
+    "商品详情图片/006.jpg",
+    "商品详情图片/007.jpg",
+    "商品详情图片/008.jpg",
+    "商品详情图片/009.jpg",
+    "商品详情图片/010.jpg",
+    "商品详情图片/011.jpg",
+    "商品详情图片/012.jpg",
+    "商品详情图片/013.jpg",
+    "商品详情图片/014.jpg",
+    "商品详情图片/015.jpg",
+    "商品详情图片/016.jpg",
+    "商品详情图片/017.jpg",
+    "商品详情图片/018.jpg",
+    "商品详情图片/019.jpg",
+    "商品详情图片/020.jpg",
+    "商品详情图片/021.jpg",
+    "商品详情图片/022.jpg",
+    "商品详情图片/023.jpg",
+    "商品详情图片/024.jpg",
+    "商品详情图片/025.jpg",
+    "商品详情图片/026.jpg",
+    "商品详情图片/027.jpg",
+    "商品详情图片/028.jpg",
+    "商品详情图片/029.jpg",
+    "商品详情图片/030.jpg",
+    "商品详情图片/031.jpg",
+    "商品详情图片/032.jpg",
+    "商品详情图片/033.jpg",
+    "商品详情图片/034.jpg",
+    "商品详情图片/035.jpg",
+    "商品详情图片/036.jpg",
+    "商品详情图片/037.jpg",
+    "商品详情图片/038.jpg",
+    "商品详情图片/039.jpg",
+    "商品详情图片/040.jpg",
+    "商品详情图片/041.jpg",
+    "商品详情图片/042.jpg",
+    "商品详情图片/043.jpg",
+    "商品详情图片/044.jpg",
+    "商品详情图片/045.jpg",
+    "商品详情图片/046.jpg"
+  ],
+  "scraped_at": "2026-05-29T17:19:48",
+  "status": "images_processed",
+  "folder_path": "D:\\demo\\llm-learning\\claude-vibecoding-learning\\Asia-Ai-Pipeline\\output\\包包-1688-2026-05-29_17-02\\16",
+  "localization": {
+    "MY": {
+      "title": "Tas Tangan Kulit Lembu Tulen Hobo Bag Set - Gaya Mewah & Praktikal",
+      "description": "Tas tangan kulit lembu tulen dengan tekstur荔枝纹 yang elegan. Sesuai untuk gaya harian atau ke pejabat. Rangkaian termasuk beg utama dan beg kecil yang boleh tanggal, memberi fleksibiliti maksima. Dengan tali bahu yang selesa, ia sesuai untuk wanita moden yang aktif. Dapatkan sekarang!",
+      "keywords": [
+        "tas kulit tulen",
+        "hobo bag",
+        "beg tangan mewah",
+        "set beg ibu",
+        "fashion Malaysia"
+      ],
+      "selling_points": [
+        "Diperbuat daripada kulit lembu tulen dengan tekstur荔枝纹 yang lembut dan tahan lama",
+        "Reka bentuk hobo dengan dua beg (ibu dan anak) untuk pelbagai kegunaan",
+        "Termasuk tali bahu yang boleh tanggal dan pelindung bahu untuk keselesaan"
+      ],
+      "hashtags": [
+        "#TasKulitTulen",
+        "#HoboBag",
+        "#FashionMalaysia",
+        "#BegMewah",
+        "#TasTangan"
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "Beg Tunggal"
+        },
+        {
+          "name_cn": "包包+肩托",
+          "name_local": "Beg + Pelindung Bahu"
+        },
+        {
+          "name_cn": "包包+杜邦纸hobo内胆包",
+          "name_local": "Beg + Beg Dalam Hobo Kertas DuPont"
+        },
+        {
+          "name_cn": "包包+肩托+杜邦纸hobo内胆包",
+          "name_local": "Beg + Pelindung Bahu + Beg Dalam Hobo Kertas DuPont"
+        }
+      ],
+      "cta": "Dapatkan segera! Stok terhad, jangan lepaskan!",
+      "price_local": 3.9,
+      "currency": "MYR",
+      "exchange_rate": 0.63,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:23"
+    },
+    "ID": {
+      "title": "Tas Kulit Asli Sapi Premium Hobo Croco Embossed - Set Tas Selempang Wanita Mewah",
+      "description": "Tampil stylish dengan tas kulit sapi asli import yang super lembut dan elegan. Cocok untuk hangout, kerja, atau acara spesial. Dengan desain hobo klasik yang timeless, tas ini memberikan kesan mewah dan percaya diri. Set lengkap dengan shoulder strap dan inner bag, bikin kamu tampil beda setiap hari!",
+      "keywords": [
+        "tas kulit asli",
+        "tas hobo",
+        "tas wanita premium",
+        "tas selempang import",
+        "tas kerja wanita"
+      ],
+      "selling_points": [
+        "Kulit sapi asli import dengan tekstur croco embossed yang mewah dan tahan lama",
+        "Desain hobo klasik yang timeless, cocok untuk berbagai gaya dan acara",
+        "Paket lengkap: tas utama + shoulder strap + inner bag (organizer)",
+        "Kapasitas besar, muat HP, dompet, makeup, dan barang penting lainnya"
+      ],
+      "hashtags": [
+        "#Tasimport",
+        "#TasKulitAsli",
+        "#OOTDindonesia",
+        "#TasWanita",
+        "#FashionJakarta"
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "Tas Saja"
+        },
+        {
+          "name_cn": "包包+肩托",
+          "name_local": "Tas + Shoulder Strap"
+        },
+        {
+          "name_cn": "包包+杜邦纸hobo内胆包",
+          "name_local": "Tas + Inner Bag (Tyvek Hobo)"
+        },
+        {
+          "name_cn": "包包+肩托+杜邦纸hobo内胆包",
+          "name_local": "Tas + Shoulder Strap + Inner Bag"
+        }
+      ],
+      "cta": "Stok terbatas! Borong sekarang sebelum kehabisan!",
+      "price_local": 5000.0,
+      "currency": "IDR",
+      "exchange_rate": 2200.0,
+      "markup": 3.8,
+      "generated_at": "2026-05-30T14:12:23"
+    },
+    "PH": {
+      "title": "Grab this Authentic Cow Leather Hobo Bag & Pouch Set! Sulit na Deal",
+      "description": "Level up your everyday style with this genuine cow leather hoboho bag and matching pouch! Perfect for work, school, or gala with friends. The soft pebbled leather and spacious design let you carry all your essentials in style. Comes with an optional inner organizer to keep things tidy. Grabe, ang ganda at ang tibay pa! Sulit na sulit ang bawat piso mo.",
+      "keywords": [
+        "hobo bag",
+        "leather bag",
+        "shoulder bag",
+        "Filipina fashion"
+      ],
+      "selling_points": [
+        "Genuine cow leather – soft, durable, and ages beautifully",
+        "Versatile design: wear as hobo or shoulder bag, with matching pouch",
+        "Optional inner organizer keeps your stuff neat and easy to find"
+      ],
+      "hashtags": [
+        "#HoboBagPH",
+        ""
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "Bag Only"
+        },
+        {
+          "name_cn": "包包+肩托",
+          "name_local": "Bag + Shoulder Pad"
+        },
+        {
+          "name_cn": "包包+杜邦纸hobo内胆包",
+          "name_local": "Bag + Dupont Paper Hobo Inner Bag"
+        },
+        {
+          "name_cn": "包包+肩托+杜邦纸hobo内胆包",
+          "name_local": "Bag + Shoulder Pad + Dupont Inner Bag"
+        }
+      ],
+      "cta": "Order now before mawala! Limited stock!",
+      "price_local": 29.0,
+      "currency": "PHP",
+      "exchange_rate": 8.0,
+      "markup": 3.2,
+      "generated_at": "2026-05-30T14:12:23"
+    },
+    "SG": {
+      "title": "Premium Calfskin Hobo Bag Set: Chic & Versatile for SG Girls",
+      "description": "Elevate your daily style with this buttery-soft calfskin hobo bag, featuring a detachable inner pouch for easy organization. Perfect for work, brunch dates, or shopping sprees at Orchard Road. The classic grain texture adds sophistication without trying too hard. Lightweight and compact, this 2-in-1 set lets you switch from crossbody to clutch in seconds. A must-have for the modern woman who values both fashion and function. Grab yours now and slay every outfit!",
+      "keywords": [
+        "calfskin hobo bag",
+        "Singapore designer bag",
+        "2-in-1 handbag set",
+        "leather shoulder bag",
+        "ladies crossbody bag"
+      ],
+      "selling_points": [
+        "Genuine calfskin leather with unique grain texture, soft yet durable",
+        "Comes with detachable inner pouch for extra storage or standalone use",
+        "Lightweight design (under 300g) – easy to carry all day"
+      ],
+      "hashtags": [
+        "#HoboBagSG",
+        ""
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "Bag Only"
+        },
+        {
+          "name_cn": "包包+肩托",
+          "name_local": "Bag + Shoulder Pad"
+        },
+        {
+          "name_cn": "包包+杜邦纸hobo内胆包",
+          "name_local": "Bag + Tyvek Inner Pouch"
+        },
+        {
+          "name_cn": "包包+肩托+杜邦纸hobo内胆包",
+          "name_local": "Bag + Shoulder Pad + Tyvek Inner Pouch"
+        }
+      ],
+      "cta": "Limited stock – Grab your chic set now! ✨",
+      "price_local": 2.9,
+      "currency": "SGD",
+      "exchange_rate": 0.185,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:23"
+    },
+    "TH": {
+      "title": "กระเป๋าโฮโบหนังวัวแท้ลายเม็ดข้าวโพด หนังชั้นนำเข้านำเข้า | ใส่ได้ทั้งสะพายข้างและคล้องแขน",
+      "description": "กระเป๋าโฮโบหนังวัวแท้จากโรงงาน优米 เนื้อหนังนุ่มละมุนลายเม็ดข้าวโพดที่ดูแพงแต่ราคาจับต้องได้ เหมาะกับสาวออฟฟิศที่อยากดูดีในทุกวัน พกพาสะดวกทั้งใส่เอกสารหรือของใช้ส่วนตัว มาพร้อมสายสะพายและกระเป๋าในเพิ่มพื้นที่จัดระเบียบ รับรองว่าใช้งานคุ้มค่า!",
+      "keywords": [
+        "กระเป๋าโฮโบ",
+        "กระเป๋าหนัง",
+        "แฟชั่นสาวออฟฟิศ",
+        "สะพายข้าง"
+      ],
+      "selling_points": [
+        "หนังวัวแท้ลายเม็ดข้าวโพดนำเข้าจากยุโรป สัมผัสนุ่มทนทาน",
+        "แบบโฮโบใส่ของเยอะ สะพายทั้งคล้องแขนและสะพายไหล่",
+        "รวมเซ็ตกระเป๋าในและสายเสริม เพิ่มพื้นที่จัดระเบียบ"
+      ],
+      "hashtags": [
+        "#กระเป๋าโฮโบ",
+        "#หนังแท้",
+        "#แฟชั่นสาวออฟฟิศ",
+        "#ของมันต้องมี",
+        "#ถูกและดี"
+      ],
+      "specs": [
+        {
+          "name_cn": "单包",
+          "name_local": "กระเป๋าใบเดียว"
+        },
+        {
+          "name_cn": "包包+肩托",
+          "name_local": "กระเป๋า+สายสะพาย"
+        },
+        {
+          "name_cn": "包包+杜邦纸hobo内胆包",
+          "name_local": "กระเป๋า+กระเป๋าในวัสดุทนทาน"
+        },
+        {
+          "name_cn": "包包+肩托+杜邦纸hobo内胆包",
+          "name_local": "กระเป๋า+สายสะพาย+กระเป๋าใน"
+        }
+      ],
+      "cta": "รีบสั่งก่อนของหมด! ช้อปเลย!",
+      "price_local": 39.0,
+      "currency": "THB",
+      "exchange_rate": 5.0,
+      "markup": 3.5,
+      "generated_at": "2026-05-30T14:12:24"
+    }
+  },
+  "image_text_translations": {
+    "SG": {
+      "原创设计，拥有独立完整的生产线，均为自制生产。": "Original design, own full production line, all made in-house.",
+      "所有图片均已上传实拍保护，如有抄袭盗图自动投诉下架！": "All images are protected. Any copycats will be reported and taken down automatically!",
+      "·收到货试背请勿撕毁保护膜以及外包装如若撕毁默认为已使用，默认": "When trying on, don't remove protective film or packaging. If removed, item is considered used.",
+      "为影响二次销售，不可退换，只可维修": "Affects second-hand sale, no returns or exchanges, only repairs.",
+      "TW进口面料": "Taiwan imported fabric",
+      "区别市场LOW货": "Different from low-quality market goods",
+      "尺寸": "Size",
+      "尺寸：底长33cm宽42cm高27cm厚15cm": "Size: Base length 33cm, width 42cm, height 27cm, depth 15cm",
+      "手工测量（1-3cm）属于正常偏差": "Hand-measured, 1-3cm deviation is normal.",
+      "皮具商行（个体工商户": "Leather Goods Shop (Sole Proprietorship)",
+      "东莞市厚街优米皮具商行（个体工商户）": "Houjie Youmi Leather Goods Trading (Sole Proprietorship)",
+      "东市厚街优米皮具商行（优出商户）": "Dongshi Houjie Youmi Leather Goods (Premium Seller)",
+      "莞市厚街优水皮具商行": "Youshui Leather Goods, Houjie, Dongguan",
+      "体工商户": "Sole Proprietorship",
+      "东莞市属街优米皮具商行（个体工商户）": "Dongguan Youmi Leather Goods Store (Individual Business)",
+      "市厚街优米皮具商行（个体工商户）": "Houjie Youmi Leather Goods Trading Co. (Sole Proprietorship)",
+      "东莞市厚街优光收具商行": "Houjie Youguang Luggage Store, Dongguan",
+      "东莞市厚街优米皮具商": "Houjie Youmi Leather Goods, Dongguan",
+      "体工商": "Business License",
+      "东莞市厚街优米皮具商行（个体工商户": "Youmi Leather Goods, Houjie, Dongguan (Sole Proprietorship)",
+      "东莞市厚街优米皮县商行（个体工商户）": "Youmi Leather Goods, Houjie, Dongguan (Individual Business)",
+      "东莞市街优米皮真商行": "Dongguan Street Youmi Leather Trading Co.",
+      "东莞市厚街优米皮具商行": "Houjie Youmi Leather Goods Trading Co.",
+      "商户": "merchant",
+      "市厚街优米皮具商行6个体工商户": "Houjie Youmi Leather Goods Trading Co., 6 Individual Business",
+      "莞市厚街优米皮具": "Houjie Youmi Leather Goods",
+      "东莞市摩街优米及有": "Dongguan MoJie YouMi & You",
+      "个体工商户": "Sole Proprietor"
+    },
+    "TH": {
+      "原创设计，拥有独立完整的生产线，均为自制生产。": "ออกแบบเอง มีสายการผลิตครบวงจร ผลิตเองทั้งหมด",
+      "所有图片均已上传实拍保护，如有抄袭盗图自动投诉下架！": "รูปทั้งหมดถ่ายจริง มีระบบป้องกัน หากลอกเลียนแบบจะแจ้งลบทันที",
+      "·收到货试背请勿撕毁保护膜以及外包装如若撕毁默认为已使用，默认": "เมื่อได้รับสินค้า ห้ามแกะฟิล์มกันรอยหรือบรรจุภัณฑ์ หากแกะแล้วถือว่าใช้งานแล้ว",
+      "为影响二次销售，不可退换，只可维修": "ไม่สามารถคืนหรือเปลี่ยนได้เนื่องจากกระทบการขายต่อ สามารถซ่อมได้เท่านั้น",
+      "TW进口面料": "ผ้านำเข้าจากไต้หวัน",
+      "区别市场LOW货": "แตกต่างจากของถูกในตลาด",
+      "尺寸": "ขนาด",
+      "尺寸：底长33cm宽42cm高27cm厚15cm": "ขนาด: ยาว 33 ซม. กว้าง 42 ซม. สูง 27 ซม. หนา 15 ซม.",
+      "手工测量（1-3cm）属于正常偏差": "วัดด้วยมือ (คลาดเคลื่อน 1-3 ซม.) ถือว่าปกติ",
+      "皮具商行（个体工商户": "ร้านเครื่องหนัง (ผู้ประกอบการรายบุคคล)",
+      "东莞市厚街优米皮具商行（个体工商户）": "ร้านขายกระเป๋าหนัง Youmi ถนนโฮ่วเจีย ตงก่วน (ผู้ประกอบการรายบุคคล)",
+      "东市厚街优米皮具商行（优出商户）": "ร้านเครื่องหนัง Yumi ถนนโฮ่วเจีย ตลาดตะวันออก (ร้านค้าคุณภาพสูง)",
+      "莞市厚街优水皮具商行": "ร้านขายกระเป๋าหนังยูซุย ถนนโฮ่วเจีย เมืองกวน",
+      "体工商户": "ผู้ประกอบการรายย่อย",
+      "东莞市属街优米皮具商行（个体工商户）": "ร้านขายเครื่องหนัง Youmi ถนน Shu จังหวัดตงก่วน (ผู้ประกอบการรายบุคคล)",
+      "市厚街优米皮具商行（个体工商户）": "ร้านขายเครื่องหนัง Youmi ถนนโฮ่วเจีย (ผู้ประกอบการรายบุคคล)",
+      "东莞市厚街优光收具商行": "ร้านค้า Youguang อำเภอโฮ่วเจีย เมืองตงก่วน",
+      "东莞市厚街优米皮具商": "ร้านกระเป๋าหนัง Yumi ถนนโฮ่วเจีย ตงก่วน",
+      "体工商": "ผู้ประกอบการรายย่อย",
+      "东莞市厚街优米皮具商行（个体工商户": "ร้านขายกระเป๋าหนัง Yumi ถนนโฮ่วเจีย ตงก่วน (ผู้ประกอบการรายบุคคล)",
+      "东莞市厚街优米皮县商行（个体工商户）": "ร้านค้าบุคคลธรรมดา หยูหมีผิวหนัง อำเภอโฮ่วเจีย เมืองตงก่วน",
+      "东莞市街优米皮真商行": "ร้านค้าถนนตงก่วนยูมิพีเจิ้น",
+      "东莞市厚街优米皮具商行": "ร้านขายกระเป๋าหนัง Yumi ถนนโฮ่วเจีย ตงก่วน",
+      "商户": "ร้านค้า",
+      "市厚街优米皮具商行6个体工商户": "ร้านขายกระเป๋าหนังยูมี่ ถนนโฮ่วเจีย (ผู้ประกอบการรายบุคคล)",
+      "莞市厚街优米皮具": "กระเป๋าหนัง Yumi จาก Houjie",
+      "东莞市摩街优米及有": "ตงก่วน โมเจ ยูมิ และ หยู",
+      "个体工商户": "ผู้ประกอบการรายบุคคล"
+    },
+    "MY": {
+      "原创设计，拥有独立完整的生产线，均为自制生产。": "Reka bentuk asli, ada barisan pengeluaran sendiri yang lengkap, semua dibuat sendiri.",
+      "所有图片均已上传实拍保护，如有抄袭盗图自动投诉下架！": "Semua gambar sudah dilindungi hak cipta. Kalau ada yang curi, auto report dan padam!",
+      "·收到货试背请勿撕毁保护膜以及外包装如若撕毁默认为已使用，默认": "Bila terima barang, jangan koyak pelindung dan bungkusan. Kalau koyak, dianggap sudah guna.",
+      "为影响二次销售，不可退换，只可维修": "Ini akan jejak jualan semula, jadi tak boleh tukar balik, hanya boleh baiki.",
+      "TW进口面料": "Kain import dari Taiwan",
+      "区别市场LOW货": "Berbeza dengan barang murah di pasaran",
+      "尺寸": "Saiz",
+      "尺寸：底长33cm宽42cm高27cm厚15cm": "Saiz: panjang bawah 33cm, lebar 42cm, tinggi 27cm, tebal 15cm",
+      "手工测量（1-3cm）属于正常偏差": "Ukur manual (1-3cm) adalah normal.",
+      "皮具商行（个体工商户": "Kedai Barangan Kulit (Perniagaan Individu)",
+      "东莞市厚街优米皮具商行（个体工商户）": "Kedai Barang Kulit Youmi Houjie, Dongguan (Perniagaan Individu)",
+      "东市厚街优米皮具商行（优出商户）": "Kedai Kulit Youmi, Houjie, Pasar Timur (Penjual Unggul)",
+      "莞市厚街优水皮具商行": "Kedai Barangan Kulit Youshui, Houjie, Dongguan",
+      "体工商户": "Perniagaan Individu",
+      "东莞市属街优米皮具商行（个体工商户）": "Kedai Barangan Kulit Youmi, Jalan Shuyue, Dongguan (Perniagaan Individu)",
+      "市厚街优米皮具商行（个体工商户）": "Kedai Barangan Kulit Youmi Houjie (Perniagaan Individu)",
+      "东莞市厚街优光收具商行": "Kedai Alat Tulis Youguang Houjie Dongguan",
+      "东莞市厚街优米皮具商": "Pemborong Kulit Youmi Houjie Dongguan",
+      "体工商": "Perniagaan Individu",
+      "东莞市厚街优米皮具商行（个体工商户": "Kedai Kulit Youmi Houjie Dongguan (Perniagaan Individu)",
+      "东莞市厚街优米皮县商行（个体工商户）": "Kedai Kulit Youmi Houjie Dongguan (Perniagaan Individu)",
+      "东莞市街优米皮真商行": "Kedai Kulit Tulen Youmi Jalan Dongguan",
+      "东莞市厚街优米皮具商行": "Kedai Barang Kulit Youmi Houjie Dongguan",
+      "商户": "peniaga",
+      "市厚街优米皮具商行6个体工商户": "Kedai Barangan Kulit Youmi Houjie 6 - Perniagaan Individu",
+      "莞市厚街优米皮具": "Kulit Umi, Houjie, Dongguan",
+      "东莞市摩街优米及有": "Dongguan Mo Jie You Mi Ji You",
+      "个体工商户": "Peniaga Individu"
+    },
+    "ID": {
+      "原创设计，拥有独立完整的生产线，均为自制生产。": "Desain original, punya jalur produksi sendiri, semua produksi sendiri.",
+      "所有图片均已上传实拍保护，如有抄袭盗图自动投诉下架！": "Semua foto asli dan sudah dilindungi, kalau ada yang meniru akan otomatis dilaporkan dan dihapus!",
+      "·收到货试背请勿撕毁保护膜以及外包装如若撕毁默认为已使用，默认": "·Pas terima barang, jangan sobek plastik pelindung atau kemasan, kalau sudah disobek dianggap sudah dipakai, default",
+      "为影响二次销售，不可退换，只可维修": "Karena mempengaruhi penjualan ulang, tidak bisa retur atau tukar, hanya bisa diperbaiki",
+      "TW进口面料": "Kain impor dari Taiwan",
+      "区别市场LOW货": "Beda dengan barang murahan di pasaran",
+      "尺寸": "Ukuran",
+      "尺寸：底长33cm宽42cm高27cm厚15cm": "Ukuran: panjang bawah 33cm, lebar 42cm, tinggi 27cm, tebal 15cm",
+      "手工测量（1-3cm）属于正常偏差": "Ukuran manual, selisih 1-3cm adalah wajar",
+      "皮具商行（个体工商户": "Toko Kulit (Perorangan)",
+      "东莞市厚街优米皮具商行（个体工商户）": "Toko Kulit Youmi Houjie Dongguan (Perorangan)",
+      "东市厚街优米皮具商行（优出商户）": "Toko Kulit Youmi di Jalan Tebet Timur (Merchant Unggulan)",
+      "莞市厚街优水皮具商行": "Toko Kulit Youshui Houjie Dongguan",
+      "体工商户": "Pedagang Perorangan",
+      "东莞市属街优米皮具商行（个体工商户）": "Toko Kulit Youmi, Jalan Dongguan (Perorangan)",
+      "市厚街优米皮具商行（个体工商户）": "Toko Kulit Youmi Houjie (Usaha Perorangan)",
+      "东莞市厚街优光收具商行": "Toko Peralatan Youguang Houjie Dongguan",
+      "东莞市厚街优米皮具商": "Toko Kulit Youmi Houjie Dongguan",
+      "体工商": "Badan Usaha",
+      "东莞市厚街优米皮具商行（个体工商户": "Toko Kulit Youmi Houjie Dongguan (Perorangan)",
+      "东莞市厚街优米皮县商行（个体工商户）": "Toko Kulit Youmi Houjie, Dongguan (Perorangan)",
+      "东莞市街优米皮真商行": "Toko Kulit Asli Youmi, Jalan Dongguan",
+      "东莞市厚街优米皮具商行": "Toko Kulit Youmi Houjie Dongguan",
+      "商户": "Pedagang",
+      "市厚街优米皮具商行6个体工商户": "Toko Kulit Youmi di Houjie, Pedagang Individu",
+      "莞市厚街优米皮具": "Tas Kulit Youmi dari Houjie, Dongguan",
+      "东莞市摩街优米及有": "Dongguan Mo Jie You Mi Ji You",
+      "个体工商户": "Usaha Dagang Perorangan"
+    },
+    "PH": {
+      "原创设计，拥有独立完整的生产线，均为自制生产。": "Original design, with own complete production line, all self-made.",
+      "所有图片均已上传实拍保护，如有抄袭盗图自动投诉下架！": "All photos are original and protected. Any copy or theft will be automatically reported and taken down!",
+      "·收到货试背请勿撕毁保护膜以及外包装如若撕毁默认为已使用，默认": "When trying on, do not remove protective film or outer packaging. If removed, item is considered used.",
+      "为影响二次销售，不可退换，只可维修": "Affects resale value, no returns or exchanges, repair only.",
+      "TW进口面料": "Imported fabric from Taiwan",
+      "区别市场LOW货": "Different from low-quality market goods",
+      "尺寸": "Size",
+      "尺寸：底长33cm宽42cm高27cm厚15cm": "Size: Bottom length 33cm, width 42cm, height 27cm, thickness 15cm",
+      "手工测量（1-3cm）属于正常偏差": "Hand-measured, 1-3cm deviation is normal.",
+      "皮具商行（个体工商户": "Leather Goods Store (Sole Proprietorship)",
+      "东莞市厚街优米皮具商行（个体工商户）": "Youmi Leather Goods Store, Houjie, Dongguan (Individual Business)",
+      "东市厚街优米皮具商行（优出商户）": "Dongshi Houjie Youmi Leather Goods Trading (Top Merchant)",
+      "莞市厚街优水皮具商行": "Youshui Leather Goods Store, Houjie, Dongguan",
+      "体工商户": "Sole Proprietorship",
+      "东莞市属街优米皮具商行（个体工商户）": "Youmi Leather Goods Store, Dongguan City (Individual Business)",
+      "市厚街优米皮具商行（个体工商户）": "Youmi Leather Goods Trading Company (Individual Business)",
+      "东莞市厚街优光收具商行": "Youguang Luggage Store, Houjie, Dongguan",
+      "东莞市厚街优米皮具商": "Youmi Leather Goods, Houjie, Dongguan",
+      "体工商": "Business License",
+      "东莞市厚街优米皮具商行（个体工商户": "Youmi Leather Goods Store, Houjie, Dongguan (Individual Business)",
+      "东莞市厚街优米皮县商行（个体工商户）": "Youmi Leather Goods Store, Houjie, Dongguan (Individual Business)",
+      "东莞市街优米皮真商行": "Dongguan Jie Youmi Pi Zhen Trading",
+      "东莞市厚街优米皮具商行": "Youmi Leather Goods, Houjie, Dongguan",
+      "商户": "shop",
+      "市厚街优米皮具商行6个体工商户": "UMI Leather Goods Store 6, Houjie City, Individual Business",
+      "莞市厚街优米皮具": "Yumi Leather from Houjie, Dongguan",
+      "东莞市摩街优米及有": "Dongguan MoJie YouMi at You",
+      "个体工商户": "Sole proprietor"
+    }
+  }
+}

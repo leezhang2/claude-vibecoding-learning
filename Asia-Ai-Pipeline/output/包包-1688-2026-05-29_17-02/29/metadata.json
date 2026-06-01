@@ -1,0 +1,359 @@
+{
+  "item_no": 29,
+  "keyword": "包包",
+  "title_cn": "新款日系饺子包ins女休闲百搭少女斜挎包纯色上课通勤单肩包学生",
+  "price_cny": 0.0,
+  "shop_name": "定兴县荣巨箱包厂",
+  "item_link": "http://detail.m.1688.com/page/index.html?offerId=937363904281&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=d41cb76b4ff54a6e85177b6c01b7fa9a&skuId=5830162869783",
+  "shop_link": "http://shop188hwe1201566.1688.com/",
+  "specs": [
+    {
+      "name": "黄色单包",
+      "price_cny": 9.0,
+      "image_path": "商品规格/黄色单包——9.00/001.jpg"
+    },
+    {
+      "name": "米白色单包",
+      "price_cny": 9.0,
+      "image_path": "商品规格/米白色单包——9.00/001.jpg"
+    },
+    {
+      "name": "黑色单包",
+      "price_cny": 9.0,
+      "image_path": "商品规格/黑色单包——9.00/001.jpg"
+    }
+  ],
+  "detail_images": [
+    "商品详情图片/001.jpg",
+    "商品详情图片/002.jpg",
+    "商品详情图片/003.jpg",
+    "商品详情图片/004.jpg",
+    "商品详情图片/005.jpg",
+    "商品详情图片/006.jpg",
+    "商品详情图片/007.jpg",
+    "商品详情图片/008.jpg",
+    "商品详情图片/009.jpg",
+    "商品详情图片/010.jpg",
+    "商品详情图片/011.jpg",
+    "商品详情图片/012.jpg"
+  ],
+  "scraped_at": "2026-05-29T17:31:51",
+  "status": "images_processed",
+  "folder_path": "D:\\demo\\llm-learning\\claude-vibecoding-learning\\Asia-Ai-Pipeline\\output\\包包-1688-2026-05-29_17-02\\29",
+  "localization": {
+    "PH": {
+      "title": "Chic Dumpling Bag - Perfect for School & Daily Commute, 3 Colors",
+      "description": "Level up your everyday look with this stylish dumpling bag! Super versatile, it fits your phone, wallet, and small essentials. Perfect for students and commuters. Grabe ang cute! Available in Yellow, Cream, and Black. Grab yours now!",
+      "keywords": [
+        "dumpling bag",
+        "cute bag",
+        "school bag",
+        "shoulder bag",
+        "tote bag"
+      ],
+      "selling_points": [
+        "Lightweight and spacious - fits all your daily essentials",
+        "3 trendy colors: Yellow, Cream, and Black",
+        "Durable material perfect for everyday use",
+        "Affordable fashion staple for students and young professionals"
+      ],
+      "hashtags": [
+        "#dumplingbag",
+        "#cutebag",
+        "#schoolbag",
+        "#fashionph",
+        "#budgetfriendly"
+      ],
+      "specs": [
+        {
+          "name_cn": "黄色单包",
+          "name_local": "Yellow"
+        },
+        {
+          "name_cn": "米白色单包",
+          "name_local": "Cream"
+        },
+        {
+          "name_cn": "黑色单包",
+          "name_local": "Black"
+        }
+      ],
+      "cta": "Shop now before it sells out! 🔥",
+      "price_local": 29.0,
+      "currency": "PHP",
+      "exchange_rate": 8.0,
+      "markup": 3.2,
+      "generated_at": "2026-05-30T14:12:28"
+    },
+    "MY": {
+      "title": "Beg Sling Jepun Kasual Wanita - Beg Bahu Pelajar untuk Kuliah & Jalan-jalan",
+      "description": "Nak beg comel untuk kuliah, kerja atau jalan-jalan? Kami ada beg sling Jepun yang ringan dan praktikal! Muat tablet, dompet, dan gajet kecil. Sesuai dipakai harian, gaya minimalis dan padan dengan apa-apa outfit. Siapa kata beg murah tak cantik? Grab sekarang sebelum habis!",
+      "keywords": [
+        "beg sling wanita",
+        "beg bahu pelajar",
+        "beg jepun murah",
+        "beg kasual malaysia"
+      ],
+      "selling_points": [
+        "Muatan luas - muat tablet, dompet, dan power bank",
+        "Ringan dan tahan lasak - sesuai untuk kegunaan harian",
+        "Gaya minimalis - padan dengan baju kurung, jeans, atau tudung",
+        "3 pilihan warna - hitam, putih, kuning, ikut personaliti anda"
+      ],
+      "hashtags": [
+        "#BegMurahMY",
+        "#BegSlingKorea",
+        "#FashionHijab",
+        "#BackToSchool",
+        "#BegKasual"
+      ],
+      "specs": [
+        {
+          "name_cn": "黄色单包",
+          "name_local": "Kuning - Beg Tunggal"
+        },
+        {
+          "name_cn": "米白色单包",
+          "name_local": "Putih Susu - Beg Tunggal"
+        },
+        {
+          "name_cn": "黑色单包",
+          "name_local": "Hitam - Beg Tunggal"
+        }
+      ],
+      "cta": "Jom beli sekarang! Stok terhad, cepat!",
+      "price_local": 3.9,
+      "currency": "MYR",
+      "exchange_rate": 0.63,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:29"
+    },
+    "SG": {
+      "title": "Vintage Japanese-Style Dumpling Crossbody Bag for Women | Casual Beige, Black, Yellow Shoulder Bag for School, Work & Daily Use",
+      "description": "Elevate your everyday style with this charming Japanese-inspired dumpling bag! Featuring a soft minimalist design and versatile solid colors, it's the perfect accessory for school, office commutes, or weekend outings. Lightweight yet spacious enough for essentials, it adds a touch of effortless chic to any outfit. Grab yours now and embrace the trend with a smile! 😊",
+      "keywords": [
+        "japanese dumpling bag",
+        "crossbody bag for women",
+        "casual shoulder bag",
+        "minimalist handbag",
+        "Singapore daily bag"
+      ],
+      "selling_points": [
+        "Spacious enough for a wallet, phone, and makeup pouch without being bulky",
+        "Available in 3 versatile colors (yellow, beige, black) to match any wardrobe",
+        "Lightweight and comfortable for all-day wear, perfect for commuting or traveling"
+      ],
+      "hashtags": [
+        "#DumplingBag",
+        ""
+      ],
+      "specs": [
+        {
+          "name_cn": "黄色单包",
+          "name_local": "Yellow Single Bag"
+        },
+        {
+          "name_cn": "米白色单包",
+          "name_local": "Beige Single Bag"
+        },
+        {
+          "name_cn": "黑色单包",
+          "name_local": "Black Single Bag"
+        }
+      ],
+      "cta": "Snag yours before they sell out! Limited stock!",
+      "price_local": 2.9,
+      "currency": "SGD",
+      "exchange_rate": 0.185,
+      "markup": 3.0,
+      "generated_at": "2026-05-30T14:12:28"
+    },
+    "ID": {
+      "title": "Tas Selempang Wanita Jepang Korean Style - Tas Santai untuk Kuliah & Kerja",
+      "description": "Tas selempang imut ala Jepang yang pas banget buat kamu yang suka tampil simpel dan stylish. Cocok dipakai sehari-hari, ke kampus, atau kerja. Dengan desain polos yang elegan, tas ini bisa dipadukan dengan berbagai outfit. Ringan dan praktis, muat untuk handphone, dompet, dan essentials lainnya. Dapatkan sekarang juga, jangan sampai kehabisan!",
+      "keywords": [
+        "tas selempang wanita",
+        "tas jepang",
+        "tas kuliah",
+        "tas kerja",
+        "tas casual"
+      ],
+      "selling_points": [
+        "Desain simpel dan imut dengan pilihan warna pastel yang kekinian",
+        "Cocok untuk berbagai aktivitas: kuliah, kerja, atau hangout",
+        "Ringan dan praktis, muat untuk barang-barang kecil sehari-hari"
+      ],
+      "hashtags": [
+        "#TasSelempang",
+        "#TasKorea",
+        "#TasCasual",
+        "#FashionIndonesia",
+        "#OOTD"
+      ],
+      "specs": [
+        {
+          "name_cn": "黄色单包",
+          "name_local": "Kuning"
+        },
+        {
+          "name_cn": "米白色单包",
+          "name_local": "Putih Gading"
+        },
+        {
+          "name_cn": "黑色单包",
+          "name_local": "Hitam"
+        }
+      ],
+      "cta": "Jangan kehabisan, pesan sekarang! Stok terbatas!",
+      "price_local": 5000.0,
+      "currency": "IDR",
+      "exchange_rate": 2200.0,
+      "markup": 3.8,
+      "generated_at": "2026-05-30T14:12:29"
+    },
+    "TH": {
+      "title": "กระเป๋าสะพายข้างทรงเกี๊ยวสไตล์เกาหลี เรียบหรู ใส่ได้ทุกวัน คละสี",
+      "description": "กระเป๋าสะพายข้างทรงเกี๊ยวน่ารัก ๆ สไตล์เกาหลี มาพร้อมดีไซน์เรียบหรู ใส่ได้ทั้งไปเรียน ไปทำงาน หรือออกเดท เนื้อผ้าคุณภาพดี น้ำหนักเบา สีสันนุ่มละมุน มีให้เลือกทั้งสีเหลือง สีขาว และสีดำ ใบเดียวก็สะพายปัง แต่งตัวง่ายทุกสไตล์ คุ้มค่าที่ต้องมีติดตู้!",
+      "keywords": [
+        "กระเป๋าสะพายข้าง",
+        "กระเป๋าทรงเกี๊ยว",
+        "กระเป๋าเกาหลี",
+        "กระเป๋านักเรียน"
+      ],
+      "selling_points": [
+        "ดีไซน์เกาหลีสุดฮิต ใส่แล้วเก๋ทุกวัน",
+        "น้ำหนักเบา พกพาสะดวก เหมาะกับการใช้ชีวิตประจำวัน",
+        "สีสันนุ่มนวล 3 สีให้เลือก แมทช์ง่ายกับทุกชุด"
+      ],
+      "hashtags": [
+        "#กระเป๋าสะพายข้าง",
+        "#กระเป๋าเกาหลี",
+        "#กระเป๋าน่ารัก",
+        "#ของถูกดี",
+        "#TikTokซื้อปุ๊บปั๊บ"
+      ],
+      "specs": [
+        {
+          "name_cn": "黄色单包",
+          "name_local": "สีเหลือง 1 ใบ"
+        },
+        {
+          "name_cn": "米白色单包",
+          "name_local": "สีขาวครีม 1 ใบ"
+        },
+        {
+          "name_cn": "黑色单包",
+          "name_local": "สีดำ 1 ใบ"
+        }
+      ],
+      "cta": "รีบสั่งก่อนของหมด! คลิกเลย!",
+      "price_local": 39.0,
+      "currency": "THB",
+      "exchange_rate": 5.0,
+      "markup": 3.5,
+      "generated_at": "2026-05-30T14:12:29"
+    }
+  },
+  "image_text_translations": {
+    "SG": {
+      "银河访客": "Galaxy Visitor",
+      "银河市客": "Galaxy City Guest",
+      "简约百搭饺子包": "Simple versatile dumpling bag",
+      "日常很爱背": "Love wearing it daily",
+      "上身好看": "Looks good on",
+      "尺寸：高24cm下宽26cm侧厚5cm": "Size: H24cm W26cm D5cm",
+      "（手工测量存在误差）": "(Manual measurement may have slight errors)",
+      "能放下三折伞水杯、B5本子": "Fits small umbrella, water bottle, B5 notebook",
+      "好看": "Nice",
+      "银河仿客": "Galaxy Imitation",
+      "麦穗拉头设计~": "Wheat ear zipper pull design~",
+      "侧边拉链小口袋": "Side zip pocket",
+      "能放下比A4小的课本、B5三折伞等~": "Fits A4-sized textbooks, B5 triple-fold umbrellas, etc.",
+      "防泼水面料~": "Water-resistant fabric~",
+      "背面": "Back side",
+      "肩带可调节": "Adjustable straps",
+      "百搭不挑人": "Suitable for everyone",
+      "?好看": "Nice?"
+    },
+    "TH": {
+      "银河访客": "แขกจากกาแล็กซี่",
+      "银河市客": "กาแล็กซี่ช้อปปิ้ง",
+      "简约百搭饺子包": "กระเป๋าทรงเกี๊ยวเรียบง่าย ใส่ได้ทุกวัน",
+      "日常很爱背": "ชอบใส่ทุกวัน",
+      "上身好看": "ใส่แล้วสวย",
+      "尺寸：高24cm下宽26cm侧厚5cm": "ขนาด: สูง24ซม. กว้าง26ซม. หนา5ซม.",
+      "（手工测量存在误差）": "(อาจคลาดเคลื่อนจากการวัดด้วยมือ)",
+      "能放下三折伞水杯": "ใส่ร่มพับได้และแก้วน้ำ",
+      "B5本子": "สมุดB5",
+      "?好看": "สวยมั้ย",
+      "银河仿客": "ของเลียนแบบกาแล็กซี่",
+      "麦穗拉头设计~": "ดีไซน์หัวซิปรวงข้าว~",
+      "侧边拉链小口袋": "กระเป๋าเล็กซิปข้าง",
+      "能放下比A4小的课本、B5三折伞等~": "ใส่สมุดที่เล็กกว่า A4, ร่มพับ B5 ได้นะ~",
+      "防泼水面料~": "ผ้ากันน้ำ~",
+      "背面": "ด้านหลัง",
+      "肩带可调节": "สายสะพายปรับได้",
+      "百搭不挑人": "เข้ากับทุกคน ไม่เลือกคน"
+    },
+    "MY": {
+      "银河访客": "Pelawat Galaksi",
+      "银河市客": "Pelanggan Galaksi",
+      "简约百搭饺子包": "Beg dumpling minimalis serasi",
+      "日常很爱背": "Suka pakai setiap hari",
+      "上身好看": "Cantik dipakai",
+      "尺寸：高24cm下宽26cm侧厚5cm": "Saiz: Tinggi 24cm Lebar 26cm Tebal 5cm",
+      "（手工测量存在误差）": "(Ukuran manual mungkin ada ralat)",
+      "能放下三折伞水杯": "Muati payung lipat 3, botol air",
+      "B5本子": "Buku nota B5",
+      "?好看": "Cantik?",
+      "银河仿客": "Tiruan Galaxy",
+      "麦穗拉头设计~": "Reka bentuk tarik telinga gandum~",
+      "侧边拉链小口袋": "Poket kecil zip tepi",
+      "能放下比A4小的课本、B5三折伞等~": "Muat buku teks lebih kecil dari A4, payung lipat B5 dan lain-lain~",
+      "防泼水面料~": "Kain kalis air~",
+      "背面": "Bahagian belakang",
+      "肩带可调节": "Tali bahu boleh laras",
+      "百搭不挑人": "Cocok untuk semua orang"
+    },
+    "ID": {
+      "银河访客": "Tamu Galaksi",
+      "银河市客": "Tamu Galaksi",
+      "简约百搭饺子包": "Tas dumpling simpel dan serbaguna",
+      "日常很爱背": "Suka banget dipake sehari-hari",
+      "上身好看": "Keren dipake",
+      "尺寸：高24cm下宽26cm侧厚5cm": "Ukuran: tinggi 24cm, lebar bawah 26cm, tebal samping 5cm",
+      "（手工测量存在误差）": "(Ukuran manual, mungkin ada selisih)",
+      "能放下三折伞水杯": "Muatt payung lipat 3, botol minum",
+      "B5本子": "Buku B5",
+      "好看": "Cantik",
+      "银河仿客": "Tiruan Galaksi",
+      "麦穗拉头设计~": "Desain kepala ritsleting seperti bulir gandum~",
+      "侧边拉链小口袋": "Saku kecil samping dengan ritsleting",
+      "能放下比A4小的课本、B5三折伞等~": "Bisa muat buku lebih kecil dari A4, payung lipat B5, dll~",
+      "防泼水面料~": "Bahan anti air~",
+      "背面": "Bagian belakang",
+      "肩带可调节": "Tali bahu bisa diatur",
+      "百搭不挑人": "Cocok untuk semua orang",
+      "?好看": "Cantik?"
+    },
+    "PH": {
+      "银河访客": "Galaxy Visitor",
+      "银河市客": "Galaxy City Guest",
+      "简约百搭饺子包": "Simple versatile dumpling bag",
+      "日常很爱背": "Perfect for everyday use",
+      "上身好看": "Looks great on",
+      "尺寸：高24cm下宽26cm侧厚5cm": "Size: H24cm W26cm D5cm",
+      "（手工测量存在误差）": "(Manual measurement may have slight errors)",
+      "能放下三折伞水杯、B5本子": "Kasya ang triple-fold umbrella, water bottle, at B5 notebook",
+      "?好看": "Maganda ba?",
+      "银河仿客": "Galaxy copy",
+      "麦穗拉头设计~": "Ear of wheat zipper pull design~",
+      "侧边拉链小口袋": "Maliit na bulsa na may zipper sa gilid",
+      "能放下比A4小的课本、B5三折伞等~": "Kasya ang mga libro na mas maliit sa A4, B5 triple-fold umbrella, atbp.",
+      "防泼水面料~": "Water-resistant fabric~",
+      "背面": "Likod",
+      "肩带可调节": "Adjustable strap",
+      "百搭不挑人": "Bagay sa lahat, hindi pumipili ng tao"
+    }
+  }
+}
